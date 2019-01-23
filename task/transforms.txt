@@ -1,0 +1,8 @@
+Transformed-Images/Original-Tools/
+Transformed-Images/BW-Tools/
+Transformed-Images/Charcol-Tools/
+Transformed-Images/Edge-Tools/
+Transformed-Images/Edge-White-Tools/
+Transformed-Images/Implode-Tools/
+Transformed-Images/Sketch-Tools/
+Transformed-Images/Wave-Tools/

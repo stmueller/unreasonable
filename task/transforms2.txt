@@ -1,0 +1,6 @@
+../imagery/Transformed-Images/Original-Tools/
+../imagery/Transformed-Images/Frame-Nature/
+../imagery/Transformed-Images/Shear-Tools/
+../imagery/Transformed-Images/Splice/
+../imagery/Transformed-Images/Blur-Tools/
+../imagery/Transformed-Images/Edge-Tools/

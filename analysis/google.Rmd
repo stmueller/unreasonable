@@ -1,0 +1,147 @@
+---
+title: "Analysis of google image classification results"
+author: "Shane T. Mueller shanem@mtu.edu"
+date: "September 28, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RColorBrewer)
+library(readxl)
+palette(brewer.pal(8,"Dark2"))
+
+files <-paste("../Model_data/google/CSVs/", c("ImageLabels_Blurtools.xlsx",   
+                                "ImageLabels_MaskingTools.xlsx",
+"ImageLabels_BWTools.xlsx",         "ImageLabels_OriginalTools.xlsx",
+"ImageLabels_CharcolTools.xlsx",    "ImageLabels_RainbowTools.xlsx",
+#"ImageLabels_EdgeCases.xlsx",      
+"ImageLabels_Resize.xlsx",
+"ImageLabels_EdgeTools.xlsx",       "ImageLabels_RollTools.xlsx",
+"ImageLabels_EdgeWhiteTools.xlsx",  "ImageLabels_Rotation.xlsx",
+"ImageLabels_FrameBlue.xlsx",       "ImageLabels_ShearTools.xlsx",
+"ImageLabels_FrameLeaves.xlsx",     "ImageLabels_SketchTools.xlsx",
+"ImageLabels_FrameNature.xlsx",     "ImageLabels_Splice.xlsx",
+"ImageLabels_FrameWood.xlsx",       #"ImageLabels_Testset.xlsx",
+"ImageLabels_ImplodeTools.xlsx",    "ImageLabels_WaveTools.xlsx"),sep="")
+
+alldat <- NULL
+for(file in files)
+{
+  tmp <-  as.data.frame(read_excel(file))
+  tr1 <- strsplit(file,"_")[[1]][[2]]
+  tr2 <- substr(tr1,1,nchar(tr1)-5)
+  tmp$transform <- tr2
+  alldat <- rbind(alldat,tmp)
+}
+colnames(alldat) <- c("num","baseimg","Name","Confidence","transformation")
+data <- alldat
+```
+
+
+```{r}
+answertable <- cbind(c("AXE","AXE",
+                       "FLASH","FLASH","FLASH",
+                       "HAMMER",
+                       "PLIER","PLIER","PLIER",
+                       "SAW","SAW",
+                       "SCISSOR","SCISSOR","SCISSOR",
+                       "SCREW",
+                       "SHOVEL","SHOVEL","SHOVEL",
+                       "TAPE","TAPE","TAPE",
+                       "WRENCH","WRENCH","ADJUSTABLE WRENCH"),
+                     c("AXE","AX",
+                       "FLASHLIGHT","TORCH","LIGHT",
+                       "HAMMER",
+                       "PLIER","PLIERS","PAIR OF PLIERS",
+                       "SAW","PRUNING SAW",
+                       "SCISSORS","PAIR OF SCISSORS","THINNING SHEARS",
+                       "SCREWDRIVER",
+                       "SHOVEL","HAND SHOVEL","TROWEL",
+                       "TAPE MEASURE","MEASURING TAPE","MEASURING INSTRUMENT",
+                       "WRENCH","SPANNER","ADJUSTABLE WRENCH"))
+
+upperCase <- function(letter){casefold(letter,upper=T)}
+
+#data$transformation <- as.factor(sapply(data$Image_name,function(x){strsplit(as.character(x),"/")[[1]][[1]]}))
+
+#data$baseimg <- (sapply(data$Image_name,function(x){upperCase(strsplit(as.character(x),"/")[[1]][[2]])}))
+
+##This isn't really the best answer...we nee to score it from a set of answers.
+data$bestanswer <- substr(data$baseimg,1,nchar(data$baseimg)-1)
+#data$baseimg <- as.factor(data$baseimg)
+data$Name <- sapply(data$Name,upperCase)
+data$bestanswer <- sapply(data$bestanswer,upperCase)
+for(i in 1:nrow(data))
+{
+  
+  ansrows <- which(answertable[,1]==data[i,]$bestanswer)
+  data$corr[i] <- is.element(data$Name[i], answertable[ansrows,2])
+   
+}
+
+```
+
+Now, let's get a score for best-answering
+```{r}
+##initialize; one row per img/transform
+scored <- aggregate(data$corr,list(baseimg=data$baseimg,transform=data$transformation),length)
+
+
+scored$bestanswer <- aggregate(data$bestanswer,list(baseimg=data$baseimg,transform=data$transformation),
+                               function(x){x[[1]]})$x
+scored$topresponse <- NA
+scored$best <- NA
+scored$any <- NA
+for(row in 1:nrow(scored))
+{
+  set <- scored[row,]$transform
+  img <- scored[row,]$baseimg
+  
+  tmp <- data[data$transformation==set & 
+             data$baseimg==img,]
+  #print(tmp)
+  
+  ##tmp might not be in order.
+  tmp <- tmp[order(-tmp$Confidence),]
+  
+  
+  ##pick the best answer; a correct one if possible
+  highest.0 <- tmp[tmp$Confidence==max(tmp$Confidence),]
+    
+  ##if there are more than one, pick the correct one if possible.
+  highest <-highest.0[which.max(highest.0$Confidence+highest.0$corr),]
+  
+  
+  
+  scored$best[row] <- any(highest$corr)
+  scored$any[row] <-  any(tmp$corr)
+  
+  scored$topresponse[row] <- highest$Name[1]
+}
+ 
+```
+
+```{r}
+error.tab <- table(scored$bestanswer,
+      scored$topresponse
+      )
+
+response.tab <- table(data$bestanswer,data$Name)
+```
+
+```{r}
+for(i in 1:nrow(error.tab))
+{
+  print("-----------------------------")
+  print(row.names(error.tab)[i])
+ sorted <- sort(error.tab[i,][error.tab[i,]>0],decreasing=T)
+ print(sorted[sorted>0])
+}
+
+```
+Find score by transform:
+```{r}
+print(aggregate(cbind(scored$best,scored$any),list(scored$transform),mean))
+```
+

@@ -1,0 +1,117 @@
+---
+title: "Comparing human vs. machine performance"
+author: "Shane T. Mueller shanem@mtu.edu"
+date: "October 2018"
+output: pdf_document
+---
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "../markdown") })
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RColorBrewer)
+palette(brewer.pal(8,"Dark2"))
+
+## R Markdown
+```
+
+
+```{r}
+library(dplyr)
+dat <- read.csv("../Human_data/summaries.csv")
+
+dat.best <- select(dat,
+type=X,IBM=IBM.BEST,
+Google=Google.best,
+Amazon=Amazon.best,
+Clarifia=Clarifai.best,
+Inception.A=InceptionMax,
+Inception.B=inception2max,
+HumanAcc=Accuracy)
+
+
+dat.any <- select(dat,
+type=X,IBM=IBM.ANY,
+Google=Google.any,
+Amazon=amazon.any,
+Clarifai=Clarifai.any,
+Inception.A=InceptionAny,
+Inception.B=inception2any,
+HumanAcc=Accuracy)
+
+tmp1 <- ((cor(dat.best[,-c(1)],use = "pairwise.complete")))
+tmp2 <- ((cor(dat.any[,-c(1)],use = "pairwise.complete")))
+
+
+```
+
+
+```{r,fig.width=7,fig.height=9}
+pdf("../transforms-best.pdf",width=7,height=9)
+par(mar=c(5,10,2,2))
+
+colord <- c(5,1,2,3,6,4,8,7)
+
+ord <- order(dat.best$Inception.A)
+names <- dat.best$type[ord] #auto names; not well done
+names2 <- c("Charcoal","White Edge","Implode","Wave","Rainbow edge","Edge",
+                 "Wood frame","Resize","Splice","Black and white","Nature frame",
+                 "Blur","Sketch","Shear","Leafy frame","Blue frame","Mask","Rotation",
+                 "Roll","Original")
+
+matplot(dat.best[ord,-1],1:20,main="Scoring: Top label match",bty="n",
+        yaxt="n",xlab="Accuracy",ylab="",lty=2,type="n",cex=1.5)
+segments(0,1:20,1,1:20,lty=3,col="grey")
+
+matplot(dat.best[ord,-1],1:20,main="Scoring: Top label match",add=T,col=colord,
+        pch=c("W","G","A","C","a","b","H"),
+        yaxt="n",xlab="Accuracy",ylab="",lty=1,type="b",cex=.9)
+
+grid()
+axis(2,1:length(ord),names2,las=2)
+title(ylab="Transform",line=7)
+
+legend(.18,6,c("Clarifai","Google","IBM Watson","Amazon","Inception A","Inception B","Human"),
+       pch=c("C","G","W","A","a","b","H"),
+       col=c(3,1,5,2,6,7,8))
+
+dev.off()
+```
+
+
+
+
+```{r,fig.width=7,fig.height=9}
+pdf("../figs/transforms-any.pdf",width=7,height=9)
+par(mar=c(5,10,2,2))
+
+colord <- c(5,1,2,3,6,4,8,7)
+
+##uuse same order as other image
+ord <- order(dat.best$Inception.A)
+names <- dat.any$type[ord] #auto names; not well done
+names2 <- c("Charcoal","White Edge","Implode","Wave","Rainbow edge","Edge",
+                 "Wood frame","Resize","Splice","Black and white","Nature frame",
+                 "Blur","Sketch","Shear","Leafy frame","Blue frame","Mask","Rotation",
+                 "Roll","Original")
+
+matplot(dat.any[ord,-1],1:20,main="Scoring: Any label match",bty="n",
+        yaxt="n",xlab="Accuracy",ylab="",lty=2,type="n",cex=1.5)
+segments(0,1:20,1,1:20,lty=3,col="grey")
+
+matplot(dat.any[ord,-1],1:20,main="Scoring: Top label match",add=T,col=colord,
+        pch=c("W","G","A","C","a","b","H"),
+        yaxt="n",xlab="Accuracy",ylab="",lty=1,type="b",cex=.9)
+
+grid()
+axis(2,1:length(ord),names2,las=2)
+title(ylab="Transform",line=7)
+
+legend(.28,6,c("Clarifai","Google","IBM Watson","Amazon","Inception A","Inception B","Human"),
+       pch=c("C","G","W","A","a","b","H"),
+       col=c(3,1,5,2,6,7,8))
+
+dev.off()
+```
+
+

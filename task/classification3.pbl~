@@ -1,0 +1,377 @@
+## basic image classification task
+##
+define Start(p)
+{
+
+   set <- "transforms2.txt"
+
+  gWin <- MakeWindow("white")
+  matches <- ReadCSV("exemplars.csv")
+#  gSubNum <- Round(Random()*1000000000)
+  if(gSubNum+""=="0")
+    {
+      gSubNum <- GetSubNum(gWin)
+    }
+
+  gFileOut <- GetNewdataFile(gSubNum, gWin, "classify2","csv",
+                  "subnum,set,trial,transform,baseimg,imgname,resp,corr,abstime,rt")
+
+
+  hdr2 <- "subnum,trial,time,imgset,rating,"
+  loop(i,Sequence(1,10,1))
+    {
+      loop(j,Sequence(1,5,1))
+       {
+           hdr2 <- hdr2 + "D"+i + "." + j + ","
+       }
+    }
+   hdr2 <- hdr2 + "explanation"
+   gPredictionFile <- GetNewdataFile(gSubNum, gWin, "prediction2","csv",hdr2)
+   
+  
+
+
+  test <- FileReadList("baseimgs.txt")
+  dirs <- Shuffle(FileReadList(set))
+  header <- EasyLabel("",gVideoWidth/2,25,gWin,30)
+
+
+ MessageBox("To start, please turn off your phone.  You should not be interrupted for the next 30 minutes.  When you have signed the consent form and are ready to begin, click OK",gWin)
+
+if(1)
+   {
+   
+  MessageBox("In the first part of this test, let's suppose that an artificial intelligence system is trained to classify images of tools. These are the same types of systems that learn to recognize faces in images, to label objects in picture that a search engine might return, and detect what types of things are in front of a self-driving vehicle.  We will next show you several sets of images, and we want you to PREDICT which pictures you think the AI will have the most trouble identifying correctly.
+
+In these pictures, they are shrunk down to fit on the screen.  Assume the AI will see a full-sized version of the image.",gWin, 35,150,150,600,0)
+
+  done <- EasyLabel("Done",gVideoWidth/2,60,gWin,40)
+  Hide(done)
+  
+  layout <- LayoutGrid(100,gVideoWidth-100,200,gVideoHeight-100,5,10,1)
+  widthperimage <- 120
+
+
+  trial <- 1001
+  fnames <- []
+
+   opts <- ["0%","10","20", "30","40","50","60","70","80","90","100%"]
+   ratings <- []
+     loop(i,Length(opts))
+       {
+
+           tmp <- EasyLabel(Nth(opts,i),gVideoWidth/2 + (i-Ceiling(Length(opts)/2)) * 100,70,gWin,40)
+           PushOnEnd(ratings,tmp)
+       }
+
+
+    ##  
+    ##
+
+  loop(i,dirs)
+   {
+  header.text <- "How good do you think the AI will be able at identify images on this page?"
+
+
+    imgs <- []
+    id <- 1 
+      loop(j,test)
+       {
+          loop(count,[1,2,3,4,5])
+	         {
+            imgname <- i + j + count + ".jpg"
+            tmp <- MakeImage(imgname)
+            scale <- widthperimage/tmp.width
+            tmp.zoomX <- scale
+            tmp.zoomY <- scale
+
+            xy <- Nth(layout,id)
+            Move(tmp,First(xy),Second(xy))
+            AddObject(tmp,gWin)
+	    PushOnEnd(imgs,tmp)
+	    PushOnEnd(fnames,imgname)
+	    id <- id + 1
+          }
+       }
+    ShowAll(ratings,1)
+    Hide(done)
+    Draw()
+
+    rating <- WaitForClickOnTarget(ratings,Sequence(1,Length(ratings),1))
+
+    ShowAll(ratings,0)
+    Draw()
+
+    
+    header.text <- "Click on up to 10 images you would expect to be the most difficult"
+    clickon <- imgs
+    indexes <- Sequence(1,Length(clickon),1)
+    Draw()
+    selected <- Repeat(0,Length(clickon))
+    hilights <- Repeat(0,Length(clickon))
+
+    cont <- 1
+
+    while(cont)
+    {
+      opt <- WaitForClickOnTarget(clickon,indexes)
+      if(opt == Length(hilights)+1) ##exit when you click on 'done' which is marked as a number highights+1
+      {
+        cont <- 0
+      } else {
+
+         Show(done)
+         clickon <- Append(imgs,done)
+         indexes <- Sequence(1,Length(clickon),1)
+	 
+         if(Nth(selected,opt)==1)
+     	  {
+	        ##remove selection:
+	        SetElement(selected,opt,0)
+	        SetElement(hilights,opt,0)
+	    
+	       }else{
+            tmp <- Nth(clickon,opt)
+            hilight <- Rectangle(tmp.x,tmp.y,tmp.width+4,tmp.height+4,MakeColor("red"),1)
+            AddObject(hilight,gWin)
+      	    AddObject(tmp,gWin)
+  	        SetElement(hilights,opt,hilight)
+  	        SetElement(selected,opt,1)
+	          hilight <- 0
+	      }
+
+      }     
+     Draw()
+    }
+
+    text <- GetEasyInput2("What would be easy or difficult about this set of images",gWin)
+    loop(h,hilights)
+    {
+      if(h)
+       {
+          RemoveObject(h,gWin)
+       }
+    }
+    RemoveObjects(imgs,gWin)
+
+    FilePrint(gPredictionFile,gSubNum+",2,"+trial + "," + Timestamp() + "," +  i + "," + rating + ","+ 
+                       ConcatenateList(selected,",") + "," +
+                       ReplaceChar(text,",",";"))
+
+     hilights <- 0
+    trial <- trial + 1
+   }
+
+    RemoveObjects(ratings,gWin)
+    RemoveObject(done,gWin)
+
+}
+
+
+if(1)
+  {
+  header.text <- "Click the class that best matches the image"
+  choices <-  LayoutMatches(matches,150)
+  Draw()
+  trial <- 1
+  MessageBox("In this task, you will see an image at the center of the screen, and ten options at the top and bottom, like five images you see below. The center image may be easy or difficult to classify, because it may be distorted or have some transform.  It will be one of the ten classes of tools you see at the top and bottom of the screen, although it might not be identical.  When you see an image at the center, click the image representing the class that it belongs to.
+
+The image in the center will not always match the shape of a particular class, but will have the same use and name. Make you decisions based on the name and usage, not the particular shape of the tool.
+
+Try to respond as quickly and accurately as possible.",gWin, 25,150,150,600,0)
+
+ Countdown(gWin)
+ trial <- 1
+  loop(i,dirs)
+   {
+      images <- []
+   
+     ##First, load and shuffle an entire transform set.
+     loop(j,Shuffle(test))
+       {
+ 
+         ##now, go through 3 of the five--randomly chosen each time.
+	 ##this reduces the number of decisions.
+	 opts <- Shuffle(SampleN([1,2,3,4,5],3))
+        loop(version,opts)
+          {
+             imgname <- i + j + version + ".jpg"
+             PushOnEnd(images, [j,imgname])
+          }
+
+     }
+    
+
+     images <- Shuffle(images)
+
+
+    loop(imginfo,images)
+      {
+         j <- First(imginfo)
+         imgname <- Second(imginfo)
+
+         tmp <- MakeImage(imgname)
+         Move(tmp,gVideoWidth/2,gVideoHeight/2)
+         AddObject(tmp,gWin)
+         Draw()
+	       time1 <- GetTime()
+
+         out <-   WaitForClickOnTarget(First(choices),Third(Transpose(matches)))
+	       time2 <- GetTime()
+         correct <- Uppercase(out) == Uppercase(j)
+	       FilePrint(gFileOut,gSubNum+",2,"+trial + ","+ i + "," + j + "," + imgname +
+	                           "," + out + "," + correct + "," +  time1+ "," +(time2-time1))
+         trial <- trial + 1
+       }
+    
+     MessageBox("You will now see a new set of images. You may pause for a moment, and click OK to continue.",gWin)
+   }
+   
+    #RemoveObjects(Second(choices),gWin)
+  }
+
+
+ MessageBox("Thank you for taking part in this study.  This study is intended to compare modern AI systems with human recognition abilities, and how it compares to our expectations for how it should behave.  Your responses will help researchers understand how AI systems work and how we expect them to work, and help make better intelligent systems in the future. Thank you.  If you have any further questions, please ask the experimenter.",gWin)
+
+
+}
+
+define ShowAll(objs,show)
+{
+   loop(i,objs)
+   {
+      i.visible <- show
+   }
+}
+
+define LayoutMatches(matchset,widthperimage)
+{
+
+ n <- Length(matchset)
+ cols <- Ceiling(n/2)
+
+
+
+  layout <- LayoutGrid(100,gVideoWidth-100,150,gVideoHeight-200,2,cols,0)
+
+
+   outlist <- []
+   stuff <- []
+   clickon <- []
+
+ i <- 1
+ 
+loop(row, matchset)
+ {
+     tmp <- MakeImage(First(row))
+     scale <- widthperimage/tmp.width
+     tmp.zoomX <- scale
+     tmp.zoomY <- scale
+    
+     AddObject(tmp,gWin)
+     xy <- Nth(layout,i)
+     
+      x <- First(xy)
+      y <- Second(xy)
+     
+     Move(tmp,x,y)
+
+     lab <- EasyLabel(Second(row),x,tmp.y+tmp.height/2+20,gWin,22)
+     PushOnEnd(stuff,lab)
+     PushOnEnd(stuff,tmp)
+     PushOnEnd(clickon,tmp)
+     PushOnEnd(outlist,Second(row))
+     i <- i + 1
+ }
+
+ return [clickon,outlist,stuff]
+}
+
+
+
+ define LayoutGrid(xmin,xmax,ymin,ymax, tall, wide, vertical)
+ {
+     xskip <- (xmax-xmin)/(wide+1)
+     yskip <- (ymax-ymin)/(tall-1)
+
+
+
+     ##Make the layout grid as a matrix first, 
+     ## each sublist specifying a row.
+     pts <- []
+
+      loop(i,Sequence(1,wide,1))
+        { 
+         line <- []    
+         x <- xmin + xskip*(i)
+         loop(j,Sequence(1,tall,1))
+          {
+            y <- ymin + yskip*(j-1)
+             line <- Append(line, [x,y])
+
+          }
+
+	  pts <- Append(pts,line)
+        }
+
+      ##Transpose if  horizontal:
+     if(vertical == 0)
+      {
+         pts <- Transpose(pts)
+      }
+
+   #Return the layout.
+   return FlattenN(pts,1)
+  }
+
+
+
+
+##Make an easy-to-use getsubnum function here.
+define GetEasyInput2(text,win,outerwidth:800,outerheight:800,answerboxwidth:600,queryfontsize:22,answerfontsize:30)
+{
+
+  if(not IsWindow(win))
+  { 
+    SignalFatalError("GetEasyInput(win) needs a window to be specified, not [" + win + "]")
+  }
+
+   bgcol <- win.BGCOLOR
+
+   ##Get foreground color
+   ##HSV val is the max of RGB
+    val <- Max([bgcol.RED, bgcol.GREEN, bgcol.BLUE])
+
+    ##Make it white if the background is too dark.
+    if(val <=  100)
+    { 
+      fgcol <- MakeColor("white")
+    } else {
+      fgcol <- MakeColor("black")
+    }
+
+
+
+   bg2    <- Rectangle(gVideoWidth/2+2,gVideoHeight/2+2,outerwidth+6,outerheight+6,Makecolor("grey50"),1)
+   AddObject(bg2,win)
+   bg    <- Rectangle(gVideoWidth/2,gVideoHeight/2,outerwidth,outerheight,bgcol,1)
+   AddObject(bg,win)
+
+   font <- MakeFont("Caliban.ttf",0,22,fgcol,bgcol,0)
+   query <- MakeTextbox(text,font,outerwidth-50,100)
+   AddObject(query, win)
+   Move(query,bg.x-bg.width/2+10,bg.y-bg.height/2+10)
+
+   box <- EasyTextBox("",bg.x-bg.width/2+50,bg.y-bg.height/2+150 ,win,answerfontsize,answerboxwidth,outerheight-200)
+
+   Draw()
+   input <- GetInput(box,"<return>")
+    
+   RemoveObject(query,win)
+   RemoveObject(box,win)
+   RemoveObject(bg,win)
+   RemoveObject(bg2,win)
+   Draw()
+   
+   return input   
+}

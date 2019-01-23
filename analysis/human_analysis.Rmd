@@ -1,0 +1,285 @@
+---
+title: "Human Classification Data"
+author: "Shane T. Mueller shanem@mtu.edu"
+date: "September 28 2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RColorBrewer)
+palette(brewer.pal(8,"Dark2"))
+library(prepdat)
+```
+
+
+
+```
+
+class.dat <- file_merge("../Data/",has_header=T,
+                  file_name="classify.txt",
+                  raw_file_extension="csv",
+                  raw_file_name = "classify")
+
+pred.dat <-  file_merge("../Data/",has_header=T,
+                  file_name="prediction.txt",
+                  raw_file_extension="csv",
+                  raw_file_name = "prediction")
+```
+First, I will just read in the data that I pooled previously. The pred.dat file had a bad header, so to make it easy if we add data, I am replacing it here. At the bottom, I'll make sure we don't have any duplicate participant codes. We can see that all but 1001 did 360/12 trials. 
+```{r}
+class.dat <- read.csv("../Human_data/class-pooled.csv")
+
+pred.dat <- read.csv("../Human_data/pred-pooled.csv",skip=1)
+colnames(pred.dat) <- c("subnum","trial","set","time","imgset","rating","D1.1","D1.2","D1.3","D1.4","D1.5","D2.1","D2.2","D2.3","D2.4","D2.5","D3.1","D3.2","D3.3","D3.4","D3.5","D4.1","D4.2","D4.3","D4.4","D4.5","D5.1","D5.2","D5.3","D5.4","D5.5","D6.1","D6.2","D6.3","D6.4","D6.5","D7.1","D7.2","D7.3","D7.4","D7.5","D8.1","D8.2","D8.3","D8.4","D8.5","D9.1","D9.2","D9.3","D9.4","D9.5","D10.1","D10.2","D10.3","D10.4","D10.5","explanation")
+
+table(class.dat$subnum)
+table(pred.dat$subnum)
+
+##this reads in the AI output accuracies
+ai.dat <- read.csv("../Human_data/summaries.csv")
+
+```
+
+Now, I want to check the scoring.  Were people making specific errors? How about specific confusions? The following looks at the 20 worst images overall:
+```{r}
+
+byimg<-aggregate(class.dat$corr,list(class.dat$imgname),mean)
+byimg[order(byimg$x),][1:20,]
+```
+I looked as bw-tools/scissor5, and this was a very bad transform that just caught a snippet of the image.  Most of the rest of the bad ones were plier2, which is a channel-lock that may have gotten named as a wrench.   When we get through this, accuracy is about 80% or higher for all remaining imagery.
+
+To see what is maybe going on, I'll look at the confusion matrix, both for classes and for specific images. This time, ignoring the transform.
+```{r}
+class.dat$baseimg2 <- sapply(class.dat$img,function(x){strsplit(as.character(x),"/")[[1]][[3]]})
+
+classtab <- table(given=class.dat$baseimg,response=class.dat$resp)
+
+sum(classtab[upper.tri(classtab)])
+sum(classtab[upper.tri(classtab) | diag(classtab)])
+table(given=class.dat$baseimg2,response=class.dat$resp)
+
+```
+The errors for plier2 wer calling it wrench;
+```{r fig.height=8, fig.width=8, message=FALSE, warning=FALSE}
+class.agg <- aggregate(class.dat$corr,list(class.dat$transform),mean)
+class.agg$rt <-aggregate(class.dat$rt,list(class.dat$transform),mean)$x
+barplot(1-class.agg$x)
+
+pred.agg <-  aggregate(pred.dat$rating,list(pred.dat$imgset),mean)
+
+library(GGally)
+
+tmp <- data.frame(class=substr(class.agg$Group.1,20,
+                                nchar(as.character(class.agg$Group.1))-1),
+                               
+                  Accuracy=class.agg$x,
+                  RT=class.agg$rt,
+                  Rating=pred.agg$x)
+tmp$adjrt <- tmp$RT/tmp$Accuracy
+rownames(tmp) <- tmp$class
+ggpairs(tmp[,-1])
+```
+
+
+
+Let's label these:
+```{r,fig.width=8,fig.height=8}
+library(BayesFactor)
+library(ggplot2)
+library(ggrepel)
+ggplot(tmp,aes(x=RT,y=Rating,label=class)) + geom_point() + geom_text_repel()
+correlationBF(tmp$RT,tmp$Rating)
+```
+
+
+```{r}
+
+model1 <- glm(corr~0+as.factor(subnum)+transform+baseimg2,data=class.dat)
+summary(model1)
+anova(model1,test="Chisq")
+```
+
+```{r}
+#library(glmm)
+model1 <- glm(corr~0+as.factor(subnum)+transform+baseimg2,data=class.dat)
+summary(model1)
+anova(model1,test="Chisq")
+```
+```{r}
+errorguesses <- aggregate(pred.dat[,-c(1:6,57)],list(pred.dat$imgset),mean)
+errorguesses
+
+guessbytype <- (rowMeans(errorguesses[,-1]))
+names(guessbytype) <- substr(errorguesses[,1],20,40)
+tmp$guessbytype <- guessbytype
+
+
+
+errorhuman <- tapply(class.dat$corr,list(class.dat$transform,paste(class.dat$baseimg,class.dat$baseimg2,sep="-")),mean)
+errors <- rowMeans(errorhuman)
+#image(errorhuman)
+
+
+```
+
+## Compute/plot correlation between guessing and actual human errors.
+##
+
+```{r}
+plot(guessbytype[-9],errors[-9],col="gold",pch=16,cex=1.5)
+points(guessbytype[-9],errors[-9],cex=1.5)
+cor.test(guessbytype[-9],errors[-9],method="pearson")
+library(BayesFactor)
+correlationBF(guessbytype[-9],errors[-9])
+```
+## Look at correlations between the models and the different human judgements:
+
+```{r}
+
+models <- read.csv("../Human_data/summaries.csv")
+#tmp has 16 rows, but models has 20.  This finds the right way of stretching to make them align.
+modelmap <- c(1:5,7:8,10,12:14,16:20)
+
+stretchtmp <-matrix(NA,nrow=20,ncol=5)
+
+for(i in 1:5)
+  stretchtmp[modelmap,i] <- tmp[,i+1]
+
+colnames(stretchtmp) <- colnames(tmp[,2:6])
+
+sumdat <- data.frame(models[,c(1:3,5:6,8:9,11:20)],
+                      guessbytype=stretchtmp[,5])
+
+ round(cor(sumdat[-12,-1],use="pairwise.complete"),3)
+
+##Compute correlation, removing the original imagery
+corrs <- round(cor(sumdat[-12,-1],use="pairwise.complete"),3)[,c(13:15,17)]
+corrs
+
+corrs2 <- round(cor(sumdat[-12,-1],use="pairwise.complete")[c(13:17),c(13:15,17)],3)
+corrs2
+
+
+```
+
+```{r,fig.width=7,fig.height=9}
+pdf("byhuman.pdf",width=6,height=6)
+par(mar=c(4,10,3,2))
+ylabs<-rev(c("Human Response time",
+        "Human accuracy",
+        "Custom inception",
+        "Clarifai (any)",
+        "Clarifai (best)",
+        "Amazon (any)",
+        "Amazon (best)",
+        "Google (any)",
+        "Google (best)",
+         "IBM (any)",
+        "IBM (best)"))
+
+
+matplot(abs(corrs),1:17,type="n",pch=16,cex=2,xlab="Correlation",xlim=c(0,1.2),yaxt="n",ylab="",
+        bty="n",xaxt="n",
+        main="Correlation with \nHuman Ratings of difficulty")
+segments(0,1:11,1,1:11,lty=3,col="grey")
+text(.85, 10.5,"Human\nperformance",pos=4)
+text(.85, 4.5,"AI \nPerformance",pos=4)
+
+matplot(abs(corrs)[10:11,],10:11,type="o",pch=16,cex=2,add=T)
+matplot(abs(corrs)[1:9,],1:9,type="o",pch=16,cex=2,add=T)
+abline(9.5,0)
+axis(1,0:5/5)
+axis(2,1:11,ylabs,las=1)
+legend(.6,3,c("Overall Rating","Number identified"),pch=16,lty=1:2,col=1:2,bty="n")
+dev.off()
+
+```
+
+## Look at the slopes with each AI system for each person.
+```{r}
+library(BSDA) ##for SIGN.test
+
+pred.bysub <- tapply(rowSums(pred.dat[,-c(1:6,57)]),list(imgset=pred.dat$imgset,subnum=pred.dat$subnum),mean)
+rating.bysub <- tapply(pred.dat[,6],  list(imgset=pred.dat$imgset,subnum=pred.dat$subnum),  mean)
+
+acc.bysub <- tapply(class.dat$corr,list(imgset=class.dat$transform,subnum=class.dat$subnum),mean)
+rt.bysub <- tapply(class.dat$rt,list(imgset=class.dat$transform,subnum=class.dat$subnum),function(x){exp(mean(log(x),na.rm=T))})
+
+
+model.order <- c(1:5,7,8,10,12,13,14,16,17,18,19,20)  #rows
+model.cols <-c(2,3,5,6,8,9,11:16)
+
+
+##remove the 'good' imagery row. 9
+corrbysub.pred <- as.data.frame(cor(pred.bysub[-9,],models[model.order,model.cols][-9,],use="pairwise.complete"))
+corrbysub.rating <- as.data.frame(cor(rating.bysub[-9,],models[model.order,model.cols][-9,],use="pairwise.complete"))
+
+##add rating-to-time
+corrbysub.pred$acc <- diag(cor(pred.bysub[-9,],acc.bysub[-9,],use="pairwise.complete"))
+corrbysub.pred$rt <- diag(cor(pred.bysub[-9,],rt.bysub[-9,],use="pairwise.complete"))
+
+
+corrbysub.rating$acc <- diag(cor(rating.bysub[-9,],acc.bysub[-9,],use="pairwise.complete"))
+corrbysub.rating$rt <- diag(cor(rating.bysub[-9,],rt.bysub[-9,],use="pairwise.complete"))
+
+
+boxplot(corrbysub.pred,col="gold")
+abline(0,0)
+boxplot(corrbysub.rating,col="gold")
+abline(0,0)
+```
+
+```{r}
+##The table in tehe paper--mean correlation by subject
+round(cbind(colMeans(corrbysub.rating),
+            colMeans(corrbysub.pred)),3)
+
+```
+
+This performs sign tests on the correlations with rating and pred.
+```{r}
+for(i in 1:12)
+{
+cat("\n\n\n\n==================================\n----------------------------\n")
+  
+  print(colnames(corrbysub.pred)[i])
+
+    ##here, we are computnig correlation with rating. higher rating means estimate better peformance
+    ##this is correlated with accuracy rate, so we are looking for a positive correlation.
+
+  print(SIGN.test(corrbysub.rating[,i],alternative="greater"))
+  print(mean(corrbysub.rating[,i]))
+  
+  
+   ##here, we are computnig correlation with predicted number of errors. higher rating means estimate worse
+   ## peformance
+   ##this is correlated with accuracy rate, so we are looking for a positive correlation.
+
+  
+  print("...............................")
+  print(SIGN.test(corrbysub.pred[,i],alternative="less"))
+  print( mean(corrbysub.pred[,i]))
+} 
+
+```
+
+This is vs. accuracy
+```{r}
+  print("--------------Accuracy--------------")
+  print(colnames(corrbysub.pred)[13])
+  print(SIGN.test(corrbysub.rating[,13],alternative="less"))
+  print(SIGN.test(corrbysub.pred[,13],alternative="greater"))
+
+```
+
+This is 
+```{r}
+  
+ print("---------------Response time-------------")
+  print(colnames(corrbysub.pred)[14])
+  print(SIGN.test(corrbysub.rating[,14],alternative="less"))
+  print(SIGN.test(corrbysub.pred[,14],alternative="greater"))
+
+
+```

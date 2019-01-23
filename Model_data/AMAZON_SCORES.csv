@@ -1,0 +1,4292 @@
+Confidence,Image_name,Name
+0.970033264,Blur-Tools/axe1.jpg,Handle
+0.908840103,Blur-Tools/axe2.jpg,Handle
+,Blur-Tools/axe3.jpg,No Result
+0.891031189,Blur-Tools/axe4.jpg,Handle
+0.989502563,Blur-Tools/axe5.jpg,Handle
+0.859174042,Blur-Tools/flash1.jpg,Flashlight
+0.559897919,Blur-Tools/flash2.jpg,Cylinder
+0.570232697,Blur-Tools/flash3.jpg,Sunlight
+0.556200218,Blur-Tools/flash3.jpg,Astronomy
+0.556200218,Blur-Tools/flash3.jpg,Outer Space
+0.556200218,Blur-Tools/flash3.jpg,Space
+0.556200218,Blur-Tools/flash3.jpg,Universe
+0.515603294,Blur-Tools/flash3.jpg,Aircraft
+0.515603294,Blur-Tools/flash3.jpg,Airplane
+0.515603294,Blur-Tools/flash3.jpg,Jet
+0.515603294,Blur-Tools/flash3.jpg,Transportation
+,Blur-Tools/flash4.jpg,No Result
+0.960194092,Blur-Tools/flash5.jpg,Flashlight
+0.508969955,Blur-Tools/flash5.jpg,Glasses
+0.791455765,Blur-Tools/hammer1.jpg,Handle
+,Blur-Tools/hammer2.jpg,No Result
+,Blur-Tools/hammer3.jpg,No Result
+,Blur-Tools/hammer4.jpg,No Result
+,Blur-Tools/hammer5.jpg,No Result
+,Blur-Tools/plier1.jpg,No Result
+,Blur-Tools/plier2.jpg,No Result
+,Blur-Tools/plier3.jpg,No Result
+,Blur-Tools/plier4.jpg,No Result
+,Blur-Tools/plier5.jpg,No Result
+0.956057816,Blur-Tools/saw1.jpg,Hoe
+0.50658371,Blur-Tools/saw2.jpg,Glasses
+,Blur-Tools/saw3.jpg,No Result
+0.505863419,Blur-Tools/saw4.jpg,Glasses
+0.532370453,Blur-Tools/saw5.jpg,Comb
+,Blur-Tools/scissor1.jpg,No Result
+0.681819916,Blur-Tools/scissor2.jpg,Pin
+0.840767288,Blur-Tools/scissor3.jpg,Key
+,Blur-Tools/scissor4.jpg,No Result
+,Blur-Tools/scissor5.jpg,No Result
+,Blur-Tools/screw1.jpg,No Result
+0.874721146,Blur-Tools/screw2.jpg,Screwdriver
+,Blur-Tools/screw3.jpg,No Result
+0.546307487,Blur-Tools/screw4.jpg,Sunglasses
+0.988347702,Blur-Tools/screw5.jpg,Screwdriver
+0.702457809,Blur-Tools/shovel1.jpg,Pin
+0.516376915,Blur-Tools/shovel1.jpg,Glasses
+0.814035492,Blur-Tools/shovel2.jpg,Hoe
+0.505031929,Blur-Tools/shovel2.jpg,Clothing
+0.505031929,Blur-Tools/shovel2.jpg,Dress Shirt
+0.505031929,Blur-Tools/shovel2.jpg,Shirt
+0.96354393,Blur-Tools/shovel3.jpg,Blender
+0.96354393,Blur-Tools/shovel3.jpg,Mixer
+0.974793472,Blur-Tools/shovel4.jpg,Hoe
+,Blur-Tools/shovel5.jpg,No Result
+0.72077301,Blur-Tools/tape1.jpg,Clothing
+0.72077301,Blur-Tools/tape1.jpg,Hardhat
+0.72077301,Blur-Tools/tape1.jpg,Helmet
+0.536650352,Blur-Tools/tape2.jpg,Clothing
+0.536650352,Blur-Tools/tape2.jpg,Hardhat
+0.536650352,Blur-Tools/tape2.jpg,Helmet
+0.519879951,Blur-Tools/tape2.jpg,Cap
+0.519879951,Blur-Tools/tape2.jpg,Hat
+0.559785309,Blur-Tools/tape3.jpg,Accessories
+0.559785309,Blur-Tools/tape3.jpg,Bead
+,Blur-Tools/tape4.jpg,No Result
+,Blur-Tools/tape5.jpg,No Result
+,Blur-Tools/wrench1.jpg,No Result
+,Blur-Tools/wrench2.jpg,No Result
+,Blur-Tools/wrench3.jpg,No Result
+,Blur-Tools/wrench4.jpg,No Result
+,Blur-Tools/wrench5.jpg,No Result
+,BW-Tools/axe1.jpg,No Result
+,BW-Tools/axe2.jpg,No Result
+0.874677582,BW-Tools/axe3.jpg,Silhouette
+0.516758423,BW-Tools/axe3.jpg,Text
+,BW-Tools/axe4.jpg,No Result
+,BW-Tools/axe5.jpg,No Result
+0.544114456,BW-Tools/flash1.jpg,Flashlight
+,BW-Tools/flash2.jpg,No Result
+0.553995361,BW-Tools/flash3.jpg,LED
+0.553995361,BW-Tools/flash3.jpg,Lighting
+0.553995361,BW-Tools/flash3.jpg,Spotlight
+0.551272392,BW-Tools/flash3.jpg,Silhouette
+,BW-Tools/flash4.jpg,No Result
+0.51323349,BW-Tools/flash5.jpg,Clothing
+0.51323349,BW-Tools/flash5.jpg,Footwear
+0.505373726,BW-Tools/flash5.jpg,Text
+,BW-Tools/hammer1.jpg,No Result
+0.668592834,BW-Tools/hammer2.jpg,Clothing
+0.668592834,BW-Tools/hammer2.jpg,Footwear
+0.668592834,BW-Tools/hammer2.jpg,High Heel
+0.668592834,BW-Tools/hammer2.jpg,Shoe
+,BW-Tools/hammer3.jpg,No Result
+,BW-Tools/hammer4.jpg,No Result
+,BW-Tools/hammer5.jpg,No Result
+0.508126602,BW-Tools/plier1.jpg,Text
+0.552071152,BW-Tools/plier2.jpg,Letter
+0.552071152,BW-Tools/plier2.jpg,Text
+0.518034401,BW-Tools/plier3.jpg,Silhouette
+0.970700531,BW-Tools/plier4.jpg,Stencil
+0.974571609,BW-Tools/plier5.jpg,Autograph
+0.974571609,BW-Tools/plier5.jpg,Handwriting
+0.974571609,BW-Tools/plier5.jpg,Signature
+0.974571609,BW-Tools/plier5.jpg,Text
+0.508592796,BW-Tools/plier5.jpg,Hand
+,BW-Tools/saw1.jpg,No Result
+0.526283379,BW-Tools/saw2.jpg,Glasses
+0.508835602,BW-Tools/saw2.jpg,Sunglasses
+0.514644432,BW-Tools/saw3.jpg,Hand
+0.510537758,BW-Tools/saw3.jpg,Accessories
+,BW-Tools/saw4.jpg,No Result
+,BW-Tools/saw5.jpg,No Result
+,BW-Tools/scissor1.jpg,No Result
+0.875232239,BW-Tools/scissor2.jpg,Key
+0.508011589,BW-Tools/scissor2.jpg,Glasses
+0.505427017,BW-Tools/scissor2.jpg,Text
+0.872373276,BW-Tools/scissor3.jpg,Key
+0.519575768,BW-Tools/scissor3.jpg,Glasses
+,BW-Tools/scissor4.jpg,No Result
+0.514071465,BW-Tools/scissor5.jpg,Flying
+0.510092812,BW-Tools/scissor5.jpg,Text
+0.506388664,BW-Tools/scissor5.jpg,Letter
+,BW-Tools/screw1.jpg,No Result
+0.885821838,BW-Tools/screw2.jpg,Clarinet
+0.885821838,BW-Tools/screw2.jpg,Leisure Activities
+0.885821838,BW-Tools/screw2.jpg,Music
+0.885821838,BW-Tools/screw2.jpg,Musical Instrument
+0.53276413,BW-Tools/screw2.jpg,Label
+0.53276413,BW-Tools/screw2.jpg,Text
+0.530546646,BW-Tools/screw2.jpg,Adapter
+0.530546646,BW-Tools/screw2.jpg,Connector
+0.530546646,BW-Tools/screw2.jpg,Electrical Device
+0.508066063,BW-Tools/screw3.jpg,Text
+0.944444504,BW-Tools/screw4.jpg,Adapter
+0.944444504,BW-Tools/screw4.jpg,Connector
+0.944444504,BW-Tools/screw4.jpg,Electrical Device
+0.944444504,BW-Tools/screw4.jpg,Plug
+,BW-Tools/screw5.jpg,No Result
+,BW-Tools/shovel1.jpg,No Result
+0.525175095,BW-Tools/shovel2.jpg,Text
+0.50739975,BW-Tools/shovel2.jpg,Silhouette
+0.835906296,BW-Tools/shovel3.jpg,Crucifix
+0.835906296,BW-Tools/shovel3.jpg,Emblem
+0.820417252,BW-Tools/shovel4.jpg,Shovel
+0.525427094,BW-Tools/shovel4.jpg,Sunglasses
+0.945710144,BW-Tools/shovel5.jpg,Shovel
+0.507468834,BW-Tools/shovel5.jpg,Text
+0.50517601,BW-Tools/shovel5.jpg,Sunglasses
+0.96723793,BW-Tools/tape1.jpg,Stencil
+0.990914307,BW-Tools/tape2.jpg,Stencil
+0.618753014,BW-Tools/tape2.jpg,Beanie
+0.618753014,BW-Tools/tape2.jpg,Cap
+0.618753014,BW-Tools/tape2.jpg,Clothing
+0.618753014,BW-Tools/tape2.jpg,Hat
+0.537097473,BW-Tools/tape2.jpg,Adapter
+0.537097473,BW-Tools/tape2.jpg,Connector
+0.537097473,BW-Tools/tape2.jpg,Electrical Device
+0.521944275,BW-Tools/tape3.jpg,Text
+0.513133278,BW-Tools/tape3.jpg,Letter
+0.753201904,BW-Tools/tape4.jpg,Stencil
+0.514534454,BW-Tools/tape5.jpg,Text
+0.510397072,BW-Tools/wrench1.jpg,Accessories
+0.506191444,BW-Tools/wrench1.jpg,Text
+,BW-Tools/wrench2.jpg,No Result
+,BW-Tools/wrench3.jpg,No Result
+,BW-Tools/wrench4.jpg,No Result
+0.506929855,BW-Tools/wrench5.jpg,Text
+,Charcol-Tools/axe1.jpg,No Result
+0.960361176,Charcol-Tools/axe2.jpg,Key
+0.931987381,Charcol-Tools/axe3.jpg,Art
+0.931987381,Charcol-Tools/axe3.jpg,Doodle
+0.931987381,Charcol-Tools/axe3.jpg,Drawing
+0.883516693,Charcol-Tools/axe3.jpg,Ornament
+0.507762718,Charcol-Tools/axe3.jpg,Modern Art
+,Charcol-Tools/axe4.jpg,No Result
+,Charcol-Tools/axe5.jpg,No Result
+0.520502968,Charcol-Tools/flash1.jpg,Emblem
+0.762808685,Charcol-Tools/flash2.jpg,Electrical Device
+0.762808685,Charcol-Tools/flash2.jpg,Fuse
+0.592505112,Charcol-Tools/flash2.jpg,Army
+0.592505112,Charcol-Tools/flash2.jpg,Human
+0.592505112,Charcol-Tools/flash2.jpg,Military
+0.592505112,Charcol-Tools/flash2.jpg,Military Uniform
+0.592505112,Charcol-Tools/flash2.jpg,Person
+0.592505112,Charcol-Tools/flash2.jpg,Soldier
+0.592505112,Charcol-Tools/flash2.jpg,Tank
+0.592505112,Charcol-Tools/flash2.jpg,Transportation
+0.592505112,Charcol-Tools/flash2.jpg,Vehicle
+0.555975685,Charcol-Tools/flash2.jpg,Bassoon
+0.555975685,Charcol-Tools/flash2.jpg,Leisure Activities
+0.555975685,Charcol-Tools/flash2.jpg,Music
+0.555975685,Charcol-Tools/flash2.jpg,Musical Instrument
+0.555975685,Charcol-Tools/flash2.jpg,Oboe
+0.523882561,Charcol-Tools/flash2.jpg,Cruiser
+0.523882561,Charcol-Tools/flash2.jpg,Navy
+0.523882561,Charcol-Tools/flash2.jpg,Ship
+0.523882561,Charcol-Tools/flash2.jpg,Vessel
+0.523882561,Charcol-Tools/flash2.jpg,Watercraft
+0.523224945,Charcol-Tools/flash2.jpg,Destroyer
+0.514892464,Charcol-Tools/flash2.jpg,Emblem
+0.50949646,Charcol-Tools/flash2.jpg,Engine
+0.50949646,Charcol-Tools/flash2.jpg,Machine
+0.50949646,Charcol-Tools/flash2.jpg,Motor
+0.526652756,Charcol-Tools/flash3.jpg,Paper
+0.518605118,Charcol-Tools/flash3.jpg,Page
+0.518605118,Charcol-Tools/flash3.jpg,Text
+0.517007103,Charcol-Tools/flash3.jpg,Emblem
+,Charcol-Tools/flash4.jpg,No Result
+0.658876343,Charcol-Tools/flash5.jpg,Bling
+0.658876343,Charcol-Tools/flash5.jpg,Jewelry
+0.658876343,Charcol-Tools/flash5.jpg,Ornament
+,Charcol-Tools/hammer1.jpg,No Result
+0.960703812,Charcol-Tools/hammer2.jpg,Art
+0.960703812,Charcol-Tools/hammer2.jpg,Doodle
+0.960703812,Charcol-Tools/hammer2.jpg,Drawing
+0.508925629,Charcol-Tools/hammer2.jpg,Arabesque Pattern
+0.508925629,Charcol-Tools/hammer2.jpg,Ornament
+0.508417358,Charcol-Tools/hammer2.jpg,Emblem
+0.521861382,Charcol-Tools/hammer3.jpg,Emblem
+0.976189575,Charcol-Tools/hammer4.jpg,Key
+0.834251404,Charcol-Tools/hammer5.jpg,Key
+0.559690666,Charcol-Tools/hammer5.jpg,Finger
+0.66000351,Charcol-Tools/plier1.jpg,Logo
+0.66000351,Charcol-Tools/plier1.jpg,Trademark
+0.521107559,Charcol-Tools/plier1.jpg,Emblem
+,Charcol-Tools/plier2.jpg,No Result
+0.589070015,Charcol-Tools/plier3.jpg,Emblem
+0.544039803,Charcol-Tools/plier3.jpg,Finger
+0.928048706,Charcol-Tools/plier4.jpg,Stencil
+0.576782112,Charcol-Tools/plier4.jpg,Emblem
+0.676115036,Charcol-Tools/plier5.jpg,Hand
+0.965983658,Charcol-Tools/saw1.jpg,Calligraphy
+0.965983658,Charcol-Tools/saw1.jpg,Handwriting
+0.965983658,Charcol-Tools/saw1.jpg,Text
+0.519379501,Charcol-Tools/saw1.jpg,Emblem
+,Charcol-Tools/saw2.jpg,No Result
+0.556321678,Charcol-Tools/saw3.jpg,Text
+0.519848328,Charcol-Tools/saw3.jpg,Ornament
+0.508092041,Charcol-Tools/saw3.jpg,Label
+0.506175995,Charcol-Tools/saw3.jpg,Art
+0.506175995,Charcol-Tools/saw3.jpg,Doodle
+0.506175995,Charcol-Tools/saw3.jpg,Drawing
+,Charcol-Tools/saw4.jpg,No Result
+0.766330261,Charcol-Tools/saw5.jpg,Diagram
+0.766330261,Charcol-Tools/saw5.jpg,Plan
+0.559717484,Charcol-Tools/saw5.jpg,Sign
+0.557212715,Charcol-Tools/saw5.jpg,Art
+0.557212715,Charcol-Tools/saw5.jpg,Drawing
+0.550830307,Charcol-Tools/saw5.jpg,Label
+0.550830307,Charcol-Tools/saw5.jpg,Text
+,Charcol-Tools/scissor1.jpg,No Result
+0.523791733,Charcol-Tools/scissor2.jpg,Text
+0.982670364,Charcol-Tools/scissor3.jpg,Key
+0.522011108,Charcol-Tools/scissor4.jpg,Emblem
+0.527681274,Charcol-Tools/scissor5.jpg,Emblem
+0.507306633,Charcol-Tools/scissor5.jpg,Architecture
+0.507306633,Charcol-Tools/scissor5.jpg,Building
+0.507306633,Charcol-Tools/scissor5.jpg,Spire
+0.507306633,Charcol-Tools/scissor5.jpg,Steeple
+0.507306633,Charcol-Tools/scissor5.jpg,Tower
+,Charcol-Tools/screw1.jpg,No Result
+0.508359604,Charcol-Tools/screw2.jpg,Emblem
+,Charcol-Tools/screw3.jpg,No Result
+0.98331337,Charcol-Tools/screw4.jpg,Key
+0.516991806,Charcol-Tools/screw4.jpg,Emblem
+0.922954102,Charcol-Tools/screw5.jpg,Emblem
+0.922954102,Charcol-Tools/screw5.jpg,Spear
+0.922954102,Charcol-Tools/screw5.jpg,Trident
+0.922954102,Charcol-Tools/screw5.jpg,Weapon
+0.783532333,Charcol-Tools/shovel1.jpg,Logo
+0.783532333,Charcol-Tools/shovel1.jpg,Trademark
+0.763579483,Charcol-Tools/shovel1.jpg,Emblem
+0.800169449,Charcol-Tools/shovel2.jpg,Clarinet
+0.800169449,Charcol-Tools/shovel2.jpg,Leisure Activities
+0.800169449,Charcol-Tools/shovel2.jpg,Music
+0.800169449,Charcol-Tools/shovel2.jpg,Musical Instrument
+0.829321289,Charcol-Tools/shovel3.jpg,Bling
+0.829321289,Charcol-Tools/shovel3.jpg,Jewelry
+0.829321289,Charcol-Tools/shovel3.jpg,Ornament
+0.572346878,Charcol-Tools/shovel4.jpg,Hand
+0.563005028,Charcol-Tools/shovel4.jpg,Bling
+0.563005028,Charcol-Tools/shovel4.jpg,Jewelry
+0.563005028,Charcol-Tools/shovel4.jpg,Ornament
+0.511955681,Charcol-Tools/shovel5.jpg,Badge
+0.511955681,Charcol-Tools/shovel5.jpg,Emblem
+0.511955681,Charcol-Tools/shovel5.jpg,Logo
+0.511955681,Charcol-Tools/shovel5.jpg,Trademark
+0.531300964,Charcol-Tools/tape1.jpg,Art
+0.531300964,Charcol-Tools/tape1.jpg,Doodle
+0.531300964,Charcol-Tools/tape1.jpg,Drawing
+0.542638893,Charcol-Tools/tape2.jpg,Baseball Cap
+0.542638893,Charcol-Tools/tape2.jpg,Cap
+0.542638893,Charcol-Tools/tape2.jpg,Clothing
+0.542638893,Charcol-Tools/tape2.jpg,Hat
+0.527985878,Charcol-Tools/tape2.jpg,Bling
+0.527985878,Charcol-Tools/tape2.jpg,Jewelry
+0.527985878,Charcol-Tools/tape2.jpg,Ornament
+0.507147713,Charcol-Tools/tape2.jpg,Emblem
+,Charcol-Tools/tape3.jpg,No Result
+0.507925758,Charcol-Tools/tape4.jpg,Emblem
+0.992612381,Charcol-Tools/tape5.jpg,Key
+,Charcol-Tools/wrench1.jpg,No Result
+0.922629929,Charcol-Tools/wrench2.jpg,Bassoon
+0.922629929,Charcol-Tools/wrench2.jpg,Leisure Activities
+0.922629929,Charcol-Tools/wrench2.jpg,Music
+0.922629929,Charcol-Tools/wrench2.jpg,Musical Instrument
+0.922629929,Charcol-Tools/wrench2.jpg,Oboe
+,Charcol-Tools/wrench3.jpg,No Result
+,Charcol-Tools/wrench4.jpg,No Result
+0.744914322,Charcol-Tools/wrench5.jpg,Horn
+0.744914322,Charcol-Tools/wrench5.jpg,Leisure Activities
+0.744914322,Charcol-Tools/wrench5.jpg,Music
+0.744914322,Charcol-Tools/wrench5.jpg,Musical Instrument
+0.551755371,Charcol-Tools/wrench5.jpg,Drive Shaft
+0.551755371,Charcol-Tools/wrench5.jpg,Machine
+,Edge-Tools/axe1.jpg,No Result
+0.518374977,Edge-Tools/axe2.jpg,Bling
+0.518374977,Edge-Tools/axe2.jpg,Jewelry
+0.518374977,Edge-Tools/axe2.jpg,Ornament
+0.507527046,Edge-Tools/axe2.jpg,Sunglasses
+0.794723892,Edge-Tools/axe3.jpg,Asphalt
+0.794723892,Edge-Tools/axe3.jpg,Tarmac
+0.522870369,Edge-Tools/axe3.jpg,Art
+0.525639877,Edge-Tools/axe4.jpg,Bling
+0.525639877,Edge-Tools/axe4.jpg,Jewelry
+0.525639877,Edge-Tools/axe4.jpg,Ornament
+0.937233963,Edge-Tools/axe5.jpg,Ice
+0.937233963,Edge-Tools/axe5.jpg,Icicle
+0.937233963,Edge-Tools/axe5.jpg,Outdoors
+0.937233963,Edge-Tools/axe5.jpg,Snow
+0.937233963,Edge-Tools/axe5.jpg,Winter
+0.88504776,Edge-Tools/axe5.jpg,Hook
+0.519475327,Edge-Tools/flash1.jpg,Horn
+0.519475327,Edge-Tools/flash1.jpg,Leisure Activities
+0.519475327,Edge-Tools/flash1.jpg,Music
+0.519475327,Edge-Tools/flash1.jpg,Musical Instrument
+0.510666962,Edge-Tools/flash1.jpg,Bling
+0.510666962,Edge-Tools/flash1.jpg,Jewelry
+0.510666962,Edge-Tools/flash1.jpg,Ornament
+0.506395416,Edge-Tools/flash2.jpg,Emblem
+0.919149323,Edge-Tools/flash3.jpg,Night
+0.919149323,Edge-Tools/flash3.jpg,Outdoors
+0.519330368,Edge-Tools/flash3.jpg,Light
+0.508856468,Edge-Tools/flash3.jpg,Building
+0.508856468,Edge-Tools/flash3.jpg,City
+0.508856468,Edge-Tools/flash3.jpg,Town
+0.508856468,Edge-Tools/flash3.jpg,Urban
+0.506096001,Edge-Tools/flash3.jpg,Architecture
+,Edge-Tools/flash4.jpg,No Result
+0.56528492,Edge-Tools/flash5.jpg,Bling
+0.56528492,Edge-Tools/flash5.jpg,Jewelry
+0.56528492,Edge-Tools/flash5.jpg,Ornament
+0.95093895,Edge-Tools/hammer1.jpg,Light
+0.95093895,Edge-Tools/hammer1.jpg,Neon
+0.896998901,Edge-Tools/hammer1.jpg,Night
+0.896998901,Edge-Tools/hammer1.jpg,Outdoors
+0.70478241,Edge-Tools/hammer1.jpg,Sign
+0.570654869,Edge-Tools/hammer1.jpg,Freeway
+0.570654869,Edge-Tools/hammer1.jpg,Highway
+0.570654869,Edge-Tools/hammer1.jpg,Road
+0.513034744,Edge-Tools/hammer1.jpg,Building
+0.513034744,Edge-Tools/hammer1.jpg,City
+0.513034744,Edge-Tools/hammer1.jpg,Town
+0.513034744,Edge-Tools/hammer1.jpg,Urban
+0.507277718,Edge-Tools/hammer1.jpg,Architecture
+0.591631546,Edge-Tools/hammer2.jpg,Astronomy
+0.591631546,Edge-Tools/hammer2.jpg,Outer Space
+0.591631546,Edge-Tools/hammer2.jpg,Space
+0.591631546,Edge-Tools/hammer2.jpg,Universe
+0.770408478,Edge-Tools/hammer3.jpg,Light
+0.511699867,Edge-Tools/hammer3.jpg,Art
+0.511699867,Edge-Tools/hammer3.jpg,Modern Art
+,Edge-Tools/hammer4.jpg,No Result
+,Edge-Tools/hammer5.jpg,No Result
+0.582795677,Edge-Tools/plier1.jpg,Bling
+0.582795677,Edge-Tools/plier1.jpg,Jewelry
+0.582795677,Edge-Tools/plier1.jpg,Ornament
+,Edge-Tools/plier2.jpg,No Result
+0.635389786,Edge-Tools/plier3.jpg,Emblem
+0.579040718,Edge-Tools/plier3.jpg,Ornament
+0.579040718,Edge-Tools/plier3.jpg,Pendant
+0.72054512,Edge-Tools/plier4.jpg,Bling
+0.72054512,Edge-Tools/plier4.jpg,Jewelry
+0.72054512,Edge-Tools/plier4.jpg,Ornament
+0.671064072,Edge-Tools/plier4.jpg,Logo
+0.671064072,Edge-Tools/plier4.jpg,Trademark
+0.666320038,Edge-Tools/plier4.jpg,Clarinet
+0.666320038,Edge-Tools/plier4.jpg,Leisure Activities
+0.666320038,Edge-Tools/plier4.jpg,Music
+0.666320038,Edge-Tools/plier4.jpg,Musical Instrument
+0.59024025,Edge-Tools/plier4.jpg,Emblem
+0.53143383,Edge-Tools/plier4.jpg,Label
+0.53143383,Edge-Tools/plier4.jpg,Text
+0.515162811,Edge-Tools/plier4.jpg,Poster
+0.507871552,Edge-Tools/plier4.jpg,Brochure
+0.507871552,Edge-Tools/plier4.jpg,Flyer
+0.507871552,Edge-Tools/plier4.jpg,Paper
+0.506273499,Edge-Tools/plier4.jpg,Building
+0.506273499,Edge-Tools/plier4.jpg,City
+0.506273499,Edge-Tools/plier4.jpg,Metropolis
+0.506273499,Edge-Tools/plier4.jpg,Town
+0.506273499,Edge-Tools/plier4.jpg,Urban
+0.564652863,Edge-Tools/plier5.jpg,Emblem
+0.530981369,Edge-Tools/plier5.jpg,Ct Scan
+0.530981369,Edge-Tools/plier5.jpg,X-Ray
+0.515162888,Edge-Tools/plier5.jpg,Bass Guitar
+0.515162888,Edge-Tools/plier5.jpg,Guitar
+0.515162888,Edge-Tools/plier5.jpg,Leisure Activities
+0.515162888,Edge-Tools/plier5.jpg,Music
+0.515162888,Edge-Tools/plier5.jpg,Musical Instrument
+0.941614532,Edge-Tools/saw1.jpg,Beverage
+0.941614532,Edge-Tools/saw1.jpg,Coke
+0.941614532,Edge-Tools/saw1.jpg,Drink
+0.508773918,Edge-Tools/saw2.jpg,Diamond
+0.508773918,Edge-Tools/saw2.jpg,Gemstone
+0.508773918,Edge-Tools/saw2.jpg,Jewelry
+0.508773918,Edge-Tools/saw2.jpg,Ornament
+0.538017159,Edge-Tools/saw3.jpg,Lighting
+0.505051918,Edge-Tools/saw3.jpg,Urban
+,Edge-Tools/saw4.jpg,No Result
+0.880719452,Edge-Tools/saw5.jpg,Light
+0.880719452,Edge-Tools/saw5.jpg,Neon
+0.508384781,Edge-Tools/saw5.jpg,Lighting
+0.506914978,Edge-Tools/saw5.jpg,Text
+,Edge-Tools/scissor1.jpg,No Result
+0.726403885,Edge-Tools/scissor2.jpg,Light
+0.89250206,Edge-Tools/scissor3.jpg,Key
+0.697739487,Edge-Tools/scissor4.jpg,Light
+0.508367615,Edge-Tools/scissor4.jpg,Glasses
+0.781293488,Edge-Tools/scissor5.jpg,Ornament
+0.781293488,Edge-Tools/scissor5.jpg,Pendant
+0.50674469,Edge-Tools/scissor5.jpg,Emblem
+,Edge-Tools/screw1.jpg,No Result
+0.561416283,Edge-Tools/screw2.jpg,Night
+0.561416283,Edge-Tools/screw2.jpg,Outdoors
+,Edge-Tools/screw3.jpg,No Result
+0.95017395,Edge-Tools/screw4.jpg,Guitar
+0.95017395,Edge-Tools/screw4.jpg,Leisure Activities
+0.95017395,Edge-Tools/screw4.jpg,Music
+0.95017395,Edge-Tools/screw4.jpg,Musical Instrument
+0.767384262,Edge-Tools/screw5.jpg,Emblem
+0.767384262,Edge-Tools/screw5.jpg,Spear
+0.767384262,Edge-Tools/screw5.jpg,Trident
+0.767384262,Edge-Tools/screw5.jpg,Weapon
+0.511705856,Edge-Tools/shovel1.jpg,Emblem
+0.784407654,Edge-Tools/shovel2.jpg,Ornament
+0.784407654,Edge-Tools/shovel2.jpg,Pendant
+0.771098709,Edge-Tools/shovel3.jpg,Bling
+0.771098709,Edge-Tools/shovel3.jpg,Jewelry
+0.771098709,Edge-Tools/shovel3.jpg,Ornament
+0.542140236,Edge-Tools/shovel4.jpg,Bling
+0.542140236,Edge-Tools/shovel4.jpg,Jewelry
+0.542140236,Edge-Tools/shovel4.jpg,Ornament
+0.53560276,Edge-Tools/shovel4.jpg,Emblem
+0.613334236,Edge-Tools/shovel5.jpg,Bling
+0.613334236,Edge-Tools/shovel5.jpg,Jewelry
+0.613334236,Edge-Tools/shovel5.jpg,Ornament
+0.524217377,Edge-Tools/shovel5.jpg,Emblem
+0.509728775,Edge-Tools/shovel5.jpg,Pendant
+,Edge-Tools/tape1.jpg,No Result
+0.618745918,Edge-Tools/tape2.jpg,Candy
+0.618745918,Edge-Tools/tape2.jpg,Confectionery
+0.618745918,Edge-Tools/tape2.jpg,Food
+0.618745918,Edge-Tools/tape2.jpg,Lollipop
+0.618745918,Edge-Tools/tape2.jpg,Sweets
+0.505863495,Edge-Tools/tape2.jpg,Art
+0.641871185,Edge-Tools/tape3.jpg,Bling
+0.641871185,Edge-Tools/tape3.jpg,Jewelry
+0.641871185,Edge-Tools/tape3.jpg,Ornament
+0.791288528,Edge-Tools/tape4.jpg,Clothing
+0.791288528,Edge-Tools/tape4.jpg,Footwear
+0.791288528,Edge-Tools/tape4.jpg,Running Shoe
+0.791288528,Edge-Tools/tape4.jpg,Shoe
+0.557043304,Edge-Tools/tape4.jpg,Bling
+0.557043304,Edge-Tools/tape4.jpg,Jewelry
+0.557043304,Edge-Tools/tape4.jpg,Ornament
+0.542034569,Edge-Tools/tape4.jpg,Baseball Cap
+0.542034569,Edge-Tools/tape4.jpg,Cap
+0.542034569,Edge-Tools/tape4.jpg,Hat
+0.53987606,Edge-Tools/tape4.jpg,Alcohol
+0.53987606,Edge-Tools/tape4.jpg,Beer
+0.53987606,Edge-Tools/tape4.jpg,Beer Bottle
+0.53987606,Edge-Tools/tape4.jpg,Beverage
+0.53987606,Edge-Tools/tape4.jpg,Bottle
+0.53987606,Edge-Tools/tape4.jpg,Drink
+0.530955963,Edge-Tools/tape4.jpg,Crowd
+0.530955963,Edge-Tools/tape4.jpg,Festival
+0.530955963,Edge-Tools/tape4.jpg,Human
+0.530955963,Edge-Tools/tape4.jpg,Person
+0.566635895,Edge-Tools/tape5.jpg,Bling
+0.566635895,Edge-Tools/tape5.jpg,Jewelry
+0.566635895,Edge-Tools/tape5.jpg,Ornament
+0.549569778,Edge-Tools/tape5.jpg,Gemstone
+0.549569778,Edge-Tools/tape5.jpg,Sapphire
+0.841774521,Edge-Tools/wrench1.jpg,Wrench
+0.683089294,Edge-Tools/wrench2.jpg,Sword
+0.683089294,Edge-Tools/wrench2.jpg,Weapon
+,Edge-Tools/wrench3.jpg,No Result
+0.538117065,Edge-Tools/wrench4.jpg,Bling
+0.538117065,Edge-Tools/wrench4.jpg,Jewelry
+0.538117065,Edge-Tools/wrench4.jpg,Ornament
+0.58910202,Edge-Tools/wrench5.jpg,Horn
+0.58910202,Edge-Tools/wrench5.jpg,Leisure Activities
+0.58910202,Edge-Tools/wrench5.jpg,Music
+0.58910202,Edge-Tools/wrench5.jpg,Musical Instrument
+0.690350647,Edge-White-Tools/axe1.jpg,Diagram
+0.580410194,Edge-White-Tools/axe1.jpg,Letter
+0.580410194,Edge-White-Tools/axe1.jpg,Text
+0.544947739,Edge-White-Tools/axe2.jpg,Letter
+0.544947739,Edge-White-Tools/axe2.jpg,Text
+0.509035187,Edge-White-Tools/axe2.jpg,Hand
+0.596865997,Edge-White-Tools/axe3.jpg,Art
+0.596865997,Edge-White-Tools/axe3.jpg,Doodle
+0.596865997,Edge-White-Tools/axe3.jpg,Drawing
+0.533219147,Edge-White-Tools/axe3.jpg,Diagram
+0.522013664,Edge-White-Tools/axe3.jpg,Letter
+0.522013664,Edge-White-Tools/axe3.jpg,Text
+0.509336586,Edge-White-Tools/axe3.jpg,Plan
+0.560695992,Edge-White-Tools/axe4.jpg,Letter
+0.560695992,Edge-White-Tools/axe4.jpg,Text
+0.513815346,Edge-White-Tools/axe5.jpg,Lamp
+0.698943863,Edge-White-Tools/flash1.jpg,Bracelet
+0.698943863,Edge-White-Tools/flash1.jpg,Jewelry
+0.698943863,Edge-White-Tools/flash1.jpg,Ornament
+0.507817802,Edge-White-Tools/flash2.jpg,Hand
+0.737838974,Edge-White-Tools/flash3.jpg,Letter
+0.737838974,Edge-White-Tools/flash3.jpg,Text
+0.975037308,Edge-White-Tools/flash4.jpg,Letter
+0.975037308,Edge-White-Tools/flash4.jpg,Text
+0.74257782,Edge-White-Tools/flash5.jpg,Art
+0.74257782,Edge-White-Tools/flash5.jpg,Doodle
+0.74257782,Edge-White-Tools/flash5.jpg,Drawing
+0.524578819,Edge-White-Tools/flash5.jpg,Hand
+0.517847061,Edge-White-Tools/hammer1.jpg,Letter
+0.517847061,Edge-White-Tools/hammer1.jpg,Text
+0.618728523,Edge-White-Tools/hammer2.jpg,Diagram
+0.618728523,Edge-White-Tools/hammer2.jpg,Plan
+0.527331047,Edge-White-Tools/hammer2.jpg,Letter
+0.527331047,Edge-White-Tools/hammer2.jpg,Text
+0.506173553,Edge-White-Tools/hammer2.jpg,Hand
+0.625489159,Edge-White-Tools/hammer3.jpg,Hand
+0.604417877,Edge-White-Tools/hammer3.jpg,Art
+0.604417877,Edge-White-Tools/hammer3.jpg,Drawing
+0.517921562,Edge-White-Tools/hammer4.jpg,Text
+0.505044403,Edge-White-Tools/hammer5.jpg,Letter
+0.505044403,Edge-White-Tools/hammer5.jpg,Text
+,Edge-White-Tools/plier1.jpg,No Result
+0.941029892,Edge-White-Tools/plier2.jpg,Letter
+0.941029892,Edge-White-Tools/plier2.jpg,Text
+0.615515366,Edge-White-Tools/plier3.jpg,Hand
+0.534184799,Edge-White-Tools/plier3.jpg,Art
+0.534184799,Edge-White-Tools/plier3.jpg,Drawing
+0.785641632,Edge-White-Tools/plier4.jpg,Art
+0.785641632,Edge-White-Tools/plier4.jpg,Drawing
+0.727635422,Edge-White-Tools/plier4.jpg,Sketch
+0.613218117,Edge-White-Tools/plier4.jpg,Paper
+0.506848335,Edge-White-Tools/plier4.jpg,Letter
+0.506848335,Edge-White-Tools/plier4.jpg,Text
+0.616019897,Edge-White-Tools/plier5.jpg,Hand
+0.590302238,Edge-White-Tools/plier5.jpg,Diagram
+0.590302238,Edge-White-Tools/plier5.jpg,Plan
+0.516152916,Edge-White-Tools/plier5.jpg,Letter
+0.516152916,Edge-White-Tools/plier5.jpg,Text
+0.530758133,Edge-White-Tools/saw1.jpg,Letter
+0.530758133,Edge-White-Tools/saw1.jpg,Text
+0.538366508,Edge-White-Tools/saw2.jpg,Letter
+0.538366508,Edge-White-Tools/saw2.jpg,Text
+0.88734642,Edge-White-Tools/saw3.jpg,Diagram
+0.88734642,Edge-White-Tools/saw3.jpg,Plan
+0.510573463,Edge-White-Tools/saw3.jpg,Text
+0.662175827,Edge-White-Tools/saw4.jpg,Letter
+0.662175827,Edge-White-Tools/saw4.jpg,Text
+0.850618057,Edge-White-Tools/saw5.jpg,Diagram
+0.509656715,Edge-White-Tools/saw5.jpg,Letter
+0.509656715,Edge-White-Tools/saw5.jpg,Text
+,Edge-White-Tools/scissor1.jpg,No Result
+0.825683899,Edge-White-Tools/scissor2.jpg,Key
+0.640516052,Edge-White-Tools/scissor2.jpg,Art
+0.640516052,Edge-White-Tools/scissor2.jpg,Drawing
+0.579548111,Edge-White-Tools/scissor2.jpg,Sketch
+0.505507126,Edge-White-Tools/scissor2.jpg,Glasses
+0.982141113,Edge-White-Tools/scissor3.jpg,Key
+0.884290009,Edge-White-Tools/scissor4.jpg,Art
+0.884290009,Edge-White-Tools/scissor4.jpg,Doodle
+0.884290009,Edge-White-Tools/scissor4.jpg,Drawing
+0.525049133,Edge-White-Tools/scissor4.jpg,Letter
+0.525049133,Edge-White-Tools/scissor4.jpg,Text
+,Edge-White-Tools/scissor5.jpg,No Result
+,Edge-White-Tools/screw1.jpg,No Result
+0.537075691,Edge-White-Tools/screw2.jpg,Art
+0.537075691,Edge-White-Tools/screw2.jpg,Drawing
+0.537075691,Edge-White-Tools/screw2.jpg,Sketch
+0.510288315,Edge-White-Tools/screw2.jpg,Label
+0.510288315,Edge-White-Tools/screw2.jpg,Text
+,Edge-White-Tools/screw3.jpg,No Result
+,Edge-White-Tools/screw4.jpg,No Result
+,Edge-White-Tools/screw5.jpg,No Result
+0.789854431,Edge-White-Tools/shovel1.jpg,Diagram
+0.789854431,Edge-White-Tools/shovel1.jpg,Plan
+0.52419548,Edge-White-Tools/shovel1.jpg,Art
+0.52419548,Edge-White-Tools/shovel1.jpg,Drawing
+0.52419548,Edge-White-Tools/shovel1.jpg,Sketch
+0.52110775,Edge-White-Tools/shovel1.jpg,Hand
+0.509427185,Edge-White-Tools/shovel1.jpg,Letter
+0.509427185,Edge-White-Tools/shovel1.jpg,Text
+0.521955795,Edge-White-Tools/shovel2.jpg,Text
+0.515515976,Edge-White-Tools/shovel2.jpg,Hand
+0.508935928,Edge-White-Tools/shovel3.jpg,Text
+0.606190186,Edge-White-Tools/shovel4.jpg,Hand
+0.52317852,Edge-White-Tools/shovel4.jpg,Text
+0.799267349,Edge-White-Tools/shovel5.jpg,Diagram
+0.510544777,Edge-White-Tools/shovel5.jpg,Alcohol
+0.510544777,Edge-White-Tools/shovel5.jpg,Beverage
+0.510544777,Edge-White-Tools/shovel5.jpg,Drink
+0.510544777,Edge-White-Tools/shovel5.jpg,Glass
+0.510544777,Edge-White-Tools/shovel5.jpg,Wine
+0.510544777,Edge-White-Tools/shovel5.jpg,Wine Glass
+0.505111046,Edge-White-Tools/shovel5.jpg,Text
+0.938410568,Edge-White-Tools/tape1.jpg,Art
+0.938410568,Edge-White-Tools/tape1.jpg,Drawing
+0.938410568,Edge-White-Tools/tape1.jpg,Sketch
+0.675178375,Edge-White-Tools/tape1.jpg,Doodle
+0.825955353,Edge-White-Tools/tape2.jpg,Art
+0.825955353,Edge-White-Tools/tape2.jpg,Drawing
+0.825955353,Edge-White-Tools/tape2.jpg,Sketch
+0.596377068,Edge-White-Tools/tape2.jpg,Letter
+0.596377068,Edge-White-Tools/tape2.jpg,Text
+0.779537048,Edge-White-Tools/tape3.jpg,Calligraphy
+0.779537048,Edge-White-Tools/tape3.jpg,Handwriting
+0.779537048,Edge-White-Tools/tape3.jpg,Text
+0.599940796,Edge-White-Tools/tape3.jpg,Letter
+0.69134201,Edge-White-Tools/tape4.jpg,Art
+0.69134201,Edge-White-Tools/tape4.jpg,Drawing
+0.69134201,Edge-White-Tools/tape4.jpg,Sketch
+0.550570183,Edge-White-Tools/tape4.jpg,Doodle
+0.549870377,Edge-White-Tools/tape4.jpg,Calligraphy
+0.549870377,Edge-White-Tools/tape4.jpg,Handwriting
+0.549870377,Edge-White-Tools/tape4.jpg,Text
+0.516485863,Edge-White-Tools/tape4.jpg,Letter
+0.552985077,Edge-White-Tools/tape5.jpg,Letter
+0.552985077,Edge-White-Tools/tape5.jpg,Text
+0.550080414,Edge-White-Tools/tape5.jpg,Art
+0.550080414,Edge-White-Tools/tape5.jpg,Doodle
+0.550080414,Edge-White-Tools/tape5.jpg,Drawing
+0.505864906,Edge-White-Tools/wrench1.jpg,Text
+0.788850555,Edge-White-Tools/wrench2.jpg,Letter
+0.788850555,Edge-White-Tools/wrench2.jpg,Text
+0.507643089,Edge-White-Tools/wrench3.jpg,Letter
+0.507643089,Edge-White-Tools/wrench3.jpg,Text
+0.598739281,Edge-White-Tools/wrench4.jpg,Bassoon
+0.598739281,Edge-White-Tools/wrench4.jpg,Leisure Activities
+0.598739281,Edge-White-Tools/wrench4.jpg,Music
+0.598739281,Edge-White-Tools/wrench4.jpg,Musical Instrument
+0.598739281,Edge-White-Tools/wrench4.jpg,Oboe
+0.511168404,Edge-White-Tools/wrench4.jpg,Letter
+0.511168404,Edge-White-Tools/wrench4.jpg,Text
+,Edge-White-Tools/wrench5.jpg,No Result
+0.920716019,Frame-Blue/axe1.jpg,Axe
+0.961973495,Frame-Blue/axe2.jpg,Axe
+,Frame-Blue/axe3.jpg,No Result
+0.902840347,Frame-Blue/axe4.jpg,Axe
+0.506507568,Frame-Blue/axe4.jpg,Triangle
+0.506507568,Frame-Blue/axe4.jpg,Wedge
+0.821093979,Frame-Blue/axe5.jpg,Axe
+0.924328003,Frame-Blue/flash1.jpg,Flashlight
+0.53493,Frame-Blue/flash1.jpg,Word
+0.510971069,Frame-Blue/flash1.jpg,Text
+0.770561142,Frame-Blue/flash2.jpg,Flashlight
+0.698152161,Frame-Blue/flash3.jpg,LED
+0.698152161,Frame-Blue/flash3.jpg,Lighting
+0.698152161,Frame-Blue/flash3.jpg,Spotlight
+0.688760986,Frame-Blue/flash3.jpg,Computer
+0.688760986,Frame-Blue/flash3.jpg,Electronics
+0.688760986,Frame-Blue/flash3.jpg,Laptop
+0.688760986,Frame-Blue/flash3.jpg,Pc
+0.651850204,Frame-Blue/flash3.jpg,Screen
+0.536524696,Frame-Blue/flash3.jpg,Text
+0.510845909,Frame-Blue/flash3.jpg,Hand
+,Frame-Blue/flash4.jpg,No Result
+0.979944611,Frame-Blue/flash5.jpg,Flashlight
+0.533387604,Frame-Blue/flash5.jpg,Electrical Device
+0.533387604,Frame-Blue/flash5.jpg,Fuse
+,Frame-Blue/hammer1.jpg,No Result
+,Frame-Blue/hammer2.jpg,No Result
+,Frame-Blue/hammer3.jpg,No Result
+,Frame-Blue/hammer4.jpg,No Result
+0.9249366,Frame-Blue/hammer5.jpg,Hammer
+0.9249366,Frame-Blue/hammer5.jpg,Mallet
+0.983482208,Frame-Blue/plier1.jpg,Pliers
+0.656004944,Frame-Blue/plier1.jpg,Inflatable
+,Frame-Blue/plier2.jpg,No Result
+0.929233398,Frame-Blue/plier3.jpg,Pliers
+0.571602936,Frame-Blue/plier4.jpg,Finger
+0.509533997,Frame-Blue/plier4.jpg,Label
+0.509533997,Frame-Blue/plier4.jpg,Text
+0.506370087,Frame-Blue/plier4.jpg,Clothing
+0.506370087,Frame-Blue/plier4.jpg,Lifejacket
+0.506370087,Frame-Blue/plier4.jpg,Vest
+,Frame-Blue/plier5.jpg,No Result
+0.553669395,Frame-Blue/saw1.jpg,Envelope
+0.553669395,Frame-Blue/saw1.jpg,Greeting Card
+0.553669395,Frame-Blue/saw1.jpg,Mail
+0.505486832,Frame-Blue/saw1.jpg,Text
+0.960074692,Frame-Blue/saw2.jpg,Projection Screen
+0.960074692,Frame-Blue/saw2.jpg,Screen
+0.505810623,Frame-Blue/saw2.jpg,Sunglasses
+0.698901749,Frame-Blue/saw3.jpg,White Board
+0.509239807,Frame-Blue/saw3.jpg,Furniture
+0.506672516,Frame-Blue/saw4.jpg,Glasses
+0.506015167,Frame-Blue/saw4.jpg,Text
+,Frame-Blue/saw5.jpg,No Result
+,Frame-Blue/scissor1.jpg,No Result
+0.692642136,Frame-Blue/scissor2.jpg,Scissors
+0.50764801,Frame-Blue/scissor3.jpg,Emblem
+0.50764801,Frame-Blue/scissor3.jpg,Flag
+0.511711845,Frame-Blue/scissor4.jpg,Emblem
+,Frame-Blue/scissor5.jpg,No Result
+0.594952393,Frame-Blue/screw1.jpg,Diagram
+0.520269508,Frame-Blue/screw1.jpg,Text
+0.986284485,Frame-Blue/screw2.jpg,Screwdriver
+,Frame-Blue/screw3.jpg,No Result
+0.758174133,Frame-Blue/screw4.jpg,Screwdriver
+0.991548386,Frame-Blue/screw5.jpg,Screwdriver
+0.945496979,Frame-Blue/shovel1.jpg,Projection Screen
+0.945496979,Frame-Blue/shovel1.jpg,Screen
+0.53320652,Frame-Blue/shovel1.jpg,White Board
+0.87817749,Frame-Blue/shovel2.jpg,Shovel
+0.739269562,Frame-Blue/shovel3.jpg,Accessories
+0.739269562,Frame-Blue/shovel3.jpg,Bag
+0.739269562,Frame-Blue/shovel3.jpg,Handbag
+0.739269562,Frame-Blue/shovel3.jpg,Purse
+0.989876099,Frame-Blue/shovel4.jpg,Shovel
+0.700822144,Frame-Blue/shovel5.jpg,Cushion
+0.700822144,Frame-Blue/shovel5.jpg,Headrest
+0.700822144,Frame-Blue/shovel5.jpg,Home Decor
+0.509341888,Frame-Blue/tape1.jpg,Clothing
+0.509341888,Frame-Blue/tape1.jpg,Lifejacket
+0.509341888,Frame-Blue/tape1.jpg,Vest
+0.50602047,Frame-Blue/tape1.jpg,Automobile
+0.50602047,Frame-Blue/tape1.jpg,Car
+0.50602047,Frame-Blue/tape1.jpg,Suv
+0.50602047,Frame-Blue/tape1.jpg,Transportation
+0.50602047,Frame-Blue/tape1.jpg,Vehicle
+0.96180687,Frame-Blue/tape2.jpg,Cap
+0.96180687,Frame-Blue/tape2.jpg,Clothing
+0.96180687,Frame-Blue/tape2.jpg,Hat
+0.606048927,Frame-Blue/tape2.jpg,Hardhat
+0.606048927,Frame-Blue/tape2.jpg,Helmet
+0.510048676,Frame-Blue/tape2.jpg,Baseball Cap
+0.862650299,Frame-Blue/tape3.jpg,Ball
+0.862650299,Frame-Blue/tape3.jpg,Sphere
+0.512017136,Frame-Blue/tape3.jpg,Text
+0.511286507,Frame-Blue/tape3.jpg,Dish
+0.511286507,Frame-Blue/tape3.jpg,Food
+0.511286507,Frame-Blue/tape3.jpg,Meal
+0.511286507,Frame-Blue/tape3.jpg,Plate
+0.53703125,Frame-Blue/tape4.jpg,Cylinder
+0.512595787,Frame-Blue/tape4.jpg,Cap
+0.512595787,Frame-Blue/tape4.jpg,Clothing
+0.512595787,Frame-Blue/tape4.jpg,Hat
+0.982205582,Frame-Blue/tape5.jpg,Reel
+0.522149849,Frame-Blue/tape5.jpg,Label
+0.522149849,Frame-Blue/tape5.jpg,Text
+0.508688622,Frame-Blue/tape5.jpg,Gauge
+0.961696777,Frame-Blue/wrench1.jpg,Wrench
+,Frame-Blue/wrench2.jpg,No Result
+,Frame-Blue/wrench3.jpg,No Result
+0.506590652,Frame-Blue/wrench4.jpg,Text
+0.544904251,Frame-Blue/wrench5.jpg,Text
+0.926208344,Frame-Leaves/axe1.jpg,Axe
+0.891831665,Frame-Leaves/axe1.jpg,Hoe
+0.876647644,Frame-Leaves/axe1.jpg,Flora
+0.876647644,Frame-Leaves/axe1.jpg,Plant
+0.876647644,Frame-Leaves/axe1.jpg,Vine
+0.675592957,Frame-Leaves/axe1.jpg,Ivy
+0.522698936,Frame-Leaves/axe1.jpg,Leaf
+0.920808487,Frame-Leaves/axe2.jpg,Flora
+0.920808487,Frame-Leaves/axe2.jpg,Plant
+0.920808487,Frame-Leaves/axe2.jpg,Vine
+0.668657455,Frame-Leaves/axe2.jpg,Ivy
+0.635134201,Frame-Leaves/axe2.jpg,Axe
+0.546050301,Frame-Leaves/axe2.jpg,Leaf
+0.522670021,Frame-Leaves/axe2.jpg,Blossom
+0.522670021,Frame-Leaves/axe2.jpg,Flower
+0.522670021,Frame-Leaves/axe2.jpg,Flower Arrangement
+0.522670021,Frame-Leaves/axe2.jpg,Ornament
+0.797984543,Frame-Leaves/axe3.jpg,Axe
+0.763949051,Frame-Leaves/axe3.jpg,Flora
+0.763949051,Frame-Leaves/axe3.jpg,Leaf
+0.763949051,Frame-Leaves/axe3.jpg,Plant
+0.532714729,Frame-Leaves/axe3.jpg,Vine
+0.531620979,Frame-Leaves/axe3.jpg,Blossom
+0.531620979,Frame-Leaves/axe3.jpg,Flower
+0.900819855,Frame-Leaves/axe4.jpg,Flora
+0.900819855,Frame-Leaves/axe4.jpg,Plant
+0.900819855,Frame-Leaves/axe4.jpg,Vine
+0.879223557,Frame-Leaves/axe4.jpg,Leaf
+0.581451874,Frame-Leaves/axe4.jpg,Ivy
+0.505889893,Frame-Leaves/axe4.jpg,Maple Leaf
+0.505442543,Frame-Leaves/axe4.jpg,Grass
+0.89970787,Frame-Leaves/axe5.jpg,Flora
+0.89970787,Frame-Leaves/axe5.jpg,Plant
+0.89970787,Frame-Leaves/axe5.jpg,Vine
+0.879223557,Frame-Leaves/axe5.jpg,Leaf
+0.584424515,Frame-Leaves/axe5.jpg,Ivy
+0.564221611,Frame-Leaves/axe5.jpg,Herbs
+0.564221611,Frame-Leaves/axe5.jpg,Jar
+0.564221611,Frame-Leaves/axe5.jpg,Planter
+0.564221611,Frame-Leaves/axe5.jpg,Potted Plant
+0.564221611,Frame-Leaves/axe5.jpg,Pottery
+0.564221611,Frame-Leaves/axe5.jpg,Vase
+0.561226349,Frame-Leaves/axe5.jpg,Furniture
+0.529224472,Frame-Leaves/axe5.jpg,Blossom
+0.529224472,Frame-Leaves/axe5.jpg,Flower
+0.529224472,Frame-Leaves/axe5.jpg,Flower Arrangement
+0.529224472,Frame-Leaves/axe5.jpg,Ornament
+0.515004692,Frame-Leaves/axe5.jpg,Fungus
+0.515004692,Frame-Leaves/axe5.jpg,Mushroom
+0.513480797,Frame-Leaves/axe5.jpg,Cushion
+0.513480797,Frame-Leaves/axe5.jpg,Home Decor
+0.505937233,Frame-Leaves/axe5.jpg,Maple Leaf
+0.505442543,Frame-Leaves/axe5.jpg,Grass
+0.82835968,Frame-Leaves/flash1.jpg,Collage
+0.82835968,Frame-Leaves/flash1.jpg,Poster
+0.76125885,Frame-Leaves/flash1.jpg,Flora
+0.76125885,Frame-Leaves/flash1.jpg,Plant
+0.7190728,Frame-Leaves/flash1.jpg,Vine
+0.548287621,Frame-Leaves/flash1.jpg,Leaf
+0.508501701,Frame-Leaves/flash1.jpg,Blossom
+0.508501701,Frame-Leaves/flash1.jpg,Flower
+0.508501701,Frame-Leaves/flash1.jpg,Flower Arrangement
+0.508501701,Frame-Leaves/flash1.jpg,Ornament
+0.873120117,Frame-Leaves/flash2.jpg,Flora
+0.873120117,Frame-Leaves/flash2.jpg,Leaf
+0.873120117,Frame-Leaves/flash2.jpg,Plant
+0.507547302,Frame-Leaves/flash2.jpg,Blossom
+0.507547302,Frame-Leaves/flash2.jpg,Flower
+0.506622543,Frame-Leaves/flash2.jpg,Citrus Fruit
+0.506622543,Frame-Leaves/flash2.jpg,Food
+0.506622543,Frame-Leaves/flash2.jpg,Fruit
+0.506622543,Frame-Leaves/flash2.jpg,Grapefruit
+0.506622543,Frame-Leaves/flash2.jpg,Lime
+0.506622543,Frame-Leaves/flash2.jpg,Produce
+0.889593277,Frame-Leaves/flash3.jpg,Animal
+0.889593277,Frame-Leaves/flash3.jpg,Bird
+0.889593277,Frame-Leaves/flash3.jpg,Hummingbird
+0.847335129,Frame-Leaves/flash3.jpg,Flora
+0.847335129,Frame-Leaves/flash3.jpg,Plant
+0.847335129,Frame-Leaves/flash3.jpg,Vine
+0.821196442,Frame-Leaves/flash3.jpg,Flashlight
+0.624632721,Frame-Leaves/flash3.jpg,Blossom
+0.624632721,Frame-Leaves/flash3.jpg,Flower
+0.624632721,Frame-Leaves/flash3.jpg,Lily
+0.624632721,Frame-Leaves/flash3.jpg,Pond Lily
+0.576822701,Frame-Leaves/flash3.jpg,Leaf
+0.570539551,Frame-Leaves/flash3.jpg,Collage
+0.570539551,Frame-Leaves/flash3.jpg,Poster
+0.539583282,Frame-Leaves/flash3.jpg,Ivy
+0.506546135,Frame-Leaves/flash3.jpg,Flower Arrangement
+0.506546135,Frame-Leaves/flash3.jpg,Ornament
+0.506463661,Frame-Leaves/flash3.jpg,Oak
+0.506463661,Frame-Leaves/flash3.jpg,Sycamore
+0.506463661,Frame-Leaves/flash3.jpg,Tree
+0.50635849,Frame-Leaves/flash3.jpg,Maple Leaf
+0.505758705,Frame-Leaves/flash3.jpg,Hand
+0.879223022,Frame-Leaves/flash4.jpg,Flora
+0.879223022,Frame-Leaves/flash4.jpg,Leaf
+0.879223022,Frame-Leaves/flash4.jpg,Plant
+0.523089409,Frame-Leaves/flash4.jpg,Vine
+0.505442543,Frame-Leaves/flash4.jpg,Grass
+0.970639343,Frame-Leaves/flash5.jpg,Bottle
+0.524842453,Frame-Leaves/flash5.jpg,Clothing
+0.524842453,Frame-Leaves/flash5.jpg,Lifejacket
+0.524842453,Frame-Leaves/flash5.jpg,Vest
+0.50520134,Frame-Leaves/flash5.jpg,Blossom
+0.50520134,Frame-Leaves/flash5.jpg,Flora
+0.50520134,Frame-Leaves/flash5.jpg,Flower
+0.50520134,Frame-Leaves/flash5.jpg,Flower Arrangement
+0.50520134,Frame-Leaves/flash5.jpg,Ornament
+0.50520134,Frame-Leaves/flash5.jpg,Plant
+0.905309143,Frame-Leaves/hammer1.jpg,Flora
+0.905309143,Frame-Leaves/hammer1.jpg,Plant
+0.905309143,Frame-Leaves/hammer1.jpg,Vine
+0.879223557,Frame-Leaves/hammer1.jpg,Leaf
+0.769839172,Frame-Leaves/hammer1.jpg,Ivy
+0.708974152,Frame-Leaves/hammer1.jpg,Collage
+0.708974152,Frame-Leaves/hammer1.jpg,Poster
+0.600788994,Frame-Leaves/hammer1.jpg,Hoe
+0.508993225,Frame-Leaves/hammer1.jpg,Blossom
+0.508993225,Frame-Leaves/hammer1.jpg,Flower
+0.508993225,Frame-Leaves/hammer1.jpg,Flower Arrangement
+0.508993225,Frame-Leaves/hammer1.jpg,Ornament
+0.507036209,Frame-Leaves/hammer1.jpg,Maple Leaf
+0.505442543,Frame-Leaves/hammer1.jpg,Grass
+0.939856567,Frame-Leaves/hammer2.jpg,Flora
+0.939856567,Frame-Leaves/hammer2.jpg,Plant
+0.939856567,Frame-Leaves/hammer2.jpg,Vine
+0.643522949,Frame-Leaves/hammer2.jpg,Ivy
+0.634323845,Frame-Leaves/hammer2.jpg,Blade
+0.634323845,Frame-Leaves/hammer2.jpg,Knife
+0.634323845,Frame-Leaves/hammer2.jpg,Weapon
+0.540972481,Frame-Leaves/hammer2.jpg,Collage
+0.540972481,Frame-Leaves/hammer2.jpg,Poster
+0.531242142,Frame-Leaves/hammer2.jpg,Leaf
+0.950932541,Frame-Leaves/hammer3.jpg,Hacksaw
+0.950932541,Frame-Leaves/hammer3.jpg,Handsaw
+0.950932541,Frame-Leaves/hammer3.jpg,Pruner
+0.887335815,Frame-Leaves/hammer3.jpg,Flora
+0.887335815,Frame-Leaves/hammer3.jpg,Plant
+0.887335815,Frame-Leaves/hammer3.jpg,Vine
+0.569439049,Frame-Leaves/hammer3.jpg,Ivy
+0.551622391,Frame-Leaves/hammer3.jpg,Leaf
+0.506738663,Frame-Leaves/hammer3.jpg,Maple Leaf
+0.879223557,Frame-Leaves/hammer4.jpg,Flora
+0.879223557,Frame-Leaves/hammer4.jpg,Leaf
+0.879223557,Frame-Leaves/hammer4.jpg,Plant
+0.832962952,Frame-Leaves/hammer4.jpg,Vine
+0.754896545,Frame-Leaves/hammer4.jpg,Collage
+0.754896545,Frame-Leaves/hammer4.jpg,Poster
+0.704826813,Frame-Leaves/hammer4.jpg,Ivy
+0.5226614,Frame-Leaves/hammer4.jpg,Herbs
+0.5226614,Frame-Leaves/hammer4.jpg,Jar
+0.5226614,Frame-Leaves/hammer4.jpg,Mint
+0.5226614,Frame-Leaves/hammer4.jpg,Planter
+0.5226614,Frame-Leaves/hammer4.jpg,Potted Plant
+0.5226614,Frame-Leaves/hammer4.jpg,Pottery
+0.5226614,Frame-Leaves/hammer4.jpg,Vase
+0.508176041,Frame-Leaves/hammer4.jpg,Oak
+0.508176041,Frame-Leaves/hammer4.jpg,Sycamore
+0.508176041,Frame-Leaves/hammer4.jpg,Tree
+0.505442543,Frame-Leaves/hammer4.jpg,Grass
+0.505425873,Frame-Leaves/hammer4.jpg,Maple Leaf
+0.872939224,Frame-Leaves/hammer5.jpg,Cork
+0.757996063,Frame-Leaves/plier1.jpg,Flora
+0.757996063,Frame-Leaves/plier1.jpg,Plant
+0.55990612,Frame-Leaves/plier1.jpg,Leaf
+0.559300423,Frame-Leaves/plier1.jpg,Cucumber
+0.559300423,Frame-Leaves/plier1.jpg,Food
+0.559300423,Frame-Leaves/plier1.jpg,Produce
+0.559300423,Frame-Leaves/plier1.jpg,Vegetable
+0.51655735,Frame-Leaves/plier1.jpg,Beverage
+0.51655735,Frame-Leaves/plier1.jpg,Drink
+0.51655735,Frame-Leaves/plier1.jpg,Juice
+0.506702843,Frame-Leaves/plier1.jpg,Art
+0.506702843,Frame-Leaves/plier1.jpg,Blossom
+0.506702843,Frame-Leaves/plier1.jpg,Flower
+0.506702843,Frame-Leaves/plier1.jpg,Flower Arrangement
+0.506702843,Frame-Leaves/plier1.jpg,Ikebana
+0.506702843,Frame-Leaves/plier1.jpg,Jar
+0.506702843,Frame-Leaves/plier1.jpg,Ornament
+0.506702843,Frame-Leaves/plier1.jpg,Pottery
+0.506702843,Frame-Leaves/plier1.jpg,Vase
+0.934825745,Frame-Leaves/plier2.jpg,Flora
+0.934825745,Frame-Leaves/plier2.jpg,Leaf
+0.934825745,Frame-Leaves/plier2.jpg,Plant
+0.90864502,Frame-Leaves/plier2.jpg,Ivy
+0.861929855,Frame-Leaves/plier2.jpg,Vine
+0.756648102,Frame-Leaves/plier2.jpg,Herbs
+0.756648102,Frame-Leaves/plier2.jpg,Jar
+0.756648102,Frame-Leaves/plier2.jpg,Mint
+0.756648102,Frame-Leaves/plier2.jpg,Planter
+0.756648102,Frame-Leaves/plier2.jpg,Potted Plant
+0.756648102,Frame-Leaves/plier2.jpg,Pottery
+0.756648102,Frame-Leaves/plier2.jpg,Vase
+0.569018478,Frame-Leaves/plier2.jpg,Art
+0.569018478,Frame-Leaves/plier2.jpg,Floral Design
+0.569018478,Frame-Leaves/plier2.jpg,Graphic Design
+0.569018478,Frame-Leaves/plier2.jpg,Ornament
+0.533870163,Frame-Leaves/plier2.jpg,Maple Leaf
+0.526491508,Frame-Leaves/plier2.jpg,Blossom
+0.526491508,Frame-Leaves/plier2.jpg,Flower
+0.507975273,Frame-Leaves/plier2.jpg,Flower Arrangement
+0.506343765,Frame-Leaves/plier2.jpg,Geranium
+0.877191391,Frame-Leaves/plier3.jpg,Hacksaw
+0.877191391,Frame-Leaves/plier3.jpg,Handsaw
+0.877191391,Frame-Leaves/plier3.jpg,Pruner
+0.775814972,Frame-Leaves/plier3.jpg,Collage
+0.775814972,Frame-Leaves/plier3.jpg,Poster
+0.735553589,Frame-Leaves/plier3.jpg,Flora
+0.735553589,Frame-Leaves/plier3.jpg,Plant
+0.725014954,Frame-Leaves/plier3.jpg,Leaf
+0.514137497,Frame-Leaves/plier3.jpg,Blossom
+0.514137497,Frame-Leaves/plier3.jpg,Flower
+0.508891106,Frame-Leaves/plier3.jpg,Vine
+0.508782692,Frame-Leaves/plier3.jpg,Flower Arrangement
+0.508782692,Frame-Leaves/plier3.jpg,Ornament
+0.89970787,Frame-Leaves/plier4.jpg,Flora
+0.89970787,Frame-Leaves/plier4.jpg,Plant
+0.89970787,Frame-Leaves/plier4.jpg,Vine
+0.879223557,Frame-Leaves/plier4.jpg,Leaf
+0.80300293,Frame-Leaves/plier4.jpg,Collage
+0.80300293,Frame-Leaves/plier4.jpg,Poster
+0.584424515,Frame-Leaves/plier4.jpg,Ivy
+0.505937233,Frame-Leaves/plier4.jpg,Maple Leaf
+0.505442543,Frame-Leaves/plier4.jpg,Grass
+0.859192734,Frame-Leaves/plier5.jpg,Flora
+0.859192734,Frame-Leaves/plier5.jpg,Plant
+0.859192734,Frame-Leaves/plier5.jpg,Vine
+0.799104843,Frame-Leaves/plier5.jpg,Blade
+0.799104843,Frame-Leaves/plier5.jpg,Knife
+0.799104843,Frame-Leaves/plier5.jpg,Weapon
+0.689061737,Frame-Leaves/plier5.jpg,Collage
+0.689061737,Frame-Leaves/plier5.jpg,Poster
+0.545341187,Frame-Leaves/plier5.jpg,Leaf
+0.983988571,Frame-Leaves/saw1.jpg,Art
+0.983988571,Frame-Leaves/saw1.jpg,Floral Design
+0.983988571,Frame-Leaves/saw1.jpg,Graphic Design
+0.983988571,Frame-Leaves/saw1.jpg,Ornament
+0.918511963,Frame-Leaves/saw1.jpg,Flora
+0.918511963,Frame-Leaves/saw1.jpg,Plant
+0.918511963,Frame-Leaves/saw1.jpg,Vine
+0.817848892,Frame-Leaves/saw1.jpg,Ivy
+0.694758835,Frame-Leaves/saw1.jpg,Leaf
+0.623889275,Frame-Leaves/saw1.jpg,Herbs
+0.623889275,Frame-Leaves/saw1.jpg,Jar
+0.623889275,Frame-Leaves/saw1.jpg,Mint
+0.623889275,Frame-Leaves/saw1.jpg,Planter
+0.623889275,Frame-Leaves/saw1.jpg,Potted Plant
+0.623889275,Frame-Leaves/saw1.jpg,Pottery
+0.623889275,Frame-Leaves/saw1.jpg,Vase
+0.550990295,Frame-Leaves/saw1.jpg,Blossom
+0.550990295,Frame-Leaves/saw1.jpg,Flower
+0.550990295,Frame-Leaves/saw1.jpg,Flower Arrangement
+0.5062397,Frame-Leaves/saw1.jpg,Envelope
+0.5062397,Frame-Leaves/saw1.jpg,Greeting Card
+0.5062397,Frame-Leaves/saw1.jpg,Mail
+0.912498093,Frame-Leaves/saw2.jpg,Flora
+0.912498093,Frame-Leaves/saw2.jpg,Leaf
+0.912498093,Frame-Leaves/saw2.jpg,Plant
+0.898999863,Frame-Leaves/saw2.jpg,Ivy
+0.886109238,Frame-Leaves/saw2.jpg,Herbs
+0.886109238,Frame-Leaves/saw2.jpg,Jar
+0.886109238,Frame-Leaves/saw2.jpg,Mint
+0.886109238,Frame-Leaves/saw2.jpg,Planter
+0.886109238,Frame-Leaves/saw2.jpg,Potted Plant
+0.886109238,Frame-Leaves/saw2.jpg,Pottery
+0.886109238,Frame-Leaves/saw2.jpg,Vase
+0.748828506,Frame-Leaves/saw2.jpg,Mirror
+0.660743103,Frame-Leaves/saw2.jpg,Vine
+0.536663284,Frame-Leaves/saw2.jpg,Blossom
+0.536663284,Frame-Leaves/saw2.jpg,Flower
+0.536663284,Frame-Leaves/saw2.jpg,Flower Arrangement
+0.536663284,Frame-Leaves/saw2.jpg,Ornament
+0.527234573,Frame-Leaves/saw2.jpg,Envelope
+0.527234573,Frame-Leaves/saw2.jpg,Greeting Card
+0.527234573,Frame-Leaves/saw2.jpg,Mail
+0.526422615,Frame-Leaves/saw2.jpg,Art
+0.526422615,Frame-Leaves/saw2.jpg,Ikebana
+0.521343002,Frame-Leaves/saw2.jpg,Floral Design
+0.521343002,Frame-Leaves/saw2.jpg,Graphic Design
+0.516757355,Frame-Leaves/saw2.jpg,Maple Leaf
+0.786952515,Frame-Leaves/saw3.jpg,Flora
+0.786952515,Frame-Leaves/saw3.jpg,Jar
+0.786952515,Frame-Leaves/saw3.jpg,Plant
+0.786952515,Frame-Leaves/saw3.jpg,Potted Plant
+0.786952515,Frame-Leaves/saw3.jpg,Pottery
+0.786952515,Frame-Leaves/saw3.jpg,Vase
+0.590881538,Frame-Leaves/saw3.jpg,Vine
+0.533897629,Frame-Leaves/saw3.jpg,Indoors
+0.533897629,Frame-Leaves/saw3.jpg,Office
+0.510951385,Frame-Leaves/saw3.jpg,Leaf
+0.508928299,Frame-Leaves/saw3.jpg,Backyard
+0.508928299,Frame-Leaves/saw3.jpg,Outdoors
+0.508928299,Frame-Leaves/saw3.jpg,Yard
+0.507046814,Frame-Leaves/saw3.jpg,Furniture
+0.507046814,Frame-Leaves/saw3.jpg,Tabletop
+0.965210724,Frame-Leaves/saw4.jpg,Flora
+0.965210724,Frame-Leaves/saw4.jpg,Plant
+0.965210724,Frame-Leaves/saw4.jpg,Vine
+0.844270859,Frame-Leaves/saw4.jpg,Leaf
+0.647288818,Frame-Leaves/saw4.jpg,Art
+0.647288818,Frame-Leaves/saw4.jpg,Blossom
+0.647288818,Frame-Leaves/saw4.jpg,Flower
+0.647288818,Frame-Leaves/saw4.jpg,Flower Arrangement
+0.647288818,Frame-Leaves/saw4.jpg,Ikebana
+0.647288818,Frame-Leaves/saw4.jpg,Jar
+0.647288818,Frame-Leaves/saw4.jpg,Ornament
+0.647288818,Frame-Leaves/saw4.jpg,Pottery
+0.647288818,Frame-Leaves/saw4.jpg,Vase
+0.639458542,Frame-Leaves/saw4.jpg,Ivy
+0.583924904,Frame-Leaves/saw4.jpg,Floral Design
+0.583924904,Frame-Leaves/saw4.jpg,Graphic Design
+0.506528244,Frame-Leaves/saw4.jpg,Geranium
+0.506060829,Frame-Leaves/saw4.jpg,Maple Leaf
+0.713384857,Frame-Leaves/saw5.jpg,Alcohol
+0.713384857,Frame-Leaves/saw5.jpg,Beverage
+0.713384857,Frame-Leaves/saw5.jpg,Cocktail
+0.713384857,Frame-Leaves/saw5.jpg,Drink
+0.713384857,Frame-Leaves/saw5.jpg,Mojito
+0.608904228,Frame-Leaves/saw5.jpg,Flora
+0.608904228,Frame-Leaves/saw5.jpg,Plant
+0.608904228,Frame-Leaves/saw5.jpg,Vine
+0.534592018,Frame-Leaves/saw5.jpg,Leaf
+0.513916245,Frame-Leaves/saw5.jpg,Oak
+0.513916245,Frame-Leaves/saw5.jpg,Sycamore
+0.513916245,Frame-Leaves/saw5.jpg,Tree
+0.511169434,Frame-Leaves/saw5.jpg,Blossom
+0.511169434,Frame-Leaves/saw5.jpg,Flower
+0.511169434,Frame-Leaves/saw5.jpg,Flower Arrangement
+0.511169434,Frame-Leaves/saw5.jpg,Ornament
+0.508735352,Frame-Leaves/saw5.jpg,Maple Leaf
+0.968446503,Frame-Leaves/scissor1.jpg,Collage
+0.968446503,Frame-Leaves/scissor1.jpg,Poster
+0.938026962,Frame-Leaves/scissor1.jpg,Flora
+0.938026962,Frame-Leaves/scissor1.jpg,Leaf
+0.938026962,Frame-Leaves/scissor1.jpg,Plant
+0.886642532,Frame-Leaves/scissor1.jpg,Vine
+0.650192642,Frame-Leaves/scissor1.jpg,Ivy
+0.638702507,Frame-Leaves/scissor1.jpg,Weed
+0.615745735,Frame-Leaves/scissor1.jpg,Fern
+0.534720497,Frame-Leaves/scissor1.jpg,Art
+0.534720497,Frame-Leaves/scissor1.jpg,Floral Design
+0.534720497,Frame-Leaves/scissor1.jpg,Graphic Design
+0.534720497,Frame-Leaves/scissor1.jpg,Ornament
+0.51512455,Frame-Leaves/scissor1.jpg,Oak
+0.51512455,Frame-Leaves/scissor1.jpg,Sycamore
+0.51512455,Frame-Leaves/scissor1.jpg,Tree
+0.513846931,Frame-Leaves/scissor1.jpg,Maple Leaf
+0.506311607,Frame-Leaves/scissor1.jpg,Aquilegia
+0.506311607,Frame-Leaves/scissor1.jpg,Blossom
+0.506311607,Frame-Leaves/scissor1.jpg,Flower
+0.673131256,Frame-Leaves/scissor2.jpg,Flora
+0.673131256,Frame-Leaves/scissor2.jpg,Plant
+0.673131256,Frame-Leaves/scissor2.jpg,Vine
+0.660963745,Frame-Leaves/scissor2.jpg,Leaf
+0.620689316,Frame-Leaves/scissor2.jpg,Collage
+0.620689316,Frame-Leaves/scissor2.jpg,Poster
+0.540025482,Frame-Leaves/scissor2.jpg,Hemp
+0.511007118,Frame-Leaves/scissor3.jpg,Label
+0.511007118,Frame-Leaves/scissor3.jpg,Text
+0.862195969,Frame-Leaves/scissor4.jpg,Flora
+0.862195969,Frame-Leaves/scissor4.jpg,Plant
+0.862195969,Frame-Leaves/scissor4.jpg,Vine
+0.730169067,Frame-Leaves/scissor4.jpg,Collage
+0.730169067,Frame-Leaves/scissor4.jpg,Poster
+0.598184929,Frame-Leaves/scissor4.jpg,Leaf
+0.549344406,Frame-Leaves/scissor4.jpg,Herbs
+0.549344406,Frame-Leaves/scissor4.jpg,Jar
+0.549344406,Frame-Leaves/scissor4.jpg,Mint
+0.549344406,Frame-Leaves/scissor4.jpg,Planter
+0.549344406,Frame-Leaves/scissor4.jpg,Potted Plant
+0.549344406,Frame-Leaves/scissor4.jpg,Pottery
+0.549344406,Frame-Leaves/scissor4.jpg,Vase
+0.507116241,Frame-Leaves/scissor4.jpg,Maple Leaf
+0.979772797,Frame-Leaves/scissor5.jpg,Flora
+0.979772797,Frame-Leaves/scissor5.jpg,Ivy
+0.979772797,Frame-Leaves/scissor5.jpg,Plant
+0.934825516,Frame-Leaves/scissor5.jpg,Leaf
+0.801552505,Frame-Leaves/scissor5.jpg,Blossom
+0.801552505,Frame-Leaves/scissor5.jpg,Flower
+0.801552505,Frame-Leaves/scissor5.jpg,Flower Arrangement
+0.801552505,Frame-Leaves/scissor5.jpg,Ornament
+0.801395493,Frame-Leaves/scissor5.jpg,Vine
+0.759278641,Frame-Leaves/scissor5.jpg,Art
+0.759278641,Frame-Leaves/scissor5.jpg,Floral Design
+0.759278641,Frame-Leaves/scissor5.jpg,Graphic Design
+0.756648102,Frame-Leaves/scissor5.jpg,Herbs
+0.756648102,Frame-Leaves/scissor5.jpg,Jar
+0.756648102,Frame-Leaves/scissor5.jpg,Mint
+0.756648102,Frame-Leaves/scissor5.jpg,Planter
+0.756648102,Frame-Leaves/scissor5.jpg,Potted Plant
+0.756648102,Frame-Leaves/scissor5.jpg,Pottery
+0.756648102,Frame-Leaves/scissor5.jpg,Vase
+0.540606575,Frame-Leaves/scissor5.jpg,Maple Leaf
+0.512847137,Frame-Leaves/scissor5.jpg,Aquilegia
+0.507341309,Frame-Leaves/scissor5.jpg,Geranium
+0.979772797,Frame-Leaves/screw1.jpg,Flora
+0.979772797,Frame-Leaves/screw1.jpg,Ivy
+0.979772797,Frame-Leaves/screw1.jpg,Plant
+0.934825516,Frame-Leaves/screw1.jpg,Leaf
+0.831619873,Frame-Leaves/screw1.jpg,Aquilegia
+0.831619873,Frame-Leaves/screw1.jpg,Blossom
+0.831619873,Frame-Leaves/screw1.jpg,Flower
+0.802800369,Frame-Leaves/screw1.jpg,Vine
+0.756648102,Frame-Leaves/screw1.jpg,Herbs
+0.756648102,Frame-Leaves/screw1.jpg,Jar
+0.756648102,Frame-Leaves/screw1.jpg,Mint
+0.756648102,Frame-Leaves/screw1.jpg,Planter
+0.756648102,Frame-Leaves/screw1.jpg,Potted Plant
+0.756648102,Frame-Leaves/screw1.jpg,Pottery
+0.756648102,Frame-Leaves/screw1.jpg,Vase
+0.74312294,Frame-Leaves/screw1.jpg,Art
+0.74312294,Frame-Leaves/screw1.jpg,Floral Design
+0.74312294,Frame-Leaves/screw1.jpg,Graphic Design
+0.74312294,Frame-Leaves/screw1.jpg,Ornament
+0.629975128,Frame-Leaves/screw1.jpg,Flower Arrangement
+0.540606575,Frame-Leaves/screw1.jpg,Maple Leaf
+0.953688049,Frame-Leaves/screw2.jpg,Collage
+0.953688049,Frame-Leaves/screw2.jpg,Poster
+0.929438858,Frame-Leaves/screw2.jpg,Screwdriver
+0.879223557,Frame-Leaves/screw2.jpg,Flora
+0.879223557,Frame-Leaves/screw2.jpg,Leaf
+0.879223557,Frame-Leaves/screw2.jpg,Plant
+0.814920044,Frame-Leaves/screw2.jpg,Vine
+0.505883942,Frame-Leaves/screw2.jpg,Maple Leaf
+0.505442543,Frame-Leaves/screw2.jpg,Grass
+0.60552742,Frame-Leaves/screw3.jpg,Flora
+0.60552742,Frame-Leaves/screw3.jpg,Plant
+0.60552742,Frame-Leaves/screw3.jpg,Vine
+0.533942528,Frame-Leaves/screw3.jpg,Blossom
+0.533942528,Frame-Leaves/screw3.jpg,Flower
+0.533942528,Frame-Leaves/screw3.jpg,Geranium
+0.522752113,Frame-Leaves/screw3.jpg,Flower Arrangement
+0.522752113,Frame-Leaves/screw3.jpg,Ornament
+0.792989426,Frame-Leaves/screw4.jpg,Flora
+0.792989426,Frame-Leaves/screw4.jpg,Leaf
+0.792989426,Frame-Leaves/screw4.jpg,Plant
+0.586449432,Frame-Leaves/screw4.jpg,Herbal
+0.586449432,Frame-Leaves/screw4.jpg,Herbs
+0.586449432,Frame-Leaves/screw4.jpg,Jar
+0.586449432,Frame-Leaves/screw4.jpg,Planter
+0.586449432,Frame-Leaves/screw4.jpg,Potted Plant
+0.586449432,Frame-Leaves/screw4.jpg,Pottery
+0.586449432,Frame-Leaves/screw4.jpg,Vase
+0.580439758,Frame-Leaves/screw4.jpg,Blossom
+0.580439758,Frame-Leaves/screw4.jpg,Flower
+0.580439758,Frame-Leaves/screw4.jpg,Flower Arrangement
+0.580439758,Frame-Leaves/screw4.jpg,Ornament
+0.558547897,Frame-Leaves/screw4.jpg,Alcohol
+0.558547897,Frame-Leaves/screw4.jpg,Beverage
+0.558547897,Frame-Leaves/screw4.jpg,Cocktail
+0.558547897,Frame-Leaves/screw4.jpg,Drink
+0.558547897,Frame-Leaves/screw4.jpg,Mojito
+0.521444931,Frame-Leaves/screw4.jpg,Pot
+0.507180977,Frame-Leaves/screw4.jpg,Backyard
+0.507180977,Frame-Leaves/screw4.jpg,Outdoors
+0.507180977,Frame-Leaves/screw4.jpg,Yard
+0.868235321,Frame-Leaves/screw5.jpg,Flora
+0.868235321,Frame-Leaves/screw5.jpg,Leaf
+0.868235321,Frame-Leaves/screw5.jpg,Plant
+0.575563965,Frame-Leaves/screw5.jpg,Vine
+0.535036316,Frame-Leaves/screw5.jpg,Maple Leaf
+0.860066605,Frame-Leaves/shovel1.jpg,Flora
+0.860066605,Frame-Leaves/shovel1.jpg,Leaf
+0.860066605,Frame-Leaves/shovel1.jpg,Plant
+0.629243202,Frame-Leaves/shovel1.jpg,Vine
+0.532930069,Frame-Leaves/shovel1.jpg,Maple Leaf
+0.509801025,Frame-Leaves/shovel1.jpg,Blossom
+0.509801025,Frame-Leaves/shovel1.jpg,Flower
+0.509801025,Frame-Leaves/shovel1.jpg,Geranium
+0.505166168,Frame-Leaves/shovel1.jpg,Flower Arrangement
+0.505166168,Frame-Leaves/shovel1.jpg,Ornament
+0.983571777,Frame-Leaves/shovel2.jpg,Shovel
+0.966535797,Frame-Leaves/shovel2.jpg,Flora
+0.966535797,Frame-Leaves/shovel2.jpg,Plant
+0.966535797,Frame-Leaves/shovel2.jpg,Vine
+0.690919495,Frame-Leaves/shovel2.jpg,Ivy
+0.525731583,Frame-Leaves/shovel2.jpg,Leaf
+0.511082878,Frame-Leaves/shovel2.jpg,Blossom
+0.511082878,Frame-Leaves/shovel2.jpg,Flower
+0.511082878,Frame-Leaves/shovel2.jpg,Geranium
+0.50565464,Frame-Leaves/shovel2.jpg,Flower Arrangement
+0.50565464,Frame-Leaves/shovel2.jpg,Ornament
+0.89970787,Frame-Leaves/shovel3.jpg,Flora
+0.89970787,Frame-Leaves/shovel3.jpg,Plant
+0.89970787,Frame-Leaves/shovel3.jpg,Vine
+0.879223557,Frame-Leaves/shovel3.jpg,Leaf
+0.584424515,Frame-Leaves/shovel3.jpg,Ivy
+0.524958839,Frame-Leaves/shovel3.jpg,Herbs
+0.524958839,Frame-Leaves/shovel3.jpg,Jar
+0.524958839,Frame-Leaves/shovel3.jpg,Planter
+0.524958839,Frame-Leaves/shovel3.jpg,Potted Plant
+0.524958839,Frame-Leaves/shovel3.jpg,Pottery
+0.524958839,Frame-Leaves/shovel3.jpg,Vase
+0.508459091,Frame-Leaves/shovel3.jpg,Blossom
+0.508459091,Frame-Leaves/shovel3.jpg,Flower
+0.508459091,Frame-Leaves/shovel3.jpg,Flower Arrangement
+0.508459091,Frame-Leaves/shovel3.jpg,Ornament
+0.505937233,Frame-Leaves/shovel3.jpg,Maple Leaf
+0.505442543,Frame-Leaves/shovel3.jpg,Grass
+0.863804703,Frame-Leaves/shovel4.jpg,Flora
+0.863804703,Frame-Leaves/shovel4.jpg,Ivy
+0.863804703,Frame-Leaves/shovel4.jpg,Plant
+0.665665054,Frame-Leaves/shovel4.jpg,Vine
+0.636657639,Frame-Leaves/shovel4.jpg,Herbs
+0.636657639,Frame-Leaves/shovel4.jpg,Jar
+0.636657639,Frame-Leaves/shovel4.jpg,Mint
+0.636657639,Frame-Leaves/shovel4.jpg,Planter
+0.636657639,Frame-Leaves/shovel4.jpg,Potted Plant
+0.636657639,Frame-Leaves/shovel4.jpg,Pottery
+0.636657639,Frame-Leaves/shovel4.jpg,Vase
+0.585432777,Frame-Leaves/shovel4.jpg,Leaf
+0.572494926,Frame-Leaves/shovel4.jpg,Blossom
+0.572494926,Frame-Leaves/shovel4.jpg,Flower
+0.572494926,Frame-Leaves/shovel4.jpg,Flower Arrangement
+0.572494926,Frame-Leaves/shovel4.jpg,Ornament
+0.529386597,Frame-Leaves/shovel4.jpg,Art
+0.529386597,Frame-Leaves/shovel4.jpg,Ikebana
+0.50919281,Frame-Leaves/shovel4.jpg,Maple Leaf
+0.507896538,Frame-Leaves/shovel4.jpg,Collage
+0.507896538,Frame-Leaves/shovel4.jpg,Poster
+0.979772797,Frame-Leaves/shovel5.jpg,Flora
+0.979772797,Frame-Leaves/shovel5.jpg,Ivy
+0.979772797,Frame-Leaves/shovel5.jpg,Plant
+0.960165329,Frame-Leaves/shovel5.jpg,Trowel
+0.934832687,Frame-Leaves/shovel5.jpg,Leaf
+0.802801056,Frame-Leaves/shovel5.jpg,Vine
+0.75663208,Frame-Leaves/shovel5.jpg,Herbs
+0.75663208,Frame-Leaves/shovel5.jpg,Jar
+0.75663208,Frame-Leaves/shovel5.jpg,Mint
+0.75663208,Frame-Leaves/shovel5.jpg,Planter
+0.75663208,Frame-Leaves/shovel5.jpg,Potted Plant
+0.75663208,Frame-Leaves/shovel5.jpg,Pottery
+0.75663208,Frame-Leaves/shovel5.jpg,Vase
+0.74312294,Frame-Leaves/shovel5.jpg,Art
+0.74312294,Frame-Leaves/shovel5.jpg,Floral Design
+0.74312294,Frame-Leaves/shovel5.jpg,Graphic Design
+0.74312294,Frame-Leaves/shovel5.jpg,Ornament
+0.629975128,Frame-Leaves/shovel5.jpg,Blossom
+0.629975128,Frame-Leaves/shovel5.jpg,Flower
+0.629975128,Frame-Leaves/shovel5.jpg,Flower Arrangement
+0.540606575,Frame-Leaves/shovel5.jpg,Maple Leaf
+0.953424454,Frame-Leaves/tape1.jpg,Flora
+0.953424454,Frame-Leaves/tape1.jpg,Plant
+0.953424454,Frame-Leaves/tape1.jpg,Vine
+0.693845901,Frame-Leaves/tape1.jpg,Ivy
+0.523404846,Frame-Leaves/tape1.jpg,Leaf
+0.507408257,Frame-Leaves/tape1.jpg,Car Wheel
+0.507408257,Frame-Leaves/tape1.jpg,Machine
+0.507408257,Frame-Leaves/tape1.jpg,Spoke
+0.507408257,Frame-Leaves/tape1.jpg,Tire
+0.507408257,Frame-Leaves/tape1.jpg,Wheel
+0.959931793,Frame-Leaves/tape2.jpg,Flora
+0.959931793,Frame-Leaves/tape2.jpg,Plant
+0.959931793,Frame-Leaves/tape2.jpg,Vine
+0.794702454,Frame-Leaves/tape2.jpg,Leaf
+0.712181778,Frame-Leaves/tape2.jpg,Ivy
+0.704223862,Frame-Leaves/tape2.jpg,Cap
+0.704223862,Frame-Leaves/tape2.jpg,Clothing
+0.704223862,Frame-Leaves/tape2.jpg,Hat
+0.596807938,Frame-Leaves/tape2.jpg,Baseball Cap
+0.505705185,Frame-Leaves/tape2.jpg,Lifejacket
+0.505705185,Frame-Leaves/tape2.jpg,Vest
+0.965462418,Frame-Leaves/tape3.jpg,Ball
+0.965462418,Frame-Leaves/tape3.jpg,Sphere
+0.836409454,Frame-Leaves/tape3.jpg,Flora
+0.836409454,Frame-Leaves/tape3.jpg,Plant
+0.836409454,Frame-Leaves/tape3.jpg,Vine
+0.681112213,Frame-Leaves/tape3.jpg,Leaf
+0.654305191,Frame-Leaves/tape3.jpg,Ivy
+0.633534431,Frame-Leaves/tape3.jpg,Collage
+0.633534431,Frame-Leaves/tape3.jpg,Poster
+0.588867645,Frame-Leaves/tape3.jpg,Art
+0.588867645,Frame-Leaves/tape3.jpg,Floral Design
+0.588867645,Frame-Leaves/tape3.jpg,Graphic Design
+0.588867645,Frame-Leaves/tape3.jpg,Ornament
+0.581734314,Frame-Leaves/tape3.jpg,Envelope
+0.581734314,Frame-Leaves/tape3.jpg,Greeting Card
+0.581734314,Frame-Leaves/tape3.jpg,Mail
+0.512345428,Frame-Leaves/tape3.jpg,Dish
+0.512345428,Frame-Leaves/tape3.jpg,Food
+0.512345428,Frame-Leaves/tape3.jpg,Meal
+0.512345428,Frame-Leaves/tape3.jpg,Plate
+0.509086418,Frame-Leaves/tape3.jpg,Blossom
+0.509086418,Frame-Leaves/tape3.jpg,Flower
+0.509086418,Frame-Leaves/tape3.jpg,Flower Arrangement
+0.893506317,Frame-Leaves/tape4.jpg,Flora
+0.893506317,Frame-Leaves/tape4.jpg,Plant
+0.893506317,Frame-Leaves/tape4.jpg,Vine
+0.669312897,Frame-Leaves/tape4.jpg,Collage
+0.669312897,Frame-Leaves/tape4.jpg,Poster
+0.634329872,Frame-Leaves/tape4.jpg,Ivy
+0.535936966,Frame-Leaves/tape4.jpg,Leaf
+0.517021828,Frame-Leaves/tape4.jpg,Label
+0.517021828,Frame-Leaves/tape4.jpg,Text
+0.843791046,Frame-Leaves/tape5.jpg,Flora
+0.843791046,Frame-Leaves/tape5.jpg,Plant
+0.843791046,Frame-Leaves/tape5.jpg,Vine
+0.68239563,Frame-Leaves/tape5.jpg,Ivy
+0.548113213,Frame-Leaves/tape5.jpg,Leaf
+0.540285721,Frame-Leaves/tape5.jpg,Collage
+0.540285721,Frame-Leaves/tape5.jpg,Poster
+0.507917099,Frame-Leaves/tape5.jpg,Herbs
+0.507917099,Frame-Leaves/tape5.jpg,Jar
+0.507917099,Frame-Leaves/tape5.jpg,Mint
+0.507917099,Frame-Leaves/tape5.jpg,Planter
+0.507917099,Frame-Leaves/tape5.jpg,Potted Plant
+0.507917099,Frame-Leaves/tape5.jpg,Pottery
+0.507917099,Frame-Leaves/tape5.jpg,Vase
+0.505986443,Frame-Leaves/tape5.jpg,Blossom
+0.505986443,Frame-Leaves/tape5.jpg,Flower
+0.505986443,Frame-Leaves/tape5.jpg,Flower Arrangement
+0.505986443,Frame-Leaves/tape5.jpg,Ornament
+0.973222656,Frame-Leaves/wrench1.jpg,Hacksaw
+0.973222656,Frame-Leaves/wrench1.jpg,Handsaw
+0.973222656,Frame-Leaves/wrench1.jpg,Pruner
+0.901907349,Frame-Leaves/wrench1.jpg,Flora
+0.901907349,Frame-Leaves/wrench1.jpg,Plant
+0.901907349,Frame-Leaves/wrench1.jpg,Vine
+0.688804092,Frame-Leaves/wrench1.jpg,Ivy
+0.539080009,Frame-Leaves/wrench1.jpg,Leaf
+0.507001534,Frame-Leaves/wrench1.jpg,Blossom
+0.507001534,Frame-Leaves/wrench1.jpg,Flower
+0.507001534,Frame-Leaves/wrench1.jpg,Flower Arrangement
+0.507001534,Frame-Leaves/wrench1.jpg,Ornament
+0.888813934,Frame-Leaves/wrench2.jpg,Flora
+0.888813934,Frame-Leaves/wrench2.jpg,Plant
+0.888813934,Frame-Leaves/wrench2.jpg,Vine
+0.561233864,Frame-Leaves/wrench2.jpg,Ivy
+0.538824844,Frame-Leaves/wrench2.jpg,Leaf
+0.505767097,Frame-Leaves/wrench2.jpg,Blossom
+0.505767097,Frame-Leaves/wrench2.jpg,Flower
+0.505767097,Frame-Leaves/wrench2.jpg,Flower Arrangement
+0.505767097,Frame-Leaves/wrench2.jpg,Ornament
+0.851066208,Frame-Leaves/wrench3.jpg,Flora
+0.851066208,Frame-Leaves/wrench3.jpg,Leaf
+0.851066208,Frame-Leaves/wrench3.jpg,Plant
+0.571877403,Frame-Leaves/wrench3.jpg,Vine
+0.571559792,Frame-Leaves/wrench3.jpg,Ivy
+0.512807503,Frame-Leaves/wrench3.jpg,Art
+0.512807503,Frame-Leaves/wrench3.jpg,Blossom
+0.512807503,Frame-Leaves/wrench3.jpg,Flower
+0.512807503,Frame-Leaves/wrench3.jpg,Flower Arrangement
+0.512807503,Frame-Leaves/wrench3.jpg,Ikebana
+0.512807503,Frame-Leaves/wrench3.jpg,Jar
+0.512807503,Frame-Leaves/wrench3.jpg,Ornament
+0.512807503,Frame-Leaves/wrench3.jpg,Pottery
+0.512807503,Frame-Leaves/wrench3.jpg,Vase
+0.506946487,Frame-Leaves/wrench3.jpg,Maple Leaf
+0.960638351,Frame-Leaves/wrench4.jpg,Flora
+0.960638351,Frame-Leaves/wrench4.jpg,Plant
+0.960638351,Frame-Leaves/wrench4.jpg,Vine
+0.879223557,Frame-Leaves/wrench4.jpg,Leaf
+0.721173782,Frame-Leaves/wrench4.jpg,Herbs
+0.721173782,Frame-Leaves/wrench4.jpg,Jar
+0.721173782,Frame-Leaves/wrench4.jpg,Mint
+0.721173782,Frame-Leaves/wrench4.jpg,Planter
+0.721173782,Frame-Leaves/wrench4.jpg,Potted Plant
+0.721173782,Frame-Leaves/wrench4.jpg,Pottery
+0.721173782,Frame-Leaves/wrench4.jpg,Vase
+0.556417885,Frame-Leaves/wrench4.jpg,Ivy
+0.540623474,Frame-Leaves/wrench4.jpg,Art
+0.540623474,Frame-Leaves/wrench4.jpg,Floral Design
+0.540623474,Frame-Leaves/wrench4.jpg,Graphic Design
+0.540623474,Frame-Leaves/wrench4.jpg,Ornament
+0.539765015,Frame-Leaves/wrench4.jpg,Blossom
+0.539765015,Frame-Leaves/wrench4.jpg,Flower
+0.539765015,Frame-Leaves/wrench4.jpg,Flower Arrangement
+0.505442543,Frame-Leaves/wrench4.jpg,Grass
+0.909051971,Frame-Leaves/wrench5.jpg,Flora
+0.909051971,Frame-Leaves/wrench5.jpg,Plant
+0.909051971,Frame-Leaves/wrench5.jpg,Vine
+0.906620636,Frame-Leaves/wrench5.jpg,Ivy
+0.879223557,Frame-Leaves/wrench5.jpg,Leaf
+0.672132721,Frame-Leaves/wrench5.jpg,Collage
+0.672132721,Frame-Leaves/wrench5.jpg,Poster
+0.66762085,Frame-Leaves/wrench5.jpg,Herbs
+0.66762085,Frame-Leaves/wrench5.jpg,Jar
+0.66762085,Frame-Leaves/wrench5.jpg,Mint
+0.66762085,Frame-Leaves/wrench5.jpg,Planter
+0.66762085,Frame-Leaves/wrench5.jpg,Potted Plant
+0.66762085,Frame-Leaves/wrench5.jpg,Pottery
+0.66762085,Frame-Leaves/wrench5.jpg,Vase
+0.525525932,Frame-Leaves/wrench5.jpg,Blossom
+0.525525932,Frame-Leaves/wrench5.jpg,Flower
+0.525525932,Frame-Leaves/wrench5.jpg,Flower Arrangement
+0.525525932,Frame-Leaves/wrench5.jpg,Ornament
+0.507781906,Frame-Leaves/wrench5.jpg,Art
+0.507781906,Frame-Leaves/wrench5.jpg,Floral Design
+0.507781906,Frame-Leaves/wrench5.jpg,Graphic Design
+0.505442543,Frame-Leaves/wrench5.jpg,Grass
+0.95115509,Frame-Nature/axe1.jpg,Collage
+0.95115509,Frame-Nature/axe1.jpg,Poster
+0.744065552,Frame-Nature/axe1.jpg,Flora
+0.744065552,Frame-Nature/axe1.jpg,Jar
+0.744065552,Frame-Nature/axe1.jpg,Plant
+0.744065552,Frame-Nature/axe1.jpg,Potted Plant
+0.744065552,Frame-Nature/axe1.jpg,Pottery
+0.744065552,Frame-Nature/axe1.jpg,Vase
+0.692975845,Frame-Nature/axe1.jpg,Blossom
+0.692975845,Frame-Nature/axe1.jpg,Flower
+0.692975845,Frame-Nature/axe1.jpg,Pansy
+0.653555069,Frame-Nature/axe1.jpg,Sunflower
+0.624176445,Frame-Nature/axe1.jpg,Daisies
+0.624176445,Frame-Nature/axe1.jpg,Daisy
+0.612083778,Frame-Nature/axe1.jpg,Flower Arrangement
+0.612083778,Frame-Nature/axe1.jpg,Flower Bouquet
+0.612083778,Frame-Nature/axe1.jpg,Ornament
+0.596731796,Frame-Nature/axe1.jpg,Garden
+0.596731796,Frame-Nature/axe1.jpg,Gardening
+0.596731796,Frame-Nature/axe1.jpg,Outdoors
+0.553849945,Frame-Nature/axe1.jpg,Aster
+0.523753281,Frame-Nature/axe1.jpg,Daffodil
+0.521784668,Frame-Nature/axe1.jpg,Leaf
+0.513590317,Frame-Nature/axe1.jpg,Iris
+0.5082938,Frame-Nature/axe1.jpg,Crocus
+0.506915627,Frame-Nature/axe1.jpg,Maple Leaf
+0.505289726,Frame-Nature/axe1.jpg,Petal
+0.988041763,Frame-Nature/axe2.jpg,Collage
+0.988041763,Frame-Nature/axe2.jpg,Poster
+0.651034012,Frame-Nature/axe2.jpg,Blossom
+0.651034012,Frame-Nature/axe2.jpg,Flora
+0.651034012,Frame-Nature/axe2.jpg,Flower
+0.651034012,Frame-Nature/axe2.jpg,Plant
+0.605365334,Frame-Nature/axe2.jpg,Daisies
+0.605365334,Frame-Nature/axe2.jpg,Daisy
+0.593338013,Frame-Nature/axe2.jpg,Weed
+0.564546661,Frame-Nature/axe2.jpg,Conifer
+0.564546661,Frame-Nature/axe2.jpg,Tree
+0.564546661,Frame-Nature/axe2.jpg,Yew
+0.562511215,Frame-Nature/axe2.jpg,Herbs
+0.562511215,Frame-Nature/axe2.jpg,Jar
+0.562511215,Frame-Nature/axe2.jpg,Planter
+0.562511215,Frame-Nature/axe2.jpg,Potted Plant
+0.562511215,Frame-Nature/axe2.jpg,Pottery
+0.562511215,Frame-Nature/axe2.jpg,Vase
+0.555944786,Frame-Nature/axe2.jpg,Aster
+0.545354614,Frame-Nature/axe2.jpg,Arecaceae
+0.545354614,Frame-Nature/axe2.jpg,Palm Tree
+0.54166954,Frame-Nature/axe2.jpg,Flower Arrangement
+0.54166954,Frame-Nature/axe2.jpg,Flower Bouquet
+0.54166954,Frame-Nature/axe2.jpg,Ornament
+0.524849014,Frame-Nature/axe2.jpg,Leaf
+0.51712059,Frame-Nature/axe2.jpg,Food
+0.51712059,Frame-Nature/axe2.jpg,Meal
+0.513467445,Frame-Nature/axe2.jpg,Pot
+0.512694473,Frame-Nature/axe2.jpg,Vegetation
+0.507158623,Frame-Nature/axe2.jpg,Maple Leaf
+0.907295609,Frame-Nature/axe3.jpg,Flora
+0.907295609,Frame-Nature/axe3.jpg,Jar
+0.907295609,Frame-Nature/axe3.jpg,Plant
+0.907295609,Frame-Nature/axe3.jpg,Potted Plant
+0.907295609,Frame-Nature/axe3.jpg,Pottery
+0.907295609,Frame-Nature/axe3.jpg,Vase
+0.621760292,Frame-Nature/axe3.jpg,Collage
+0.621760292,Frame-Nature/axe3.jpg,Poster
+0.617491112,Frame-Nature/axe3.jpg,Blossom
+0.617491112,Frame-Nature/axe3.jpg,Flower
+0.59265316,Frame-Nature/axe3.jpg,Daisies
+0.59265316,Frame-Nature/axe3.jpg,Daisy
+0.566566162,Frame-Nature/axe3.jpg,Flower Arrangement
+0.566566162,Frame-Nature/axe3.jpg,Flower Bouquet
+0.566566162,Frame-Nature/axe3.jpg,Ornament
+0.547577133,Frame-Nature/axe3.jpg,Sunflower
+0.52708374,Frame-Nature/axe3.jpg,Clothing
+0.52708374,Frame-Nature/axe3.jpg,Footwear
+0.521587791,Frame-Nature/axe3.jpg,Food
+0.521587791,Frame-Nature/axe3.jpg,Meal
+0.508923302,Frame-Nature/axe3.jpg,Aster
+0.902963486,Frame-Nature/axe4.jpg,Blossom
+0.902963486,Frame-Nature/axe4.jpg,Flora
+0.902963486,Frame-Nature/axe4.jpg,Flower
+0.902963486,Frame-Nature/axe4.jpg,Plant
+0.902963486,Frame-Nature/axe4.jpg,Sunflower
+0.875691147,Frame-Nature/axe4.jpg,Wreath
+0.85199028,Frame-Nature/axe4.jpg,Collage
+0.85199028,Frame-Nature/axe4.jpg,Poster
+0.640541229,Frame-Nature/axe4.jpg,Weed
+0.619271202,Frame-Nature/axe4.jpg,Flower Arrangement
+0.619271202,Frame-Nature/axe4.jpg,Ornament
+0.577950287,Frame-Nature/axe4.jpg,Arecaceae
+0.577950287,Frame-Nature/axe4.jpg,Palm Tree
+0.577950287,Frame-Nature/axe4.jpg,Tree
+0.561580048,Frame-Nature/axe4.jpg,Conifer
+0.561580048,Frame-Nature/axe4.jpg,Yew
+0.558052139,Frame-Nature/axe4.jpg,Aster
+0.539164886,Frame-Nature/axe4.jpg,Leaf
+0.513922043,Frame-Nature/axe4.jpg,Vegetation
+0.50872654,Frame-Nature/axe4.jpg,Petal
+0.505356064,Frame-Nature/axe4.jpg,Maple Leaf
+0.647927933,Frame-Nature/axe5.jpg,Flora
+0.647927933,Frame-Nature/axe5.jpg,Plant
+0.613428116,Frame-Nature/axe5.jpg,Blossom
+0.613428116,Frame-Nature/axe5.jpg,Flower
+0.613428116,Frame-Nature/axe5.jpg,Flower Arrangement
+0.613428116,Frame-Nature/axe5.jpg,Ornament
+0.593757439,Frame-Nature/axe5.jpg,Conifer
+0.593757439,Frame-Nature/axe5.jpg,Tree
+0.593757439,Frame-Nature/axe5.jpg,Yew
+0.590907173,Frame-Nature/axe5.jpg,Weed
+0.559046211,Frame-Nature/axe5.jpg,Arecaceae
+0.559046211,Frame-Nature/axe5.jpg,Palm Tree
+0.549684753,Frame-Nature/axe5.jpg,Geranium
+0.54192852,Frame-Nature/axe5.jpg,Collage
+0.54192852,Frame-Nature/axe5.jpg,Poster
+0.541810989,Frame-Nature/axe5.jpg,Leaf
+0.51349575,Frame-Nature/axe5.jpg,Maple Leaf
+0.511688156,Frame-Nature/axe5.jpg,Vegetation
+0.510949135,Frame-Nature/axe5.jpg,Aster
+0.897421799,Frame-Nature/flash1.jpg,Collage
+0.897421799,Frame-Nature/flash1.jpg,Poster
+0.658431778,Frame-Nature/flash1.jpg,Flora
+0.658431778,Frame-Nature/flash1.jpg,Plant
+0.651034012,Frame-Nature/flash1.jpg,Blossom
+0.651034012,Frame-Nature/flash1.jpg,Flower
+0.626366692,Frame-Nature/flash1.jpg,Herbs
+0.626366692,Frame-Nature/flash1.jpg,Jar
+0.626366692,Frame-Nature/flash1.jpg,Planter
+0.626366692,Frame-Nature/flash1.jpg,Potted Plant
+0.626366692,Frame-Nature/flash1.jpg,Pottery
+0.626366692,Frame-Nature/flash1.jpg,Vase
+0.605365334,Frame-Nature/flash1.jpg,Daisies
+0.605365334,Frame-Nature/flash1.jpg,Daisy
+0.599828186,Frame-Nature/flash1.jpg,Arecaceae
+0.599828186,Frame-Nature/flash1.jpg,Palm Tree
+0.599828186,Frame-Nature/flash1.jpg,Tree
+0.591820107,Frame-Nature/flash1.jpg,Conifer
+0.591820107,Frame-Nature/flash1.jpg,Yew
+0.564904938,Frame-Nature/flash1.jpg,Aster
+0.546030655,Frame-Nature/flash1.jpg,Weed
+0.54166954,Frame-Nature/flash1.jpg,Flower Arrangement
+0.54166954,Frame-Nature/flash1.jpg,Flower Bouquet
+0.54166954,Frame-Nature/flash1.jpg,Ornament
+0.527195282,Frame-Nature/flash1.jpg,Leaf
+0.51712059,Frame-Nature/flash1.jpg,Food
+0.51712059,Frame-Nature/flash1.jpg,Meal
+0.512106895,Frame-Nature/flash1.jpg,Vegetation
+0.505107536,Frame-Nature/flash1.jpg,Moss
+0.922360001,Frame-Nature/flash2.jpg,Collage
+0.922360001,Frame-Nature/flash2.jpg,Poster
+0.838408585,Frame-Nature/flash2.jpg,Blossom
+0.838408585,Frame-Nature/flash2.jpg,Flora
+0.838408585,Frame-Nature/flash2.jpg,Flower
+0.838408585,Frame-Nature/flash2.jpg,Mimosa
+0.838408585,Frame-Nature/flash2.jpg,Plant
+0.55782444,Frame-Nature/flash2.jpg,Geranium
+0.554749985,Frame-Nature/flash2.jpg,Conifer
+0.554749985,Frame-Nature/flash2.jpg,Tree
+0.554749985,Frame-Nature/flash2.jpg,Yew
+0.551519699,Frame-Nature/flash2.jpg,Weed
+0.54728157,Frame-Nature/flash2.jpg,Arecaceae
+0.54728157,Frame-Nature/flash2.jpg,Palm Tree
+0.542107697,Frame-Nature/flash2.jpg,Garden
+0.542107697,Frame-Nature/flash2.jpg,Gardening
+0.542107697,Frame-Nature/flash2.jpg,Outdoors
+0.515830536,Frame-Nature/flash2.jpg,Leaf
+0.512965202,Frame-Nature/flash2.jpg,Maple Leaf
+0.512215538,Frame-Nature/flash2.jpg,Lupin
+0.511257477,Frame-Nature/flash2.jpg,Aster
+0.510409279,Frame-Nature/flash2.jpg,Vegetation
+0.508487511,Frame-Nature/flash2.jpg,Daisies
+0.508487511,Frame-Nature/flash2.jpg,Daisy
+0.50543396,Frame-Nature/flash2.jpg,Herbs
+0.50543396,Frame-Nature/flash2.jpg,Jar
+0.50543396,Frame-Nature/flash2.jpg,Planter
+0.50543396,Frame-Nature/flash2.jpg,Potted Plant
+0.50543396,Frame-Nature/flash2.jpg,Pottery
+0.50543396,Frame-Nature/flash2.jpg,Vase
+0.984136124,Frame-Nature/flash3.jpg,Collage
+0.984136124,Frame-Nature/flash3.jpg,Poster
+0.944969635,Frame-Nature/flash3.jpg,Wreath
+0.844166641,Frame-Nature/flash3.jpg,Flora
+0.844166641,Frame-Nature/flash3.jpg,Plant
+0.675589142,Frame-Nature/flash3.jpg,Blossom
+0.675589142,Frame-Nature/flash3.jpg,Flower
+0.598688354,Frame-Nature/flash3.jpg,Pot
+0.5916539,Frame-Nature/flash3.jpg,Daisies
+0.5916539,Frame-Nature/flash3.jpg,Daisy
+0.566000938,Frame-Nature/flash3.jpg,Flower Arrangement
+0.566000938,Frame-Nature/flash3.jpg,Flower Bouquet
+0.566000938,Frame-Nature/flash3.jpg,Ornament
+0.522682724,Frame-Nature/flash3.jpg,Leaf
+0.521978798,Frame-Nature/flash3.jpg,Aster
+0.520995064,Frame-Nature/flash3.jpg,Food
+0.520995064,Frame-Nature/flash3.jpg,Meal
+0.518296661,Frame-Nature/flash3.jpg,Vine
+0.516607361,Frame-Nature/flash3.jpg,Oak
+0.516607361,Frame-Nature/flash3.jpg,Sycamore
+0.516607361,Frame-Nature/flash3.jpg,Tree
+0.51318718,Frame-Nature/flash3.jpg,Maple Leaf
+0.506072884,Frame-Nature/flash3.jpg,Vegetation
+0.5056464,Frame-Nature/flash3.jpg,Weed
+0.505156403,Frame-Nature/flash3.jpg,Arecaceae
+0.505156403,Frame-Nature/flash3.jpg,Palm Tree
+0.948391266,Frame-Nature/flash4.jpg,Collage
+0.948391266,Frame-Nature/flash4.jpg,Poster
+0.865387268,Frame-Nature/flash4.jpg,Blossom
+0.865387268,Frame-Nature/flash4.jpg,Flora
+0.865387268,Frame-Nature/flash4.jpg,Flower
+0.865387268,Frame-Nature/flash4.jpg,Plant
+0.865387268,Frame-Nature/flash4.jpg,Sunflower
+0.640541229,Frame-Nature/flash4.jpg,Weed
+0.612662086,Frame-Nature/flash4.jpg,Daisies
+0.612662086,Frame-Nature/flash4.jpg,Daisy
+0.577950287,Frame-Nature/flash4.jpg,Arecaceae
+0.577950287,Frame-Nature/flash4.jpg,Palm Tree
+0.577950287,Frame-Nature/flash4.jpg,Tree
+0.577518654,Frame-Nature/flash4.jpg,Flower Arrangement
+0.577518654,Frame-Nature/flash4.jpg,Flower Bouquet
+0.577518654,Frame-Nature/flash4.jpg,Ornament
+0.561580238,Frame-Nature/flash4.jpg,Conifer
+0.561580238,Frame-Nature/flash4.jpg,Yew
+0.54863472,Frame-Nature/flash4.jpg,Aster
+0.539164886,Frame-Nature/flash4.jpg,Leaf
+0.523023071,Frame-Nature/flash4.jpg,Treasure Flower
+0.518267326,Frame-Nature/flash4.jpg,Petal
+0.513922043,Frame-Nature/flash4.jpg,Vegetation
+0.512748833,Frame-Nature/flash4.jpg,Food
+0.512748833,Frame-Nature/flash4.jpg,Meal
+0.505356064,Frame-Nature/flash4.jpg,Maple Leaf
+0.939603653,Frame-Nature/flash5.jpg,Collage
+0.939603653,Frame-Nature/flash5.jpg,Poster
+0.633932304,Frame-Nature/flash5.jpg,Flora
+0.633932304,Frame-Nature/flash5.jpg,Plant
+0.633932304,Frame-Nature/flash5.jpg,Weed
+0.630533447,Frame-Nature/flash5.jpg,Blossom
+0.630533447,Frame-Nature/flash5.jpg,Daisies
+0.630533447,Frame-Nature/flash5.jpg,Daisy
+0.630533447,Frame-Nature/flash5.jpg,Flower
+0.618866997,Frame-Nature/flash5.jpg,Treasure Flower
+0.606868858,Frame-Nature/flash5.jpg,Garden
+0.606868858,Frame-Nature/flash5.jpg,Gardening
+0.606868858,Frame-Nature/flash5.jpg,Outdoors
+0.593056984,Frame-Nature/flash5.jpg,Jar
+0.593056984,Frame-Nature/flash5.jpg,Potted Plant
+0.593056984,Frame-Nature/flash5.jpg,Pottery
+0.593056984,Frame-Nature/flash5.jpg,Vase
+0.59019928,Frame-Nature/flash5.jpg,Arecaceae
+0.59019928,Frame-Nature/flash5.jpg,Palm Tree
+0.59019928,Frame-Nature/flash5.jpg,Tree
+0.575408936,Frame-Nature/flash5.jpg,Conifer
+0.575408936,Frame-Nature/flash5.jpg,Yew
+0.556175117,Frame-Nature/flash5.jpg,Leaf
+0.546114426,Frame-Nature/flash5.jpg,Flower Arrangement
+0.546114426,Frame-Nature/flash5.jpg,Flower Bouquet
+0.546114426,Frame-Nature/flash5.jpg,Ornament
+0.532593613,Frame-Nature/flash5.jpg,Herbs
+0.532593613,Frame-Nature/flash5.jpg,Planter
+0.520878716,Frame-Nature/flash5.jpg,Aster
+0.514431839,Frame-Nature/flash5.jpg,Vegetation
+0.510487556,Frame-Nature/flash5.jpg,Food
+0.508922348,Frame-Nature/flash5.jpg,Accessories
+0.50685154,Frame-Nature/flash5.jpg,Maple Leaf
+0.506447678,Frame-Nature/flash5.jpg,Moss
+0.968618698,Frame-Nature/hammer1.jpg,Collage
+0.968618698,Frame-Nature/hammer1.jpg,Poster
+0.863282776,Frame-Nature/hammer1.jpg,Blossom
+0.863282776,Frame-Nature/hammer1.jpg,Flora
+0.863282776,Frame-Nature/hammer1.jpg,Flower
+0.863282776,Frame-Nature/hammer1.jpg,Plant
+0.863282776,Frame-Nature/hammer1.jpg,Sunflower
+0.640541229,Frame-Nature/hammer1.jpg,Weed
+0.605365334,Frame-Nature/hammer1.jpg,Daisies
+0.605365334,Frame-Nature/hammer1.jpg,Daisy
+0.577950287,Frame-Nature/hammer1.jpg,Arecaceae
+0.577950287,Frame-Nature/hammer1.jpg,Palm Tree
+0.577950287,Frame-Nature/hammer1.jpg,Tree
+0.561580238,Frame-Nature/hammer1.jpg,Conifer
+0.561580238,Frame-Nature/hammer1.jpg,Yew
+0.544186172,Frame-Nature/hammer1.jpg,Aster
+0.54166954,Frame-Nature/hammer1.jpg,Flower Arrangement
+0.54166954,Frame-Nature/hammer1.jpg,Flower Bouquet
+0.54166954,Frame-Nature/hammer1.jpg,Ornament
+0.539164886,Frame-Nature/hammer1.jpg,Leaf
+0.52343029,Frame-Nature/hammer1.jpg,Petal
+0.51712059,Frame-Nature/hammer1.jpg,Food
+0.51712059,Frame-Nature/hammer1.jpg,Meal
+0.513922043,Frame-Nature/hammer1.jpg,Vegetation
+0.505356064,Frame-Nature/hammer1.jpg,Maple Leaf
+0.978311844,Frame-Nature/hammer2.jpg,Collage
+0.978311844,Frame-Nature/hammer2.jpg,Poster
+0.875653381,Frame-Nature/hammer2.jpg,Blossom
+0.875653381,Frame-Nature/hammer2.jpg,Flora
+0.875653381,Frame-Nature/hammer2.jpg,Flower
+0.875653381,Frame-Nature/hammer2.jpg,Plant
+0.875653381,Frame-Nature/hammer2.jpg,Sunflower
+0.611865463,Frame-Nature/hammer2.jpg,Weed
+0.605273857,Frame-Nature/hammer2.jpg,Daisies
+0.605273857,Frame-Nature/hammer2.jpg,Daisy
+0.574998398,Frame-Nature/hammer2.jpg,Arecaceae
+0.574998398,Frame-Nature/hammer2.jpg,Palm Tree
+0.574998398,Frame-Nature/hammer2.jpg,Tree
+0.551920547,Frame-Nature/hammer2.jpg,Fern
+0.548227959,Frame-Nature/hammer2.jpg,Conifer
+0.548227959,Frame-Nature/hammer2.jpg,Yew
+0.54712677,Frame-Nature/hammer2.jpg,Aster
+0.541868324,Frame-Nature/hammer2.jpg,Flower Arrangement
+0.541868324,Frame-Nature/hammer2.jpg,Flower Bouquet
+0.541868324,Frame-Nature/hammer2.jpg,Ornament
+0.540197182,Frame-Nature/hammer2.jpg,Leaf
+0.521317482,Frame-Nature/hammer2.jpg,Petal
+0.516614571,Frame-Nature/hammer2.jpg,Food
+0.516614571,Frame-Nature/hammer2.jpg,Meal
+0.5114814,Frame-Nature/hammer2.jpg,Moss
+0.511332817,Frame-Nature/hammer2.jpg,Vegetation
+0.50505661,Frame-Nature/hammer2.jpg,Maple Leaf
+0.985781097,Frame-Nature/hammer3.jpg,Collage
+0.985781097,Frame-Nature/hammer3.jpg,Poster
+0.902963486,Frame-Nature/hammer3.jpg,Blossom
+0.902963486,Frame-Nature/hammer3.jpg,Flora
+0.902963486,Frame-Nature/hammer3.jpg,Flower
+0.902963486,Frame-Nature/hammer3.jpg,Plant
+0.902963486,Frame-Nature/hammer3.jpg,Sunflower
+0.605365334,Frame-Nature/hammer3.jpg,Daisies
+0.605365334,Frame-Nature/hammer3.jpg,Daisy
+0.558052139,Frame-Nature/hammer3.jpg,Aster
+0.54166954,Frame-Nature/hammer3.jpg,Flower Arrangement
+0.54166954,Frame-Nature/hammer3.jpg,Flower Bouquet
+0.54166954,Frame-Nature/hammer3.jpg,Ornament
+0.51712059,Frame-Nature/hammer3.jpg,Food
+0.51712059,Frame-Nature/hammer3.jpg,Meal
+0.50872654,Frame-Nature/hammer3.jpg,Petal
+0.505421448,Frame-Nature/hammer3.jpg,Leaf
+0.505066948,Frame-Nature/hammer3.jpg,Arecaceae
+0.505066948,Frame-Nature/hammer3.jpg,Palm Tree
+0.505066948,Frame-Nature/hammer3.jpg,Tree
+0.710419769,Frame-Nature/hammer4.jpg,Flora
+0.710419769,Frame-Nature/hammer4.jpg,Plant
+0.661288147,Frame-Nature/hammer4.jpg,Blossom
+0.661288147,Frame-Nature/hammer4.jpg,Flower
+0.661288147,Frame-Nature/hammer4.jpg,Flower Arrangement
+0.661288147,Frame-Nature/hammer4.jpg,Flower Bouquet
+0.661288147,Frame-Nature/hammer4.jpg,Ornament
+0.6202005,Frame-Nature/hammer4.jpg,Daisies
+0.6202005,Frame-Nature/hammer4.jpg,Daisy
+0.578513031,Frame-Nature/hammer4.jpg,Sunflower
+0.556562004,Frame-Nature/hammer4.jpg,Herbs
+0.556562004,Frame-Nature/hammer4.jpg,Jar
+0.556562004,Frame-Nature/hammer4.jpg,Planter
+0.556562004,Frame-Nature/hammer4.jpg,Potted Plant
+0.556562004,Frame-Nature/hammer4.jpg,Pottery
+0.556562004,Frame-Nature/hammer4.jpg,Vase
+0.542068558,Frame-Nature/hammer4.jpg,Violet
+0.540759964,Frame-Nature/hammer4.jpg,Garden
+0.540759964,Frame-Nature/hammer4.jpg,Gardening
+0.540759964,Frame-Nature/hammer4.jpg,Outdoors
+0.537313385,Frame-Nature/hammer4.jpg,Aster
+0.52938324,Frame-Nature/hammer4.jpg,Rose
+0.518044281,Frame-Nature/hammer4.jpg,Petal
+0.512756882,Frame-Nature/hammer4.jpg,Pansy
+0.510221138,Frame-Nature/hammer4.jpg,Iris
+0.50625248,Frame-Nature/hammer4.jpg,Dahlia
+0.505697441,Frame-Nature/hammer4.jpg,Leaf
+0.939944611,Frame-Nature/hammer5.jpg,Collage
+0.939944611,Frame-Nature/hammer5.jpg,Poster
+0.716213303,Frame-Nature/hammer5.jpg,Blossom
+0.716213303,Frame-Nature/hammer5.jpg,Flora
+0.716213303,Frame-Nature/hammer5.jpg,Flower
+0.716213303,Frame-Nature/hammer5.jpg,Mimosa
+0.716213303,Frame-Nature/hammer5.jpg,Plant
+0.606863976,Frame-Nature/hammer5.jpg,Garden
+0.606863976,Frame-Nature/hammer5.jpg,Gardening
+0.606863976,Frame-Nature/hammer5.jpg,Outdoors
+0.574739647,Frame-Nature/hammer5.jpg,Sunflower
+0.571688004,Frame-Nature/hammer5.jpg,Conifer
+0.571688004,Frame-Nature/hammer5.jpg,Tree
+0.571688004,Frame-Nature/hammer5.jpg,Yew
+0.564142685,Frame-Nature/hammer5.jpg,Geranium
+0.546155167,Frame-Nature/hammer5.jpg,Herbs
+0.546155167,Frame-Nature/hammer5.jpg,Jar
+0.546155167,Frame-Nature/hammer5.jpg,Planter
+0.546155167,Frame-Nature/hammer5.jpg,Potted Plant
+0.546155167,Frame-Nature/hammer5.jpg,Pottery
+0.546155167,Frame-Nature/hammer5.jpg,Vase
+0.541962929,Frame-Nature/hammer5.jpg,Daisies
+0.541962929,Frame-Nature/hammer5.jpg,Daisy
+0.539497375,Frame-Nature/hammer5.jpg,Arecaceae
+0.539497375,Frame-Nature/hammer5.jpg,Palm Tree
+0.537988586,Frame-Nature/hammer5.jpg,Weed
+0.537938461,Frame-Nature/hammer5.jpg,Art
+0.537938461,Frame-Nature/hammer5.jpg,Flower Arrangement
+0.537938461,Frame-Nature/hammer5.jpg,Ikebana
+0.537938461,Frame-Nature/hammer5.jpg,Ornament
+0.524575768,Frame-Nature/hammer5.jpg,Leaf
+0.51485218,Frame-Nature/hammer5.jpg,Lupin
+0.514541817,Frame-Nature/hammer5.jpg,Aster
+0.51397438,Frame-Nature/hammer5.jpg,Moss
+0.511806946,Frame-Nature/hammer5.jpg,Maple Leaf
+0.510495071,Frame-Nature/hammer5.jpg,Vegetation
+0.50544445,Frame-Nature/hammer5.jpg,Grass
+0.74843399,Frame-Nature/plier1.jpg,Collage
+0.74843399,Frame-Nature/plier1.jpg,Poster
+0.733816223,Frame-Nature/plier1.jpg,Flora
+0.733816223,Frame-Nature/plier1.jpg,Plant
+0.666236115,Frame-Nature/plier1.jpg,Garden
+0.666236115,Frame-Nature/plier1.jpg,Gardening
+0.666236115,Frame-Nature/plier1.jpg,Outdoors
+0.564937592,Frame-Nature/plier1.jpg,Blossom
+0.564937592,Frame-Nature/plier1.jpg,Flower
+0.540046806,Frame-Nature/plier1.jpg,Daisies
+0.540046806,Frame-Nature/plier1.jpg,Daisy
+0.533105507,Frame-Nature/plier1.jpg,Art
+0.533105507,Frame-Nature/plier1.jpg,Flower Arrangement
+0.533105507,Frame-Nature/plier1.jpg,Ikebana
+0.533105507,Frame-Nature/plier1.jpg,Jar
+0.533105507,Frame-Nature/plier1.jpg,Ornament
+0.533105507,Frame-Nature/plier1.jpg,Pottery
+0.533105507,Frame-Nature/plier1.jpg,Vase
+0.520737534,Frame-Nature/plier1.jpg,Weed
+0.5188237,Frame-Nature/plier1.jpg,Petal
+0.51656086,Frame-Nature/plier1.jpg,Aster
+0.515757561,Frame-Nature/plier1.jpg,Leaf
+0.51011013,Frame-Nature/plier1.jpg,Moss
+0.508681107,Frame-Nature/plier1.jpg,Daffodil
+0.505931206,Frame-Nature/plier1.jpg,Tree
+0.505615578,Frame-Nature/plier1.jpg,Arecaceae
+0.505615578,Frame-Nature/plier1.jpg,Palm Tree
+0.898651581,Frame-Nature/plier2.jpg,Blossom
+0.898651581,Frame-Nature/plier2.jpg,Flora
+0.898651581,Frame-Nature/plier2.jpg,Flower
+0.898651581,Frame-Nature/plier2.jpg,Plant
+0.898651581,Frame-Nature/plier2.jpg,Sunflower
+0.796305008,Frame-Nature/plier2.jpg,Arecaceae
+0.796305008,Frame-Nature/plier2.jpg,Palm Tree
+0.796305008,Frame-Nature/plier2.jpg,Tree
+0.766034698,Frame-Nature/plier2.jpg,Collage
+0.766034698,Frame-Nature/plier2.jpg,Poster
+0.626346779,Frame-Nature/plier2.jpg,Weed
+0.605365334,Frame-Nature/plier2.jpg,Daisies
+0.605365334,Frame-Nature/plier2.jpg,Daisy
+0.558240242,Frame-Nature/plier2.jpg,Aster
+0.54954792,Frame-Nature/plier2.jpg,Conifer
+0.54954792,Frame-Nature/plier2.jpg,Yew
+0.543866806,Frame-Nature/plier2.jpg,Leaf
+0.54166954,Frame-Nature/plier2.jpg,Flower Arrangement
+0.54166954,Frame-Nature/plier2.jpg,Flower Bouquet
+0.54166954,Frame-Nature/plier2.jpg,Ornament
+0.51712059,Frame-Nature/plier2.jpg,Food
+0.51712059,Frame-Nature/plier2.jpg,Meal
+0.516686935,Frame-Nature/plier2.jpg,Maple Leaf
+0.509905205,Frame-Nature/plier2.jpg,Vegetation
+0.508552246,Frame-Nature/plier2.jpg,Petal
+0.964100571,Frame-Nature/plier3.jpg,Collage
+0.964100571,Frame-Nature/plier3.jpg,Poster
+0.685057678,Frame-Nature/plier3.jpg,Blossom
+0.685057678,Frame-Nature/plier3.jpg,Flora
+0.685057678,Frame-Nature/plier3.jpg,Flower
+0.685057678,Frame-Nature/plier3.jpg,Plant
+0.587241249,Frame-Nature/plier3.jpg,Daisies
+0.587241249,Frame-Nature/plier3.jpg,Daisy
+0.544685059,Frame-Nature/plier3.jpg,Herbs
+0.544685059,Frame-Nature/plier3.jpg,Jar
+0.544685059,Frame-Nature/plier3.jpg,Mint
+0.544685059,Frame-Nature/plier3.jpg,Planter
+0.544685059,Frame-Nature/plier3.jpg,Potted Plant
+0.544685059,Frame-Nature/plier3.jpg,Pottery
+0.544685059,Frame-Nature/plier3.jpg,Vase
+0.537966652,Frame-Nature/plier3.jpg,Aster
+0.515383911,Frame-Nature/plier3.jpg,Leaf
+0.515044022,Frame-Nature/plier3.jpg,Tree
+0.510542107,Frame-Nature/plier3.jpg,Arecaceae
+0.510542107,Frame-Nature/plier3.jpg,Palm Tree
+0.509594383,Frame-Nature/plier3.jpg,Flower Arrangement
+0.509594383,Frame-Nature/plier3.jpg,Ornament
+0.509238739,Frame-Nature/plier3.jpg,Fern
+0.50772007,Frame-Nature/plier3.jpg,Food
+0.505328598,Frame-Nature/plier3.jpg,Flower Bouquet
+0.954751205,Frame-Nature/plier4.jpg,Collage
+0.954751205,Frame-Nature/plier4.jpg,Poster
+0.631183624,Frame-Nature/plier4.jpg,Flora
+0.631183624,Frame-Nature/plier4.jpg,Plant
+0.631183624,Frame-Nature/plier4.jpg,Weed
+0.604171867,Frame-Nature/plier4.jpg,Conifer
+0.604171867,Frame-Nature/plier4.jpg,Tree
+0.604171867,Frame-Nature/plier4.jpg,Yew
+0.578846169,Frame-Nature/plier4.jpg,Arecaceae
+0.578846169,Frame-Nature/plier4.jpg,Palm Tree
+0.558030548,Frame-Nature/plier4.jpg,Blossom
+0.558030548,Frame-Nature/plier4.jpg,Flower
+0.558030548,Frame-Nature/plier4.jpg,Flower Arrangement
+0.558030548,Frame-Nature/plier4.jpg,Ornament
+0.535733948,Frame-Nature/plier4.jpg,Leaf
+0.516954651,Frame-Nature/plier4.jpg,Maple Leaf
+0.511140594,Frame-Nature/plier4.jpg,Vegetation
+0.507723579,Frame-Nature/plier4.jpg,Aster
+0.981058807,Frame-Nature/plier5.jpg,Collage
+0.981058807,Frame-Nature/plier5.jpg,Poster
+0.855723114,Frame-Nature/plier5.jpg,Blossom
+0.855723114,Frame-Nature/plier5.jpg,Flora
+0.855723114,Frame-Nature/plier5.jpg,Flower
+0.855723114,Frame-Nature/plier5.jpg,Plant
+0.855723114,Frame-Nature/plier5.jpg,Sunflower
+0.601235733,Frame-Nature/plier5.jpg,Leaf
+0.585654373,Frame-Nature/plier5.jpg,Flower Arrangement
+0.585654373,Frame-Nature/plier5.jpg,Ornament
+0.550372963,Frame-Nature/plier5.jpg,Violet
+0.546661301,Frame-Nature/plier5.jpg,Aster
+0.546164169,Frame-Nature/plier5.jpg,Maple Leaf
+0.531486053,Frame-Nature/plier5.jpg,Geranium
+0.525027466,Frame-Nature/plier5.jpg,Art
+0.525027466,Frame-Nature/plier5.jpg,Ikebana
+0.525027466,Frame-Nature/plier5.jpg,Jar
+0.525027466,Frame-Nature/plier5.jpg,Pottery
+0.525027466,Frame-Nature/plier5.jpg,Vase
+0.517462616,Frame-Nature/plier5.jpg,Petal
+0.511351051,Frame-Nature/plier5.jpg,Arecaceae
+0.511351051,Frame-Nature/plier5.jpg,Palm Tree
+0.511351051,Frame-Nature/plier5.jpg,Tree
+0.508230019,Frame-Nature/plier5.jpg,Oak
+0.508230019,Frame-Nature/plier5.jpg,Sycamore
+0.505787849,Frame-Nature/plier5.jpg,Conifer
+0.505787849,Frame-Nature/plier5.jpg,Yew
+0.505554008,Frame-Nature/plier5.jpg,Vegetation
+0.651766968,Frame-Nature/saw1.jpg,Blossom
+0.651766968,Frame-Nature/saw1.jpg,Flora
+0.651766968,Frame-Nature/saw1.jpg,Flower
+0.651766968,Frame-Nature/saw1.jpg,Plant
+0.640541763,Frame-Nature/saw1.jpg,Weed
+0.639291573,Frame-Nature/saw1.jpg,Flower Arrangement
+0.639291573,Frame-Nature/saw1.jpg,Lei
+0.639291573,Frame-Nature/saw1.jpg,Ornament
+0.605223236,Frame-Nature/saw1.jpg,Daisies
+0.605223236,Frame-Nature/saw1.jpg,Daisy
+0.579437027,Frame-Nature/saw1.jpg,Brochure
+0.579437027,Frame-Nature/saw1.jpg,Flyer
+0.579437027,Frame-Nature/saw1.jpg,Paper
+0.579437027,Frame-Nature/saw1.jpg,Poster
+0.577950172,Frame-Nature/saw1.jpg,Arecaceae
+0.577950172,Frame-Nature/saw1.jpg,Palm Tree
+0.577950172,Frame-Nature/saw1.jpg,Tree
+0.561580048,Frame-Nature/saw1.jpg,Conifer
+0.561580048,Frame-Nature/saw1.jpg,Yew
+0.541876373,Frame-Nature/saw1.jpg,Flower Bouquet
+0.539164848,Frame-Nature/saw1.jpg,Leaf
+0.535355339,Frame-Nature/saw1.jpg,Sunflower
+0.530312309,Frame-Nature/saw1.jpg,Herbs
+0.530312309,Frame-Nature/saw1.jpg,Jar
+0.530312309,Frame-Nature/saw1.jpg,Planter
+0.530312309,Frame-Nature/saw1.jpg,Potted Plant
+0.530312309,Frame-Nature/saw1.jpg,Pottery
+0.530312309,Frame-Nature/saw1.jpg,Vase
+0.520253181,Frame-Nature/saw1.jpg,Aster
+0.51710968,Frame-Nature/saw1.jpg,Food
+0.51710968,Frame-Nature/saw1.jpg,Meal
+0.513922043,Frame-Nature/saw1.jpg,Vegetation
+0.505356064,Frame-Nature/saw1.jpg,Maple Leaf
+0.984859085,Frame-Nature/saw2.jpg,Wreath
+0.817564163,Frame-Nature/saw2.jpg,Collage
+0.817564163,Frame-Nature/saw2.jpg,Poster
+0.708332748,Frame-Nature/saw2.jpg,Flora
+0.708332748,Frame-Nature/saw2.jpg,Plant
+0.651034012,Frame-Nature/saw2.jpg,Blossom
+0.651034012,Frame-Nature/saw2.jpg,Flower
+0.640541229,Frame-Nature/saw2.jpg,Weed
+0.618054161,Frame-Nature/saw2.jpg,Arch
+0.618054161,Frame-Nature/saw2.jpg,Arched
+0.618054161,Frame-Nature/saw2.jpg,Architecture
+0.618054161,Frame-Nature/saw2.jpg,Building
+0.605365334,Frame-Nature/saw2.jpg,Daisies
+0.605365334,Frame-Nature/saw2.jpg,Daisy
+0.577950287,Frame-Nature/saw2.jpg,Arecaceae
+0.577950287,Frame-Nature/saw2.jpg,Palm Tree
+0.577950287,Frame-Nature/saw2.jpg,Tree
+0.561580238,Frame-Nature/saw2.jpg,Conifer
+0.561580238,Frame-Nature/saw2.jpg,Yew
+0.547034035,Frame-Nature/saw2.jpg,Violet
+0.54166954,Frame-Nature/saw2.jpg,Flower Arrangement
+0.54166954,Frame-Nature/saw2.jpg,Flower Bouquet
+0.54166954,Frame-Nature/saw2.jpg,Ornament
+0.539206848,Frame-Nature/saw2.jpg,Aster
+0.539164886,Frame-Nature/saw2.jpg,Leaf
+0.51712059,Frame-Nature/saw2.jpg,Food
+0.51712059,Frame-Nature/saw2.jpg,Meal
+0.513922043,Frame-Nature/saw2.jpg,Vegetation
+0.505356064,Frame-Nature/saw2.jpg,Maple Leaf
+0.991066895,Frame-Nature/saw3.jpg,Flora
+0.991066895,Frame-Nature/saw3.jpg,Jar
+0.991066895,Frame-Nature/saw3.jpg,Plant
+0.991066895,Frame-Nature/saw3.jpg,Potted Plant
+0.991066895,Frame-Nature/saw3.jpg,Pottery
+0.991066895,Frame-Nature/saw3.jpg,Vase
+0.855491257,Frame-Nature/saw3.jpg,Garden
+0.855491257,Frame-Nature/saw3.jpg,Gardening
+0.855491257,Frame-Nature/saw3.jpg,Outdoors
+0.743341293,Frame-Nature/saw3.jpg,Collage
+0.743341293,Frame-Nature/saw3.jpg,Poster
+0.628985748,Frame-Nature/saw3.jpg,Blossom
+0.628985748,Frame-Nature/saw3.jpg,Daisies
+0.628985748,Frame-Nature/saw3.jpg,Daisy
+0.628985748,Frame-Nature/saw3.jpg,Flower
+0.608264046,Frame-Nature/saw3.jpg,Sunflower
+0.560438766,Frame-Nature/saw3.jpg,Flower Arrangement
+0.560438766,Frame-Nature/saw3.jpg,Flower Bouquet
+0.560438766,Frame-Nature/saw3.jpg,Ornament
+0.538811607,Frame-Nature/saw3.jpg,Treasure Flower
+0.532654572,Frame-Nature/saw3.jpg,Aster
+0.526060295,Frame-Nature/saw3.jpg,Herbs
+0.526060295,Frame-Nature/saw3.jpg,Planter
+0.508366051,Frame-Nature/saw3.jpg,Food
+0.508366051,Frame-Nature/saw3.jpg,Meal
+0.505711441,Frame-Nature/saw3.jpg,Leaf
+0.922485199,Frame-Nature/saw4.jpg,Collage
+0.922485199,Frame-Nature/saw4.jpg,Poster
+0.884507141,Frame-Nature/saw4.jpg,Wreath
+0.864337311,Frame-Nature/saw4.jpg,Blossom
+0.864337311,Frame-Nature/saw4.jpg,Flora
+0.864337311,Frame-Nature/saw4.jpg,Flower
+0.864337311,Frame-Nature/saw4.jpg,Plant
+0.864337311,Frame-Nature/saw4.jpg,Sunflower
+0.63637291,Frame-Nature/saw4.jpg,Weed
+0.605365334,Frame-Nature/saw4.jpg,Daisies
+0.605365334,Frame-Nature/saw4.jpg,Daisy
+0.593131409,Frame-Nature/saw4.jpg,Pot
+0.572583618,Frame-Nature/saw4.jpg,Arecaceae
+0.572583618,Frame-Nature/saw4.jpg,Palm Tree
+0.572583618,Frame-Nature/saw4.jpg,Tree
+0.558175735,Frame-Nature/saw4.jpg,Conifer
+0.558175735,Frame-Nature/saw4.jpg,Yew
+0.543004684,Frame-Nature/saw4.jpg,Aster
+0.54166954,Frame-Nature/saw4.jpg,Flower Arrangement
+0.54166954,Frame-Nature/saw4.jpg,Flower Bouquet
+0.54166954,Frame-Nature/saw4.jpg,Ornament
+0.540368805,Frame-Nature/saw4.jpg,Leaf
+0.524093933,Frame-Nature/saw4.jpg,Petal
+0.51712059,Frame-Nature/saw4.jpg,Food
+0.51712059,Frame-Nature/saw4.jpg,Meal
+0.512944717,Frame-Nature/saw4.jpg,Vegetation
+0.505939064,Frame-Nature/saw4.jpg,Maple Leaf
+0.787601929,Frame-Nature/saw5.jpg,Blossom
+0.787601929,Frame-Nature/saw5.jpg,Flora
+0.787601929,Frame-Nature/saw5.jpg,Flower
+0.787601929,Frame-Nature/saw5.jpg,Plant
+0.787601929,Frame-Nature/saw5.jpg,Sunflower
+0.628123932,Frame-Nature/saw5.jpg,Conifer
+0.628123932,Frame-Nature/saw5.jpg,Tree
+0.628123932,Frame-Nature/saw5.jpg,Yew
+0.590945778,Frame-Nature/saw5.jpg,Collage
+0.590945778,Frame-Nature/saw5.jpg,Poster
+0.586330109,Frame-Nature/saw5.jpg,Arecaceae
+0.586330109,Frame-Nature/saw5.jpg,Palm Tree
+0.557421379,Frame-Nature/saw5.jpg,Weed
+0.536044426,Frame-Nature/saw5.jpg,Flower Arrangement
+0.536044426,Frame-Nature/saw5.jpg,Ornament
+0.534013634,Frame-Nature/saw5.jpg,Daisies
+0.534013634,Frame-Nature/saw5.jpg,Daisy
+0.526282616,Frame-Nature/saw5.jpg,Art
+0.526282616,Frame-Nature/saw5.jpg,Ikebana
+0.526282616,Frame-Nature/saw5.jpg,Jar
+0.526282616,Frame-Nature/saw5.jpg,Pottery
+0.526282616,Frame-Nature/saw5.jpg,Vase
+0.519385834,Frame-Nature/saw5.jpg,Leaf
+0.518267708,Frame-Nature/saw5.jpg,Aster
+0.51475071,Frame-Nature/saw5.jpg,Vegetation
+0.5066325,Frame-Nature/saw5.jpg,Moss
+0.505538101,Frame-Nature/saw5.jpg,Lupin
+0.50512619,Frame-Nature/saw5.jpg,Grass
+0.984403915,Frame-Nature/scissor1.jpg,Wreath
+0.817506866,Frame-Nature/scissor1.jpg,Blossom
+0.817506866,Frame-Nature/scissor1.jpg,Flora
+0.817506866,Frame-Nature/scissor1.jpg,Flower
+0.817506866,Frame-Nature/scissor1.jpg,Mimosa
+0.817506866,Frame-Nature/scissor1.jpg,Plant
+0.648455658,Frame-Nature/scissor1.jpg,Sunflower
+0.572906723,Frame-Nature/scissor1.jpg,Weed
+0.552224236,Frame-Nature/scissor1.jpg,Leaf
+0.551803131,Frame-Nature/scissor1.jpg,Art
+0.551803131,Frame-Nature/scissor1.jpg,Flower Arrangement
+0.551803131,Frame-Nature/scissor1.jpg,Ikebana
+0.551803131,Frame-Nature/scissor1.jpg,Jar
+0.551803131,Frame-Nature/scissor1.jpg,Ornament
+0.551803131,Frame-Nature/scissor1.jpg,Pottery
+0.551803131,Frame-Nature/scissor1.jpg,Vase
+0.546445923,Frame-Nature/scissor1.jpg,Daisies
+0.546445923,Frame-Nature/scissor1.jpg,Daisy
+0.545411987,Frame-Nature/scissor1.jpg,Maple Leaf
+0.542539177,Frame-Nature/scissor1.jpg,Arecaceae
+0.542539177,Frame-Nature/scissor1.jpg,Palm Tree
+0.542539177,Frame-Nature/scissor1.jpg,Tree
+0.530770912,Frame-Nature/scissor1.jpg,Conifer
+0.530770912,Frame-Nature/scissor1.jpg,Yew
+0.527726288,Frame-Nature/scissor1.jpg,Aster
+0.517522507,Frame-Nature/scissor1.jpg,Violet
+0.512387352,Frame-Nature/scissor1.jpg,Iris
+0.512168541,Frame-Nature/scissor1.jpg,Geranium
+0.511946182,Frame-Nature/scissor1.jpg,Vegetation
+0.510371399,Frame-Nature/scissor1.jpg,Petal
+0.510027161,Frame-Nature/scissor1.jpg,Moss
+0.740503006,Frame-Nature/scissor2.jpg,Flora
+0.740503006,Frame-Nature/scissor2.jpg,Plant
+0.651034012,Frame-Nature/scissor2.jpg,Blossom
+0.651034012,Frame-Nature/scissor2.jpg,Flower
+0.65069313,Frame-Nature/scissor2.jpg,Weed
+0.615748215,Frame-Nature/scissor2.jpg,Arecaceae
+0.615748215,Frame-Nature/scissor2.jpg,Palm Tree
+0.615748215,Frame-Nature/scissor2.jpg,Tree
+0.606662025,Frame-Nature/scissor2.jpg,Sunflower
+0.605365334,Frame-Nature/scissor2.jpg,Daisies
+0.605365334,Frame-Nature/scissor2.jpg,Daisy
+0.571321144,Frame-Nature/scissor2.jpg,Conifer
+0.571321144,Frame-Nature/scissor2.jpg,Yew
+0.565099945,Frame-Nature/scissor2.jpg,Leaf
+0.54166954,Frame-Nature/scissor2.jpg,Flower Arrangement
+0.54166954,Frame-Nature/scissor2.jpg,Flower Bouquet
+0.54166954,Frame-Nature/scissor2.jpg,Ornament
+0.538767204,Frame-Nature/scissor2.jpg,Collage
+0.538767204,Frame-Nature/scissor2.jpg,Poster
+0.536035461,Frame-Nature/scissor2.jpg,Aster
+0.51712059,Frame-Nature/scissor2.jpg,Food
+0.51712059,Frame-Nature/scissor2.jpg,Meal
+0.515653915,Frame-Nature/scissor2.jpg,Vegetation
+0.508461342,Frame-Nature/scissor2.jpg,Moss
+0.505271606,Frame-Nature/scissor2.jpg,Maple Leaf
+0.933781662,Frame-Nature/scissor3.jpg,Collage
+0.933781662,Frame-Nature/scissor3.jpg,Poster
+0.83518013,Frame-Nature/scissor3.jpg,Flora
+0.83518013,Frame-Nature/scissor3.jpg,Plant
+0.625407028,Frame-Nature/scissor3.jpg,Fern
+0.603820343,Frame-Nature/scissor3.jpg,Blossom
+0.603820343,Frame-Nature/scissor3.jpg,Flower
+0.603820343,Frame-Nature/scissor3.jpg,Sunflower
+0.58250988,Frame-Nature/scissor3.jpg,Violet
+0.56406456,Frame-Nature/scissor3.jpg,Flower Arrangement
+0.56406456,Frame-Nature/scissor3.jpg,Ornament
+0.563379059,Frame-Nature/scissor3.jpg,Acanthaceae
+0.548996086,Frame-Nature/scissor3.jpg,Art
+0.548996086,Frame-Nature/scissor3.jpg,Ikebana
+0.548996086,Frame-Nature/scissor3.jpg,Jar
+0.548996086,Frame-Nature/scissor3.jpg,Pottery
+0.548996086,Frame-Nature/scissor3.jpg,Vase
+0.544385033,Frame-Nature/scissor3.jpg,Pansy
+0.542690697,Frame-Nature/scissor3.jpg,Aster
+0.530587502,Frame-Nature/scissor3.jpg,Daisies
+0.530587502,Frame-Nature/scissor3.jpg,Daisy
+0.527594032,Frame-Nature/scissor3.jpg,Aquilegia
+0.514477119,Frame-Nature/scissor3.jpg,Tree
+0.514106865,Frame-Nature/scissor3.jpg,Leaf
+0.506706123,Frame-Nature/scissor3.jpg,Vegetation
+0.506558723,Frame-Nature/scissor3.jpg,Anemone
+0.50634861,Frame-Nature/scissor3.jpg,Moss
+0.506394196,Frame-Nature/scissor3.jpg,Vine
+0.505799217,Frame-Nature/scissor3.jpg,Arecaceae
+0.505799217,Frame-Nature/scissor3.jpg,Palm Tree
+0.505699348,Frame-Nature/scissor3.jpg,Aloe
+0.959111099,Frame-Nature/scissor4.jpg,Collage
+0.959111099,Frame-Nature/scissor4.jpg,Poster
+0.918156967,Frame-Nature/scissor4.jpg,Wreath
+0.755708466,Frame-Nature/scissor4.jpg,Blossom
+0.755708466,Frame-Nature/scissor4.jpg,Flora
+0.755708466,Frame-Nature/scissor4.jpg,Flower
+0.755708466,Frame-Nature/scissor4.jpg,Plant
+0.755708466,Frame-Nature/scissor4.jpg,Sunflower
+0.722387772,Frame-Nature/scissor4.jpg,Scissors
+0.640541229,Frame-Nature/scissor4.jpg,Weed
+0.582566795,Frame-Nature/scissor4.jpg,Violet
+0.577950287,Frame-Nature/scissor4.jpg,Arecaceae
+0.577950287,Frame-Nature/scissor4.jpg,Palm Tree
+0.577950287,Frame-Nature/scissor4.jpg,Tree
+0.561580238,Frame-Nature/scissor4.jpg,Conifer
+0.561580238,Frame-Nature/scissor4.jpg,Yew
+0.539164886,Frame-Nature/scissor4.jpg,Leaf
+0.532173347,Frame-Nature/scissor4.jpg,Aster
+0.523240929,Frame-Nature/scissor4.jpg,Petal
+0.513922043,Frame-Nature/scissor4.jpg,Vegetation
+0.505356064,Frame-Nature/scissor4.jpg,Maple Leaf
+0.984956207,Frame-Nature/scissor5.jpg,Wreath
+0.902963486,Frame-Nature/scissor5.jpg,Blossom
+0.902963486,Frame-Nature/scissor5.jpg,Flora
+0.902963486,Frame-Nature/scissor5.jpg,Flower
+0.902963486,Frame-Nature/scissor5.jpg,Plant
+0.902963486,Frame-Nature/scissor5.jpg,Sunflower
+0.786492691,Frame-Nature/scissor5.jpg,Collage
+0.786492691,Frame-Nature/scissor5.jpg,Poster
+0.736684952,Frame-Nature/scissor5.jpg,Flower Arrangement
+0.736684952,Frame-Nature/scissor5.jpg,Ornament
+0.633932304,Frame-Nature/scissor5.jpg,Weed
+0.630396538,Frame-Nature/scissor5.jpg,Daisies
+0.630396538,Frame-Nature/scissor5.jpg,Daisy
+0.618298607,Frame-Nature/scissor5.jpg,Treasure Flower
+0.59019928,Frame-Nature/scissor5.jpg,Arecaceae
+0.59019928,Frame-Nature/scissor5.jpg,Palm Tree
+0.59019928,Frame-Nature/scissor5.jpg,Tree
+0.575408936,Frame-Nature/scissor5.jpg,Conifer
+0.575408936,Frame-Nature/scissor5.jpg,Yew
+0.558052139,Frame-Nature/scissor5.jpg,Aster
+0.556175117,Frame-Nature/scissor5.jpg,Leaf
+0.546215057,Frame-Nature/scissor5.jpg,Flower Bouquet
+0.514431839,Frame-Nature/scissor5.jpg,Vegetation
+0.51051342,Frame-Nature/scissor5.jpg,Food
+0.50872654,Frame-Nature/scissor5.jpg,Petal
+0.506920509,Frame-Nature/scissor5.jpg,Glasses
+0.50685154,Frame-Nature/scissor5.jpg,Maple Leaf
+0.506447678,Frame-Nature/scissor5.jpg,Moss
+0.979083481,Frame-Nature/screw1.jpg,Wreath
+0.902963486,Frame-Nature/screw1.jpg,Blossom
+0.902963486,Frame-Nature/screw1.jpg,Flora
+0.902963486,Frame-Nature/screw1.jpg,Flower
+0.902963486,Frame-Nature/screw1.jpg,Plant
+0.902963486,Frame-Nature/screw1.jpg,Sunflower
+0.83582016,Frame-Nature/screw1.jpg,Collage
+0.83582016,Frame-Nature/screw1.jpg,Poster
+0.633933067,Frame-Nature/screw1.jpg,Weed
+0.613796043,Frame-Nature/screw1.jpg,Daisies
+0.613796043,Frame-Nature/screw1.jpg,Daisy
+0.590199699,Frame-Nature/screw1.jpg,Arecaceae
+0.590199699,Frame-Nature/screw1.jpg,Palm Tree
+0.590199699,Frame-Nature/screw1.jpg,Tree
+0.575408936,Frame-Nature/screw1.jpg,Conifer
+0.575408936,Frame-Nature/screw1.jpg,Yew
+0.558052139,Frame-Nature/screw1.jpg,Aster
+0.556174889,Frame-Nature/screw1.jpg,Leaf
+0.534384499,Frame-Nature/screw1.jpg,Flower Arrangement
+0.534384499,Frame-Nature/screw1.jpg,Flower Bouquet
+0.534384499,Frame-Nature/screw1.jpg,Ornament
+0.527249146,Frame-Nature/screw1.jpg,Violet
+0.517394142,Frame-Nature/screw1.jpg,Food
+0.517394142,Frame-Nature/screw1.jpg,Meal
+0.514431877,Frame-Nature/screw1.jpg,Vegetation
+0.511693611,Frame-Nature/screw1.jpg,Fern
+0.510071411,Frame-Nature/screw1.jpg,Geranium
+0.50872654,Frame-Nature/screw1.jpg,Petal
+0.506851616,Frame-Nature/screw1.jpg,Maple Leaf
+0.506447678,Frame-Nature/screw1.jpg,Moss
+0.992124252,Frame-Nature/screw2.jpg,Screwdriver
+0.81756279,Frame-Nature/screw2.jpg,Collage
+0.81756279,Frame-Nature/screw2.jpg,Poster
+0.702820587,Frame-Nature/screw2.jpg,Flora
+0.702820587,Frame-Nature/screw2.jpg,Plant
+0.640541763,Frame-Nature/screw2.jpg,Weed
+0.588065224,Frame-Nature/screw2.jpg,Herbs
+0.588065224,Frame-Nature/screw2.jpg,Jar
+0.588065224,Frame-Nature/screw2.jpg,Planter
+0.588065224,Frame-Nature/screw2.jpg,Potted Plant
+0.588065224,Frame-Nature/screw2.jpg,Pottery
+0.588065224,Frame-Nature/screw2.jpg,Vase
+0.577950172,Frame-Nature/screw2.jpg,Arecaceae
+0.577950172,Frame-Nature/screw2.jpg,Palm Tree
+0.577950172,Frame-Nature/screw2.jpg,Tree
+0.577864838,Frame-Nature/screw2.jpg,Art
+0.577864838,Frame-Nature/screw2.jpg,Blossom
+0.577864838,Frame-Nature/screw2.jpg,Flower
+0.577864838,Frame-Nature/screw2.jpg,Flower Arrangement
+0.577864838,Frame-Nature/screw2.jpg,Ikebana
+0.577864838,Frame-Nature/screw2.jpg,Ornament
+0.561580238,Frame-Nature/screw2.jpg,Conifer
+0.561580238,Frame-Nature/screw2.jpg,Yew
+0.547034035,Frame-Nature/screw2.jpg,Violet
+0.539164848,Frame-Nature/screw2.jpg,Leaf
+0.538027039,Frame-Nature/screw2.jpg,Aster
+0.533968048,Frame-Nature/screw2.jpg,Garden
+0.533968048,Frame-Nature/screw2.jpg,Gardening
+0.533968048,Frame-Nature/screw2.jpg,Outdoors
+0.513922043,Frame-Nature/screw2.jpg,Vegetation
+0.511408386,Frame-Nature/screw2.jpg,Sunflower
+0.505356064,Frame-Nature/screw2.jpg,Maple Leaf
+0.955082626,Frame-Nature/screw3.jpg,Collage
+0.955082626,Frame-Nature/screw3.jpg,Poster
+0.728094406,Frame-Nature/screw3.jpg,Flora
+0.728094406,Frame-Nature/screw3.jpg,Plant
+0.704116135,Frame-Nature/screw3.jpg,Blossom
+0.704116135,Frame-Nature/screw3.jpg,Flower
+0.704116135,Frame-Nature/screw3.jpg,Sunflower
+0.640541229,Frame-Nature/screw3.jpg,Weed
+0.605365334,Frame-Nature/screw3.jpg,Daisies
+0.605365334,Frame-Nature/screw3.jpg,Daisy
+0.577950287,Frame-Nature/screw3.jpg,Arecaceae
+0.577950287,Frame-Nature/screw3.jpg,Palm Tree
+0.577950287,Frame-Nature/screw3.jpg,Tree
+0.561580238,Frame-Nature/screw3.jpg,Conifer
+0.561580238,Frame-Nature/screw3.jpg,Yew
+0.553057365,Frame-Nature/screw3.jpg,Garden
+0.553057365,Frame-Nature/screw3.jpg,Gardening
+0.553057365,Frame-Nature/screw3.jpg,Outdoors
+0.54166954,Frame-Nature/screw3.jpg,Flower Arrangement
+0.54166954,Frame-Nature/screw3.jpg,Flower Bouquet
+0.54166954,Frame-Nature/screw3.jpg,Ornament
+0.539164886,Frame-Nature/screw3.jpg,Leaf
+0.534600677,Frame-Nature/screw3.jpg,Art
+0.534600677,Frame-Nature/screw3.jpg,Ikebana
+0.534600677,Frame-Nature/screw3.jpg,Jar
+0.534600677,Frame-Nature/screw3.jpg,Pottery
+0.534600677,Frame-Nature/screw3.jpg,Vase
+0.532985687,Frame-Nature/screw3.jpg,Aster
+0.528727646,Frame-Nature/screw3.jpg,Petal
+0.51712059,Frame-Nature/screw3.jpg,Food
+0.51712059,Frame-Nature/screw3.jpg,Meal
+0.513922043,Frame-Nature/screw3.jpg,Vegetation
+0.509111595,Frame-Nature/screw3.jpg,Anthurium
+0.505356064,Frame-Nature/screw3.jpg,Maple Leaf
+0.775816345,Frame-Nature/screw4.jpg,Flora
+0.775816345,Frame-Nature/screw4.jpg,Plant
+0.740443573,Frame-Nature/screw4.jpg,Collage
+0.740443573,Frame-Nature/screw4.jpg,Poster
+0.616928444,Frame-Nature/screw4.jpg,Blossom
+0.616928444,Frame-Nature/screw4.jpg,Flower
+0.616928444,Frame-Nature/screw4.jpg,Sunflower
+0.604129372,Frame-Nature/screw4.jpg,Violet
+0.561731987,Frame-Nature/screw4.jpg,Herbs
+0.561731987,Frame-Nature/screw4.jpg,Jar
+0.561731987,Frame-Nature/screw4.jpg,Planter
+0.561731987,Frame-Nature/screw4.jpg,Potted Plant
+0.561731987,Frame-Nature/screw4.jpg,Pottery
+0.561731987,Frame-Nature/screw4.jpg,Vase
+0.536520882,Frame-Nature/screw4.jpg,Art
+0.536520882,Frame-Nature/screw4.jpg,Flower Arrangement
+0.536520882,Frame-Nature/screw4.jpg,Ikebana
+0.536520882,Frame-Nature/screw4.jpg,Ornament
+0.528954697,Frame-Nature/screw4.jpg,Daisies
+0.528954697,Frame-Nature/screw4.jpg,Daisy
+0.524556046,Frame-Nature/screw4.jpg,Weed
+0.523239784,Frame-Nature/screw4.jpg,Acanthaceae
+0.522615891,Frame-Nature/screw4.jpg,Vine
+0.518106995,Frame-Nature/screw4.jpg,Aster
+0.517819176,Frame-Nature/screw4.jpg,Pansy
+0.515321274,Frame-Nature/screw4.jpg,Tree
+0.514641571,Frame-Nature/screw4.jpg,Leaf
+0.514117432,Frame-Nature/screw4.jpg,Garden
+0.514117432,Frame-Nature/screw4.jpg,Gardening
+0.514117432,Frame-Nature/screw4.jpg,Outdoors
+0.512544022,Frame-Nature/screw4.jpg,Geranium
+0.511168175,Frame-Nature/screw4.jpg,Moss
+0.507600327,Frame-Nature/screw4.jpg,Arecaceae
+0.507600327,Frame-Nature/screw4.jpg,Palm Tree
+0.505477905,Frame-Nature/screw4.jpg,Grass
+0.76747757,Frame-Nature/screw5.jpg,Flora
+0.76747757,Frame-Nature/screw5.jpg,Jar
+0.76747757,Frame-Nature/screw5.jpg,Plant
+0.76747757,Frame-Nature/screw5.jpg,Potted Plant
+0.76747757,Frame-Nature/screw5.jpg,Pottery
+0.76747757,Frame-Nature/screw5.jpg,Vase
+0.709862518,Frame-Nature/screw5.jpg,Fern
+0.681734467,Frame-Nature/screw5.jpg,Art
+0.681734467,Frame-Nature/screw5.jpg,Blossom
+0.681734467,Frame-Nature/screw5.jpg,Flower
+0.681734467,Frame-Nature/screw5.jpg,Flower Arrangement
+0.681734467,Frame-Nature/screw5.jpg,Ikebana
+0.681734467,Frame-Nature/screw5.jpg,Ornament
+0.672942657,Frame-Nature/screw5.jpg,Collage
+0.672942657,Frame-Nature/screw5.jpg,Poster
+0.600954819,Frame-Nature/screw5.jpg,Daisies
+0.600954819,Frame-Nature/screw5.jpg,Daisy
+0.579878082,Frame-Nature/screw5.jpg,Flower Bouquet
+0.57049675,Frame-Nature/screw5.jpg,Aster
+0.528256531,Frame-Nature/screw5.jpg,Food
+0.528256531,Frame-Nature/screw5.jpg,Meal
+0.511918907,Frame-Nature/screw5.jpg,Leaf
+0.508436394,Frame-Nature/screw5.jpg,Herbs
+0.508436394,Frame-Nature/screw5.jpg,Planter
+0.507050438,Frame-Nature/screw5.jpg,Arecaceae
+0.507050438,Frame-Nature/screw5.jpg,Palm Tree
+0.507050438,Frame-Nature/screw5.jpg,Tree
+0.861627731,Frame-Nature/shovel1.jpg,Collage
+0.861627731,Frame-Nature/shovel1.jpg,Poster
+0.725732574,Frame-Nature/shovel1.jpg,Aloe
+0.725732574,Frame-Nature/shovel1.jpg,Flora
+0.725732574,Frame-Nature/shovel1.jpg,Plant
+0.556082191,Frame-Nature/shovel1.jpg,Blossom
+0.556082191,Frame-Nature/shovel1.jpg,Flower
+0.550430412,Frame-Nature/shovel1.jpg,Art
+0.550430412,Frame-Nature/shovel1.jpg,Flower Arrangement
+0.550430412,Frame-Nature/shovel1.jpg,Ikebana
+0.550430412,Frame-Nature/shovel1.jpg,Jar
+0.550430412,Frame-Nature/shovel1.jpg,Ornament
+0.550430412,Frame-Nature/shovel1.jpg,Pottery
+0.550430412,Frame-Nature/shovel1.jpg,Vase
+0.542945747,Frame-Nature/shovel1.jpg,Daisies
+0.542945747,Frame-Nature/shovel1.jpg,Daisy
+0.535346756,Frame-Nature/shovel1.jpg,Aster
+0.53125042,Frame-Nature/shovel1.jpg,Herbs
+0.53125042,Frame-Nature/shovel1.jpg,Planter
+0.53125042,Frame-Nature/shovel1.jpg,Potted Plant
+0.528161163,Frame-Nature/shovel1.jpg,Sunflower
+0.518323708,Frame-Nature/shovel1.jpg,Weed
+0.515926437,Frame-Nature/shovel1.jpg,Leaf
+0.507940941,Frame-Nature/shovel1.jpg,Moss
+0.507034302,Frame-Nature/shovel1.jpg,Arecaceae
+0.507034302,Frame-Nature/shovel1.jpg,Palm Tree
+0.507034302,Frame-Nature/shovel1.jpg,Tree
+0.506728477,Frame-Nature/shovel1.jpg,Grass
+0.506372147,Frame-Nature/shovel1.jpg,Vegetation
+0.972926941,Frame-Nature/shovel2.jpg,Collage
+0.972926941,Frame-Nature/shovel2.jpg,Poster
+0.810447693,Frame-Nature/shovel2.jpg,Blossom
+0.810447693,Frame-Nature/shovel2.jpg,Flora
+0.810447693,Frame-Nature/shovel2.jpg,Flower
+0.810447693,Frame-Nature/shovel2.jpg,Plant
+0.810447693,Frame-Nature/shovel2.jpg,Sunflower
+0.652267075,Frame-Nature/shovel2.jpg,Frying Pan
+0.652267075,Frame-Nature/shovel2.jpg,Wok
+0.612196808,Frame-Nature/shovel2.jpg,Conifer
+0.612196808,Frame-Nature/shovel2.jpg,Tree
+0.612196808,Frame-Nature/shovel2.jpg,Yew
+0.608958435,Frame-Nature/shovel2.jpg,Daisies
+0.608958435,Frame-Nature/shovel2.jpg,Daisy
+0.606244431,Frame-Nature/shovel2.jpg,Weed
+0.599305649,Frame-Nature/shovel2.jpg,Arecaceae
+0.599305649,Frame-Nature/shovel2.jpg,Palm Tree
+0.551932106,Frame-Nature/shovel2.jpg,Aster
+0.538125916,Frame-Nature/shovel2.jpg,Flower Arrangement
+0.538125916,Frame-Nature/shovel2.jpg,Flower Bouquet
+0.538125916,Frame-Nature/shovel2.jpg,Ornament
+0.530198936,Frame-Nature/shovel2.jpg,Leaf
+0.520599556,Frame-Nature/shovel2.jpg,Food
+0.520599556,Frame-Nature/shovel2.jpg,Meal
+0.514183235,Frame-Nature/shovel2.jpg,Petal
+0.512796402,Frame-Nature/shovel2.jpg,Vegetation
+0.507615738,Frame-Nature/shovel2.jpg,Maple Leaf
+0.984728394,Frame-Nature/shovel3.jpg,Wreath
+0.91455246,Frame-Nature/shovel3.jpg,Collage
+0.91455246,Frame-Nature/shovel3.jpg,Poster
+0.664232025,Frame-Nature/shovel3.jpg,Flora
+0.664232025,Frame-Nature/shovel3.jpg,Plant
+0.664232025,Frame-Nature/shovel3.jpg,Weed
+0.658039703,Frame-Nature/shovel3.jpg,Blossom
+0.658039703,Frame-Nature/shovel3.jpg,Daisies
+0.658039703,Frame-Nature/shovel3.jpg,Daisy
+0.658039703,Frame-Nature/shovel3.jpg,Flower
+0.608123131,Frame-Nature/shovel3.jpg,Garden
+0.608123131,Frame-Nature/shovel3.jpg,Gardening
+0.608123131,Frame-Nature/shovel3.jpg,Outdoors
+0.604183502,Frame-Nature/shovel3.jpg,Zipper
+0.597388077,Frame-Nature/shovel3.jpg,Conifer
+0.597388077,Frame-Nature/shovel3.jpg,Tree
+0.597388077,Frame-Nature/shovel3.jpg,Yew
+0.553017502,Frame-Nature/shovel3.jpg,Flower Arrangement
+0.553017502,Frame-Nature/shovel3.jpg,Flower Bouquet
+0.553017502,Frame-Nature/shovel3.jpg,Ornament
+0.551583405,Frame-Nature/shovel3.jpg,Jar
+0.551583405,Frame-Nature/shovel3.jpg,Potted Plant
+0.551583405,Frame-Nature/shovel3.jpg,Pottery
+0.551583405,Frame-Nature/shovel3.jpg,Vase
+0.547679062,Frame-Nature/shovel3.jpg,Arecaceae
+0.547679062,Frame-Nature/shovel3.jpg,Palm Tree
+0.534659309,Frame-Nature/shovel3.jpg,Treasure Flower
+0.531968346,Frame-Nature/shovel3.jpg,Leaf
+0.525039215,Frame-Nature/shovel3.jpg,Bag
+0.525039215,Frame-Nature/shovel3.jpg,Tote Bag
+0.511770554,Frame-Nature/shovel3.jpg,Geranium
+0.511798134,Frame-Nature/shovel3.jpg,Maple Leaf
+0.51175602,Frame-Nature/shovel3.jpg,Vegetation
+0.510326729,Frame-Nature/shovel3.jpg,Food
+0.510326729,Frame-Nature/shovel3.jpg,Meal
+0.50584774,Frame-Nature/shovel3.jpg,Aster
+0.956180267,Frame-Nature/shovel4.jpg,Collage
+0.956180267,Frame-Nature/shovel4.jpg,Poster
+0.755447693,Frame-Nature/shovel4.jpg,Flora
+0.755447693,Frame-Nature/shovel4.jpg,Plant
+0.692184067,Frame-Nature/shovel4.jpg,Weed
+0.656009903,Frame-Nature/shovel4.jpg,Blossom
+0.656009903,Frame-Nature/shovel4.jpg,Flower
+0.613739548,Frame-Nature/shovel4.jpg,Sunflower
+0.60423214,Frame-Nature/shovel4.jpg,Daisies
+0.60423214,Frame-Nature/shovel4.jpg,Daisy
+0.554745064,Frame-Nature/shovel4.jpg,Conifer
+0.554745064,Frame-Nature/shovel4.jpg,Tree
+0.554745064,Frame-Nature/shovel4.jpg,Yew
+0.542562675,Frame-Nature/shovel4.jpg,Leaf
+0.541696129,Frame-Nature/shovel4.jpg,Flower Arrangement
+0.541696129,Frame-Nature/shovel4.jpg,Flower Bouquet
+0.541696129,Frame-Nature/shovel4.jpg,Ornament
+0.535929184,Frame-Nature/shovel4.jpg,Aster
+0.527193604,Frame-Nature/shovel4.jpg,Arecaceae
+0.527193604,Frame-Nature/shovel4.jpg,Palm Tree
+0.516304893,Frame-Nature/shovel4.jpg,Food
+0.516304893,Frame-Nature/shovel4.jpg,Meal
+0.512781868,Frame-Nature/shovel4.jpg,Vegetation
+0.977257385,Frame-Nature/shovel5.jpg,Collage
+0.977257385,Frame-Nature/shovel5.jpg,Poster
+0.807396393,Frame-Nature/shovel5.jpg,Blossom
+0.807396393,Frame-Nature/shovel5.jpg,Flora
+0.807396393,Frame-Nature/shovel5.jpg,Flower
+0.807396393,Frame-Nature/shovel5.jpg,Flower Arrangement
+0.807396393,Frame-Nature/shovel5.jpg,Flower Bouquet
+0.807396393,Frame-Nature/shovel5.jpg,Ornament
+0.807396393,Frame-Nature/shovel5.jpg,Plant
+0.664777527,Frame-Nature/shovel5.jpg,Sunflower
+0.61141819,Frame-Nature/shovel5.jpg,Jar
+0.61141819,Frame-Nature/shovel5.jpg,Potted Plant
+0.61141819,Frame-Nature/shovel5.jpg,Pottery
+0.61141819,Frame-Nature/shovel5.jpg,Vase
+0.591676407,Frame-Nature/shovel5.jpg,Daisies
+0.591676407,Frame-Nature/shovel5.jpg,Daisy
+0.550558014,Frame-Nature/shovel5.jpg,Leaf
+0.544649773,Frame-Nature/shovel5.jpg,Aster
+0.534202881,Frame-Nature/shovel5.jpg,Maple Leaf
+0.53204525,Frame-Nature/shovel5.jpg,Pansy
+0.517928123,Frame-Nature/shovel5.jpg,Iris
+0.510155487,Frame-Nature/shovel5.jpg,Garden
+0.510155487,Frame-Nature/shovel5.jpg,Gardening
+0.510155487,Frame-Nature/shovel5.jpg,Outdoors
+0.931238785,Frame-Nature/tape1.jpg,Collage
+0.931238785,Frame-Nature/tape1.jpg,Poster
+0.902973251,Frame-Nature/tape1.jpg,Blossom
+0.902973251,Frame-Nature/tape1.jpg,Flora
+0.902973251,Frame-Nature/tape1.jpg,Flower
+0.902973251,Frame-Nature/tape1.jpg,Plant
+0.902973251,Frame-Nature/tape1.jpg,Sunflower
+0.633597298,Frame-Nature/tape1.jpg,Weed
+0.605365334,Frame-Nature/tape1.jpg,Daisies
+0.605365334,Frame-Nature/tape1.jpg,Daisy
+0.583743858,Frame-Nature/tape1.jpg,Arecaceae
+0.583743858,Frame-Nature/tape1.jpg,Palm Tree
+0.583743858,Frame-Nature/tape1.jpg,Tree
+0.558058815,Frame-Nature/tape1.jpg,Aster
+0.551213684,Frame-Nature/tape1.jpg,Alcohol
+0.551213684,Frame-Nature/tape1.jpg,Beverage
+0.551213684,Frame-Nature/tape1.jpg,Cocktail
+0.551213684,Frame-Nature/tape1.jpg,Drink
+0.551213684,Frame-Nature/tape1.jpg,Mojito
+0.547957611,Frame-Nature/tape1.jpg,Conifer
+0.547957611,Frame-Nature/tape1.jpg,Yew
+0.54166954,Frame-Nature/tape1.jpg,Flower Arrangement
+0.54166954,Frame-Nature/tape1.jpg,Flower Bouquet
+0.54166954,Frame-Nature/tape1.jpg,Ornament
+0.52234066,Frame-Nature/tape1.jpg,Vegetation
+0.517385406,Frame-Nature/tape1.jpg,Leaf
+0.51712059,Frame-Nature/tape1.jpg,Food
+0.51712059,Frame-Nature/tape1.jpg,Meal
+0.51070797,Frame-Nature/tape1.jpg,Accessories
+0.510237045,Frame-Nature/tape1.jpg,Maple Leaf
+0.508730125,Frame-Nature/tape1.jpg,Petal
+0.505776405,Frame-Nature/tape1.jpg,Moss
+0.940056839,Frame-Nature/tape2.jpg,Collage
+0.940056839,Frame-Nature/tape2.jpg,Poster
+0.798782501,Frame-Nature/tape2.jpg,Cap
+0.798782501,Frame-Nature/tape2.jpg,Clothing
+0.798782501,Frame-Nature/tape2.jpg,Hat
+0.680256042,Frame-Nature/tape2.jpg,Flora
+0.680256042,Frame-Nature/tape2.jpg,Jar
+0.680256042,Frame-Nature/tape2.jpg,Plant
+0.680256042,Frame-Nature/tape2.jpg,Potted Plant
+0.680256042,Frame-Nature/tape2.jpg,Pottery
+0.680256042,Frame-Nature/tape2.jpg,Vase
+0.651034012,Frame-Nature/tape2.jpg,Blossom
+0.651034012,Frame-Nature/tape2.jpg,Flower
+0.633933067,Frame-Nature/tape2.jpg,Weed
+0.605365334,Frame-Nature/tape2.jpg,Daisies
+0.605365334,Frame-Nature/tape2.jpg,Daisy
+0.590199699,Frame-Nature/tape2.jpg,Arecaceae
+0.590199699,Frame-Nature/tape2.jpg,Palm Tree
+0.590199699,Frame-Nature/tape2.jpg,Tree
+0.589355659,Frame-Nature/tape2.jpg,Baseball Cap
+0.575408936,Frame-Nature/tape2.jpg,Conifer
+0.575408936,Frame-Nature/tape2.jpg,Yew
+0.556174889,Frame-Nature/tape2.jpg,Leaf
+0.553917465,Frame-Nature/tape2.jpg,Violet
+0.54166954,Frame-Nature/tape2.jpg,Flower Arrangement
+0.54166954,Frame-Nature/tape2.jpg,Flower Bouquet
+0.54166954,Frame-Nature/tape2.jpg,Ornament
+0.528281136,Frame-Nature/tape2.jpg,Pot
+0.526486092,Frame-Nature/tape2.jpg,Lifejacket
+0.526486092,Frame-Nature/tape2.jpg,Vest
+0.51712059,Frame-Nature/tape2.jpg,Food
+0.51712059,Frame-Nature/tape2.jpg,Meal
+0.514431877,Frame-Nature/tape2.jpg,Vegetation
+0.511023216,Frame-Nature/tape2.jpg,Aster
+0.506851616,Frame-Nature/tape2.jpg,Maple Leaf
+0.506447678,Frame-Nature/tape2.jpg,Moss
+0.842945251,Frame-Nature/tape3.jpg,Collage
+0.842945251,Frame-Nature/tape3.jpg,Poster
+0.78781662,Frame-Nature/tape3.jpg,Blossom
+0.78781662,Frame-Nature/tape3.jpg,Flora
+0.78781662,Frame-Nature/tape3.jpg,Flower
+0.78781662,Frame-Nature/tape3.jpg,Plant
+0.78781662,Frame-Nature/tape3.jpg,Sunflower
+0.613680954,Frame-Nature/tape3.jpg,Weed
+0.592896385,Frame-Nature/tape3.jpg,Daisies
+0.592896385,Frame-Nature/tape3.jpg,Daisy
+0.567410278,Frame-Nature/tape3.jpg,Flower Arrangement
+0.567410278,Frame-Nature/tape3.jpg,Flower Bouquet
+0.567410278,Frame-Nature/tape3.jpg,Ornament
+0.562798386,Frame-Nature/tape3.jpg,Conifer
+0.562798386,Frame-Nature/tape3.jpg,Tree
+0.562798386,Frame-Nature/tape3.jpg,Yew
+0.56106411,Frame-Nature/tape3.jpg,Arecaceae
+0.56106411,Frame-Nature/tape3.jpg,Palm Tree
+0.544693527,Frame-Nature/tape3.jpg,Aster
+0.525784264,Frame-Nature/tape3.jpg,Leaf
+0.521259842,Frame-Nature/tape3.jpg,Food
+0.521259842,Frame-Nature/tape3.jpg,Meal
+0.514144173,Frame-Nature/tape3.jpg,Petal
+0.514076958,Frame-Nature/tape3.jpg,Vegetation
+0.512109451,Frame-Nature/tape3.jpg,Maple Leaf
+0.983919067,Frame-Nature/tape4.jpg,Collage
+0.983919067,Frame-Nature/tape4.jpg,Poster
+0.651034012,Frame-Nature/tape4.jpg,Blossom
+0.651034012,Frame-Nature/tape4.jpg,Flora
+0.651034012,Frame-Nature/tape4.jpg,Flower
+0.651034012,Frame-Nature/tape4.jpg,Plant
+0.633933067,Frame-Nature/tape4.jpg,Weed
+0.605365334,Frame-Nature/tape4.jpg,Daisies
+0.605365334,Frame-Nature/tape4.jpg,Daisy
+0.590199699,Frame-Nature/tape4.jpg,Arecaceae
+0.590199699,Frame-Nature/tape4.jpg,Palm Tree
+0.590199699,Frame-Nature/tape4.jpg,Tree
+0.575408936,Frame-Nature/tape4.jpg,Conifer
+0.575408936,Frame-Nature/tape4.jpg,Yew
+0.556174889,Frame-Nature/tape4.jpg,Leaf
+0.54166954,Frame-Nature/tape4.jpg,Flower Arrangement
+0.54166954,Frame-Nature/tape4.jpg,Flower Bouquet
+0.54166954,Frame-Nature/tape4.jpg,Ornament
+0.541559143,Frame-Nature/tape4.jpg,Machine
+0.541559143,Frame-Nature/tape4.jpg,Motor
+0.539277954,Frame-Nature/tape4.jpg,Aster
+0.51712059,Frame-Nature/tape4.jpg,Food
+0.51712059,Frame-Nature/tape4.jpg,Meal
+0.515899429,Frame-Nature/tape4.jpg,Cap
+0.515899429,Frame-Nature/tape4.jpg,Clothing
+0.515899429,Frame-Nature/tape4.jpg,Hat
+0.514431877,Frame-Nature/tape4.jpg,Vegetation
+0.508452644,Frame-Nature/tape4.jpg,Baseball Cap
+0.506851616,Frame-Nature/tape4.jpg,Maple Leaf
+0.506447678,Frame-Nature/tape4.jpg,Moss
+0.95846405,Frame-Nature/tape5.jpg,Collage
+0.95846405,Frame-Nature/tape5.jpg,Poster
+0.786992569,Frame-Nature/tape5.jpg,Blossom
+0.786992569,Frame-Nature/tape5.jpg,Flora
+0.786992569,Frame-Nature/tape5.jpg,Flower
+0.786992569,Frame-Nature/tape5.jpg,Plant
+0.786992569,Frame-Nature/tape5.jpg,Sunflower
+0.715412369,Frame-Nature/tape5.jpg,Weed
+0.595442657,Frame-Nature/tape5.jpg,Conifer
+0.595442657,Frame-Nature/tape5.jpg,Tree
+0.595442657,Frame-Nature/tape5.jpg,Yew
+0.583228111,Frame-Nature/tape5.jpg,Flower Arrangement
+0.583228111,Frame-Nature/tape5.jpg,Ornament
+0.561355171,Frame-Nature/tape5.jpg,Arecaceae
+0.561355171,Frame-Nature/tape5.jpg,Palm Tree
+0.544987907,Frame-Nature/tape5.jpg,Pot
+0.544313316,Frame-Nature/tape5.jpg,Aster
+0.523929672,Frame-Nature/tape5.jpg,Leaf
+0.52019989,Frame-Nature/tape5.jpg,Hemp
+0.514867477,Frame-Nature/tape5.jpg,Vegetation
+0.513986778,Frame-Nature/tape5.jpg,Petal
+0.510801315,Frame-Nature/tape5.jpg,Geranium
+0.507822037,Frame-Nature/tape5.jpg,Maple Leaf
+0.505267982,Frame-Nature/tape5.jpg,Daisies
+0.505267982,Frame-Nature/tape5.jpg,Daisy
+0.982891769,Frame-Nature/wrench1.jpg,Collage
+0.982891769,Frame-Nature/wrench1.jpg,Poster
+0.694142075,Frame-Nature/wrench1.jpg,Flora
+0.694142075,Frame-Nature/wrench1.jpg,Plant
+0.651034012,Frame-Nature/wrench1.jpg,Blossom
+0.651034012,Frame-Nature/wrench1.jpg,Flower
+0.608299026,Frame-Nature/wrench1.jpg,Garden
+0.608299026,Frame-Nature/wrench1.jpg,Gardening
+0.608299026,Frame-Nature/wrench1.jpg,Outdoors
+0.605365334,Frame-Nature/wrench1.jpg,Daisies
+0.605365334,Frame-Nature/wrench1.jpg,Daisy
+0.558200836,Frame-Nature/wrench1.jpg,Conifer
+0.558200836,Frame-Nature/wrench1.jpg,Tree
+0.558200836,Frame-Nature/wrench1.jpg,Yew
+0.547897987,Frame-Nature/wrench1.jpg,Leaf
+0.546053276,Frame-Nature/wrench1.jpg,Arecaceae
+0.546053276,Frame-Nature/wrench1.jpg,Palm Tree
+0.543632584,Frame-Nature/wrench1.jpg,Herbs
+0.543632584,Frame-Nature/wrench1.jpg,Jar
+0.543632584,Frame-Nature/wrench1.jpg,Planter
+0.543632584,Frame-Nature/wrench1.jpg,Potted Plant
+0.543632584,Frame-Nature/wrench1.jpg,Pottery
+0.543632584,Frame-Nature/wrench1.jpg,Vase
+0.54166954,Frame-Nature/wrench1.jpg,Flower Arrangement
+0.54166954,Frame-Nature/wrench1.jpg,Flower Bouquet
+0.54166954,Frame-Nature/wrench1.jpg,Ornament
+0.529489403,Frame-Nature/wrench1.jpg,Aster
+0.517687492,Frame-Nature/wrench1.jpg,Weed
+0.51712059,Frame-Nature/wrench1.jpg,Food
+0.51712059,Frame-Nature/wrench1.jpg,Meal
+0.505350571,Frame-Nature/wrench1.jpg,Vegetation
+0.925881042,Frame-Nature/wrench2.jpg,Wreath
+0.902909241,Frame-Nature/wrench2.jpg,Blossom
+0.902909241,Frame-Nature/wrench2.jpg,Flora
+0.902909241,Frame-Nature/wrench2.jpg,Flower
+0.902909241,Frame-Nature/wrench2.jpg,Plant
+0.902909241,Frame-Nature/wrench2.jpg,Sunflower
+0.710058212,Frame-Nature/wrench2.jpg,Collage
+0.710058212,Frame-Nature/wrench2.jpg,Poster
+0.605365334,Frame-Nature/wrench2.jpg,Daisies
+0.605365334,Frame-Nature/wrench2.jpg,Daisy
+0.595333824,Frame-Nature/wrench2.jpg,Arecaceae
+0.595333824,Frame-Nature/wrench2.jpg,Palm Tree
+0.595333824,Frame-Nature/wrench2.jpg,Tree
+0.558423386,Frame-Nature/wrench2.jpg,Conifer
+0.558423386,Frame-Nature/wrench2.jpg,Yew
+0.558048325,Frame-Nature/wrench2.jpg,Aster
+0.54166954,Frame-Nature/wrench2.jpg,Flower Arrangement
+0.54166954,Frame-Nature/wrench2.jpg,Flower Bouquet
+0.54166954,Frame-Nature/wrench2.jpg,Ornament
+0.51712059,Frame-Nature/wrench2.jpg,Food
+0.51712059,Frame-Nature/wrench2.jpg,Meal
+0.516930656,Frame-Nature/wrench2.jpg,Weed
+0.515362244,Frame-Nature/wrench2.jpg,Aloe
+0.514981079,Frame-Nature/wrench2.jpg,Leaf
+0.510903473,Frame-Nature/wrench2.jpg,Maple Leaf
+0.508713379,Frame-Nature/wrench2.jpg,Petal
+0.507551918,Frame-Nature/wrench2.jpg,Violet
+0.505474396,Frame-Nature/wrench2.jpg,Moss
+0.505171242,Frame-Nature/wrench2.jpg,Vegetation
+0.929283218,Frame-Nature/wrench3.jpg,Wreath
+0.790910339,Frame-Nature/wrench3.jpg,Collage
+0.790910339,Frame-Nature/wrench3.jpg,Poster
+0.668053589,Frame-Nature/wrench3.jpg,Flora
+0.668053589,Frame-Nature/wrench3.jpg,Plant
+0.651399612,Frame-Nature/wrench3.jpg,Weed
+0.651034012,Frame-Nature/wrench3.jpg,Blossom
+0.651034012,Frame-Nature/wrench3.jpg,Flower
+0.612084923,Frame-Nature/wrench3.jpg,Jar
+0.612084923,Frame-Nature/wrench3.jpg,Potted Plant
+0.612084923,Frame-Nature/wrench3.jpg,Pottery
+0.612084923,Frame-Nature/wrench3.jpg,Vase
+0.605365334,Frame-Nature/wrench3.jpg,Daisies
+0.605365334,Frame-Nature/wrench3.jpg,Daisy
+0.572723465,Frame-Nature/wrench3.jpg,Arecaceae
+0.572723465,Frame-Nature/wrench3.jpg,Palm Tree
+0.572723465,Frame-Nature/wrench3.jpg,Tree
+0.555432243,Frame-Nature/wrench3.jpg,Conifer
+0.555432243,Frame-Nature/wrench3.jpg,Yew
+0.553617821,Frame-Nature/wrench3.jpg,Violet
+0.54166954,Frame-Nature/wrench3.jpg,Flower Arrangement
+0.54166954,Frame-Nature/wrench3.jpg,Flower Bouquet
+0.54170723,Frame-Nature/wrench3.jpg,Leaf
+0.54166954,Frame-Nature/wrench3.jpg,Ornament
+0.51712059,Frame-Nature/wrench3.jpg,Food
+0.51712059,Frame-Nature/wrench3.jpg,Meal
+0.512993622,Frame-Nature/wrench3.jpg,Vegetation
+0.512555122,Frame-Nature/wrench3.jpg,Aster
+0.505606575,Frame-Nature/wrench3.jpg,Maple Leaf
+0.984023666,Frame-Nature/wrench4.jpg,Wreath
+0.902963486,Frame-Nature/wrench4.jpg,Blossom
+0.902963486,Frame-Nature/wrench4.jpg,Flora
+0.902963486,Frame-Nature/wrench4.jpg,Flower
+0.902963486,Frame-Nature/wrench4.jpg,Plant
+0.902963486,Frame-Nature/wrench4.jpg,Sunflower
+0.846878891,Frame-Nature/wrench4.jpg,Collage
+0.846878891,Frame-Nature/wrench4.jpg,Poster
+0.779715042,Frame-Nature/wrench4.jpg,Flower Arrangement
+0.779715042,Frame-Nature/wrench4.jpg,Ornament
+0.640541229,Frame-Nature/wrench4.jpg,Weed
+0.602367744,Frame-Nature/wrench4.jpg,Violet
+0.577950287,Frame-Nature/wrench4.jpg,Arecaceae
+0.577950287,Frame-Nature/wrench4.jpg,Palm Tree
+0.577950287,Frame-Nature/wrench4.jpg,Tree
+0.561580238,Frame-Nature/wrench4.jpg,Conifer
+0.561580238,Frame-Nature/wrench4.jpg,Yew
+0.558052292,Frame-Nature/wrench4.jpg,Aster
+0.539164886,Frame-Nature/wrench4.jpg,Leaf
+0.513922043,Frame-Nature/wrench4.jpg,Vegetation
+0.5118293,Frame-Nature/wrench4.jpg,Art
+0.5118293,Frame-Nature/wrench4.jpg,Ikebana
+0.5118293,Frame-Nature/wrench4.jpg,Jar
+0.5118293,Frame-Nature/wrench4.jpg,Pottery
+0.5118293,Frame-Nature/wrench4.jpg,Vase
+0.50872654,Frame-Nature/wrench4.jpg,Petal
+0.505471344,Frame-Nature/wrench4.jpg,Daisies
+0.505471344,Frame-Nature/wrench4.jpg,Daisy
+0.505356064,Frame-Nature/wrench4.jpg,Maple Leaf
+0.991414032,Frame-Nature/wrench5.jpg,Wreath
+0.895912247,Frame-Nature/wrench5.jpg,Collage
+0.895912247,Frame-Nature/wrench5.jpg,Poster
+0.765872574,Frame-Nature/wrench5.jpg,Flora
+0.765872574,Frame-Nature/wrench5.jpg,Jar
+0.765872574,Frame-Nature/wrench5.jpg,Plant
+0.765872574,Frame-Nature/wrench5.jpg,Potted Plant
+0.765872574,Frame-Nature/wrench5.jpg,Pottery
+0.765872574,Frame-Nature/wrench5.jpg,Vase
+0.670952454,Frame-Nature/wrench5.jpg,Blossom
+0.670952454,Frame-Nature/wrench5.jpg,Flower
+0.670952454,Frame-Nature/wrench5.jpg,Flower Arrangement
+0.670952454,Frame-Nature/wrench5.jpg,Ornament
+0.640541763,Frame-Nature/wrench5.jpg,Weed
+0.577950172,Frame-Nature/wrench5.jpg,Arecaceae
+0.577950172,Frame-Nature/wrench5.jpg,Palm Tree
+0.577950172,Frame-Nature/wrench5.jpg,Tree
+0.561580048,Frame-Nature/wrench5.jpg,Conifer
+0.561580048,Frame-Nature/wrench5.jpg,Yew
+0.547034035,Frame-Nature/wrench5.jpg,Violet
+0.539164848,Frame-Nature/wrench5.jpg,Leaf
+0.515178452,Frame-Nature/wrench5.jpg,Art
+0.515178452,Frame-Nature/wrench5.jpg,Ikebana
+0.513922043,Frame-Nature/wrench5.jpg,Vegetation
+0.512484856,Frame-Nature/wrench5.jpg,Aster
+0.505356064,Frame-Nature/wrench5.jpg,Maple Leaf
+,Frame-Wood/axe1.jpg,No Result
+,Frame-Wood/axe2.jpg,No Result
+0.540315514,Frame-Wood/axe3.jpg,Clothing
+0.540315514,Frame-Wood/axe3.jpg,Footwear
+0.523341408,Frame-Wood/axe3.jpg,Belt
+0.614903259,Frame-Wood/axe4.jpg,Triangle
+0.614903259,Frame-Wood/axe4.jpg,Wedge
+0.532065735,Frame-Wood/axe4.jpg,Alphabet
+0.532065735,Frame-Wood/axe4.jpg,Text
+0.512647552,Frame-Wood/axe4.jpg,Clothing
+0.512647552,Frame-Wood/axe4.jpg,Footwear
+0.615199013,Frame-Wood/axe5.jpg,Alphabet
+0.615199013,Frame-Wood/axe5.jpg,Text
+0.97381897,Frame-Wood/flash1.jpg,Flashlight
+,Frame-Wood/flash2.jpg,No Result
+0.990012741,Frame-Wood/flash3.jpg,Collage
+0.990012741,Frame-Wood/flash3.jpg,Poster
+0.680714264,Frame-Wood/flash3.jpg,Hand
+0.613868904,Frame-Wood/flash3.jpg,Projection Screen
+0.613868904,Frame-Wood/flash3.jpg,Screen
+,Frame-Wood/flash4.jpg,No Result
+0.508935928,Frame-Wood/flash5.jpg,Accessories
+0.5070401,Frame-Wood/flash5.jpg,Camera
+0.5070401,Frame-Wood/flash5.jpg,Electronics
+0.5070401,Frame-Wood/flash5.jpg,Video Camera
+,Frame-Wood/hammer1.jpg,No Result
+0.711096802,Frame-Wood/hammer2.jpg,Digital Watch
+0.663147202,Frame-Wood/hammer2.jpg,Blade
+0.663147202,Frame-Wood/hammer2.jpg,Knife
+0.663147202,Frame-Wood/hammer2.jpg,Weapon
+0.539898148,Frame-Wood/hammer2.jpg,Connector
+0.539898148,Frame-Wood/hammer2.jpg,Electrical Device
+0.516479187,Frame-Wood/hammer2.jpg,Furniture
+,Frame-Wood/hammer3.jpg,No Result
+,Frame-Wood/hammer4.jpg,No Result
+0.942758636,Frame-Wood/hammer5.jpg,Hammer
+0.942758636,Frame-Wood/hammer5.jpg,Mallet
+,Frame-Wood/plier1.jpg,No Result
+0.505444832,Frame-Wood/plier2.jpg,White Board
+0.855281143,Frame-Wood/plier3.jpg,Scissors
+0.855281143,Frame-Wood/plier3.jpg,Shears
+,Frame-Wood/plier4.jpg,No Result
+,Frame-Wood/plier5.jpg,No Result
+0.727752457,Frame-Wood/saw1.jpg,Alphabet
+0.727752457,Frame-Wood/saw1.jpg,Text
+0.519377098,Frame-Wood/saw1.jpg,Handwriting
+,Frame-Wood/saw2.jpg,No Result
+0.856786575,Frame-Wood/saw3.jpg,Collage
+0.856786575,Frame-Wood/saw3.jpg,Poster
+0.518781967,Frame-Wood/saw3.jpg,Indoors
+0.518781967,Frame-Wood/saw3.jpg,Interior Design
+0.643648148,Frame-Wood/saw4.jpg,White Board
+,Frame-Wood/saw5.jpg,No Result
+,Frame-Wood/scissor1.jpg,No Result
+,Frame-Wood/scissor2.jpg,No Result
+,Frame-Wood/scissor3.jpg,No Result
+0.669163742,Frame-Wood/scissor4.jpg,Alphabet
+0.669163742,Frame-Wood/scissor4.jpg,Text
+0.540497131,Frame-Wood/scissor5.jpg,White Board
+0.709591293,Frame-Wood/screw1.jpg,White Board
+0.521396179,Frame-Wood/screw1.jpg,Coat Rack
+0.991795578,Frame-Wood/screw2.jpg,Screwdriver
+0.526544647,Frame-Wood/screw2.jpg,White Board
+0.992615128,Frame-Wood/screw3.jpg,Screwdriver
+,Frame-Wood/screw4.jpg,No Result
+,Frame-Wood/screw5.jpg,No Result
+,Frame-Wood/shovel1.jpg,No Result
+0.909671097,Frame-Wood/shovel2.jpg,Shovel
+0.601954956,Frame-Wood/shovel2.jpg,Sundial
+,Frame-Wood/shovel3.jpg,No Result
+0.965676041,Frame-Wood/shovel4.jpg,Shovel
+0.85941658,Frame-Wood/shovel5.jpg,Coat Rack
+0.529538078,Frame-Wood/tape1.jpg,Clothing
+0.529538078,Frame-Wood/tape1.jpg,Lifejacket
+0.529538078,Frame-Wood/tape1.jpg,Vest
+0.648158722,Frame-Wood/tape2.jpg,Cap
+0.648158722,Frame-Wood/tape2.jpg,Clothing
+0.648158722,Frame-Wood/tape2.jpg,Hat
+0.527001076,Frame-Wood/tape2.jpg,Baseball Cap
+0.512908478,Frame-Wood/tape2.jpg,Lifejacket
+0.512908478,Frame-Wood/tape2.jpg,Vest
+,Frame-Wood/tape3.jpg,No Result
+0.961242447,Frame-Wood/tape4.jpg,Tape
+0.980806656,Frame-Wood/tape5.jpg,Reel
+,Frame-Wood/wrench1.jpg,No Result
+0.513429031,Frame-Wood/wrench2.jpg,White Board
+0.51863472,Frame-Wood/wrench3.jpg,White Board
+0.591150284,Frame-Wood/wrench4.jpg,White Board
+,Frame-Wood/wrench5.jpg,No Result
+0.837453918,Implode-Tools/axe1.jpg,Axe
+0.572923241,Implode-Tools/axe2.jpg,Sunglasses
+0.551497383,Implode-Tools/axe2.jpg,Glasses
+,Implode-Tools/axe3.jpg,No Result
+0.509980125,Implode-Tools/axe4.jpg,Cushion
+0.509980125,Implode-Tools/axe4.jpg,Home Decor
+0.520070686,Implode-Tools/axe5.jpg,Cushion
+0.520070686,Implode-Tools/axe5.jpg,Home Decor
+0.508573952,Implode-Tools/axe5.jpg,Clothing
+0.508573952,Implode-Tools/axe5.jpg,Hat
+0.508573952,Implode-Tools/axe5.jpg,Sun Hat
+0.508309669,Implode-Tools/axe5.jpg,Dress
+,Implode-Tools/flash1.jpg,No Result
+0.841081467,Implode-Tools/flash2.jpg,Brush
+0.508481102,Implode-Tools/flash2.jpg,Sunglasses
+,Implode-Tools/flash3.jpg,No Result
+,Implode-Tools/flash4.jpg,No Result
+0.506056595,Implode-Tools/flash5.jpg,Clothing
+0.506056595,Implode-Tools/flash5.jpg,Footwear
+,Implode-Tools/hammer1.jpg,No Result
+0.993000946,Implode-Tools/hammer2.jpg,Propeller
+0.985558853,Implode-Tools/hammer3.jpg,Human
+0.985558395,Implode-Tools/hammer3.jpg,People
+0.985558853,Implode-Tools/hammer3.jpg,Person
+0.531365471,Implode-Tools/hammer3.jpg,Weapon
+0.582302971,Implode-Tools/hammer4.jpg,Shovel
+0.554016228,Implode-Tools/hammer4.jpg,Darts
+0.554016228,Implode-Tools/hammer4.jpg,Game
+0.809616852,Implode-Tools/hammer5.jpg,Hammer
+0.809616852,Implode-Tools/hammer5.jpg,Mallet
+0.526438217,Implode-Tools/hammer5.jpg,Clothing
+0.526438217,Implode-Tools/hammer5.jpg,Footwear
+0.505746231,Implode-Tools/hammer5.jpg,Ball
+0.505746231,Implode-Tools/hammer5.jpg,Sphere
+0.99291954,Implode-Tools/plier1.jpg,Pliers
+0.507751579,Implode-Tools/plier2.jpg,Text
+0.949761734,Implode-Tools/plier3.jpg,Propeller
+0.611211433,Implode-Tools/plier4.jpg,Clothing
+0.611211433,Implode-Tools/plier4.jpg,Lifejacket
+0.611211433,Implode-Tools/plier4.jpg,Vest
+,Implode-Tools/plier5.jpg,No Result
+0.514886551,Implode-Tools/saw1.jpg,Glasses
+0.511743736,Implode-Tools/saw1.jpg,Label
+0.511743736,Implode-Tools/saw1.jpg,Text
+0.83241188,Implode-Tools/saw2.jpg,Glasses
+0.649300308,Implode-Tools/saw2.jpg,Sunglasses
+0.528197174,Implode-Tools/saw2.jpg,Brush
+0.506857147,Implode-Tools/saw2.jpg,Clothing
+0.506857147,Implode-Tools/saw2.jpg,Hat
+0.506857147,Implode-Tools/saw2.jpg,Sun Hat
+0.505124855,Implode-Tools/saw2.jpg,Footwear
+0.540015717,Implode-Tools/saw3.jpg,Furniture
+,Implode-Tools/saw4.jpg,No Result
+0.506068115,Implode-Tools/saw5.jpg,Label
+0.506068115,Implode-Tools/saw5.jpg,Text
+,Implode-Tools/scissor1.jpg,No Result
+0.511280937,Implode-Tools/scissor2.jpg,Text
+0.522738228,Implode-Tools/scissor3.jpg,Glasses
+0.507394791,Implode-Tools/scissor3.jpg,Text
+0.505622787,Implode-Tools/scissor3.jpg,Label
+0.983125763,Implode-Tools/scissor4.jpg,Leash
+0.53093399,Implode-Tools/scissor4.jpg,Glasses
+0.519311981,Implode-Tools/scissor4.jpg,Label
+0.519311981,Implode-Tools/scissor4.jpg,Text
+0.505910759,Implode-Tools/scissor4.jpg,Page
+0.957533875,Implode-Tools/scissor5.jpg,Ornament
+0.555457001,Implode-Tools/scissor5.jpg,Glasses
+0.50553936,Implode-Tools/scissor5.jpg,Text
+0.980721359,Implode-Tools/screw1.jpg,Oars
+0.803243484,Implode-Tools/screw1.jpg,Clothing
+0.803243484,Implode-Tools/screw1.jpg,Hat
+0.803243484,Implode-Tools/screw1.jpg,Party Hat
+0.514662209,Implode-Tools/screw1.jpg,Emblem
+0.514662209,Implode-Tools/screw1.jpg,Flag
+0.50829895,Implode-Tools/screw1.jpg,Label
+0.50829895,Implode-Tools/screw1.jpg,Text
+0.60536377,Implode-Tools/screw2.jpg,Oars
+0.505939026,Implode-Tools/screw2.jpg,Glasses
+0.700259399,Implode-Tools/screw3.jpg,Golf
+0.700259399,Implode-Tools/screw3.jpg,Golf Club
+0.700259399,Implode-Tools/screw3.jpg,Human
+0.700259399,Implode-Tools/screw3.jpg,Person
+0.700259399,Implode-Tools/screw3.jpg,Putter
+0.700259399,Implode-Tools/screw3.jpg,Sport
+0.700259399,Implode-Tools/screw3.jpg,Sports
+0.94431221,Implode-Tools/screw4.jpg,Oars
+0.94431221,Implode-Tools/screw4.jpg,Paddle
+0.584625778,Implode-Tools/screw4.jpg,Sunglasses
+0.53089344,Implode-Tools/screw4.jpg,Glasses
+0.527114258,Implode-Tools/screw4.jpg,Label
+0.527114258,Implode-Tools/screw4.jpg,Text
+0.56595356,Implode-Tools/screw5.jpg,Darts
+0.56595356,Implode-Tools/screw5.jpg,Game
+0.790026093,Implode-Tools/shovel1.jpg,Animal
+0.790026093,Implode-Tools/shovel1.jpg,Bird
+0.790026093,Implode-Tools/shovel1.jpg,Swallow
+0.651100388,Implode-Tools/shovel1.jpg,Spear
+0.651100388,Implode-Tools/shovel1.jpg,Weapon
+0.627256699,Implode-Tools/shovel1.jpg,Darts
+0.627256699,Implode-Tools/shovel1.jpg,Game
+0.505010719,Implode-Tools/shovel2.jpg,Glasses
+0.553245773,Implode-Tools/shovel3.jpg,Architecture
+0.553245773,Implode-Tools/shovel3.jpg,Building
+0.553245773,Implode-Tools/shovel3.jpg,Spire
+0.553245773,Implode-Tools/shovel3.jpg,Steeple
+0.553245773,Implode-Tools/shovel3.jpg,Tower
+0.724699478,Implode-Tools/shovel4.jpg,Sunglasses
+0.547364006,Implode-Tools/shovel4.jpg,Glasses
+0.952019348,Implode-Tools/shovel5.jpg,Oars
+0.952019348,Implode-Tools/shovel5.jpg,Paddle
+0.715918198,Implode-Tools/tape1.jpg,Leash
+0.692422943,Implode-Tools/tape1.jpg,Cap
+0.692422943,Implode-Tools/tape1.jpg,Clothing
+0.692422943,Implode-Tools/tape1.jpg,Hat
+0.546046677,Implode-Tools/tape1.jpg,Lifejacket
+0.546046677,Implode-Tools/tape1.jpg,Vest
+0.540805817,Implode-Tools/tape1.jpg,Baseball Cap
+0.530402184,Implode-Tools/tape1.jpg,Sun Hat
+0.963300781,Implode-Tools/tape2.jpg,Leash
+0.52323513,Implode-Tools/tape2.jpg,Sunglasses
+0.522284088,Implode-Tools/tape2.jpg,Darts
+0.522284088,Implode-Tools/tape2.jpg,Game
+0.510690613,Implode-Tools/tape2.jpg,Glasses
+0.889405212,Implode-Tools/tape3.jpg,Racket
+0.646624832,Implode-Tools/tape4.jpg,Bait
+0.646624832,Implode-Tools/tape4.jpg,Fishing Lure
+0.511982918,Implode-Tools/tape4.jpg,Clothing
+0.511982918,Implode-Tools/tape4.jpg,Hat
+0.511982918,Implode-Tools/tape4.jpg,Sun Hat
+0.505811691,Implode-Tools/tape4.jpg,Blossom
+0.505811691,Implode-Tools/tape4.jpg,Flora
+0.505811691,Implode-Tools/tape4.jpg,Flower
+0.505811691,Implode-Tools/tape4.jpg,Flower Arrangement
+0.505811691,Implode-Tools/tape4.jpg,Ornament
+0.505811691,Implode-Tools/tape4.jpg,Plant
+0.74181221,Implode-Tools/tape5.jpg,Appliance
+0.74181221,Implode-Tools/tape5.jpg,Electrical Device
+0.74181221,Implode-Tools/tape5.jpg,Vacuum Cleaner
+0.661608124,Implode-Tools/tape5.jpg,Racket
+0.539933128,Implode-Tools/tape5.jpg,Glasses
+0.507015762,Implode-Tools/tape5.jpg,Sunglasses
+,Implode-Tools/wrench1.jpg,No Result
+0.639397278,Implode-Tools/wrench2.jpg,Cutlery
+0.639397278,Implode-Tools/wrench2.jpg,Spoon
+,Implode-Tools/wrench3.jpg,No Result
+0.947770767,Implode-Tools/wrench4.jpg,Cutlery
+0.947770767,Implode-Tools/wrench4.jpg,Spoon
+0.663344269,Implode-Tools/wrench5.jpg,Glasses
+0.505103111,Implode-Tools/wrench5.jpg,Text
+0.787056885,Masking-Tools/axe1.jpg,Handle
+0.74674942,Masking-Tools/axe1.jpg,Axe
+0.520159187,Masking-Tools/axe1.jpg,Clothing
+0.520159187,Masking-Tools/axe1.jpg,Footwear
+0.511860199,Masking-Tools/axe1.jpg,Cap
+0.511860199,Masking-Tools/axe1.jpg,Hat
+0.826650238,Masking-Tools/axe2.jpg,Axe
+,Masking-Tools/axe3.jpg,No Result
+0.977413864,Masking-Tools/axe4.jpg,Axe
+0.719681778,Masking-Tools/axe4.jpg,Handle
+0.542090187,Masking-Tools/axe4.jpg,Clothing
+0.542090187,Masking-Tools/axe4.jpg,Footwear
+0.512208061,Masking-Tools/axe4.jpg,Hat
+0.511568794,Masking-Tools/axe4.jpg,Triangle
+0.511568794,Masking-Tools/axe4.jpg,Wedge
+0.507024345,Masking-Tools/axe4.jpg,Cap
+0.85540184,Masking-Tools/axe5.jpg,Handle
+0.509882622,Masking-Tools/axe5.jpg,Triangle
+0.509882622,Masking-Tools/axe5.jpg,Wedge
+0.993222733,Masking-Tools/flash1.jpg,Flashlight
+0.967610626,Masking-Tools/flash2.jpg,Flashlight
+0.517888412,Masking-Tools/flash3.jpg,File Binder
+0.517888412,Masking-Tools/flash3.jpg,File Folder
+0.514751091,Masking-Tools/flash3.jpg,Architecture
+0.514751091,Masking-Tools/flash3.jpg,Building
+0.513395309,Masking-Tools/flash3.jpg,Finger
+0.511667671,Masking-Tools/flash3.jpg,Child
+0.511667671,Masking-Tools/flash3.jpg,Human
+0.511667671,Masking-Tools/flash3.jpg,Kid
+0.511667671,Masking-Tools/flash3.jpg,Person
+0.511524811,Masking-Tools/flash3.jpg,Screen
+0.969578171,Masking-Tools/flash4.jpg,Flashlight
+0.891555939,Masking-Tools/flash5.jpg,Flashlight
+,Masking-Tools/hammer1.jpg,No Result
+0.605842896,Masking-Tools/hammer2.jpg,Money
+0.986596298,Masking-Tools/hammer3.jpg,Human
+0.986595917,Masking-Tools/hammer3.jpg,People
+0.986596298,Masking-Tools/hammer3.jpg,Person
+0.746689224,Masking-Tools/hammer4.jpg,White Board
+0.50615757,Masking-Tools/hammer4.jpg,Text
+0.98834198,Masking-Tools/hammer5.jpg,Hammer
+0.98834198,Masking-Tools/hammer5.jpg,Mallet
+0.506055222,Masking-Tools/hammer5.jpg,Clothing
+0.506055222,Masking-Tools/hammer5.jpg,Footwear
+,Masking-Tools/plier1.jpg,No Result
+,Masking-Tools/plier2.jpg,No Result
+,Masking-Tools/plier3.jpg,No Result
+0.510729256,Masking-Tools/plier4.jpg,Clothing
+0.510729256,Masking-Tools/plier4.jpg,Lifejacket
+0.510729256,Masking-Tools/plier4.jpg,Vest
+0.510550919,Masking-Tools/plier4.jpg,Adapter
+0.510550919,Masking-Tools/plier4.jpg,Connector
+0.510550919,Masking-Tools/plier4.jpg,Electrical Device
+0.514311028,Masking-Tools/plier5.jpg,Aircraft
+0.514311028,Masking-Tools/plier5.jpg,Airplane
+0.514311028,Masking-Tools/plier5.jpg,Jet
+0.514311028,Masking-Tools/plier5.jpg,Transportation
+0.511921387,Masking-Tools/saw1.jpg,Logo
+0.511921387,Masking-Tools/saw1.jpg,Trademark
+0.982972183,Masking-Tools/saw2.jpg,Hacksaw
+0.982972183,Masking-Tools/saw2.jpg,Handsaw
+0.524043961,Masking-Tools/saw2.jpg,Clothing
+0.524043961,Masking-Tools/saw2.jpg,Hat
+0.505079346,Masking-Tools/saw2.jpg,Sunglasses
+0.66039505,Masking-Tools/saw3.jpg,Indoors
+0.66039505,Masking-Tools/saw3.jpg,Interior Design
+0.66039505,Masking-Tools/saw3.jpg,Kitchen
+0.66039505,Masking-Tools/saw3.jpg,Room
+0.513383522,Masking-Tools/saw3.jpg,Apartment
+0.513383522,Masking-Tools/saw3.jpg,Building
+0.513383522,Masking-Tools/saw3.jpg,Housing
+0.509635201,Masking-Tools/saw3.jpg,Furniture
+0.524963188,Masking-Tools/saw4.jpg,Weapon
+0.532890663,Masking-Tools/saw5.jpg,File Binder
+0.532890663,Masking-Tools/saw5.jpg,File Folder
+0.509706497,Masking-Tools/saw5.jpg,Page
+0.509706497,Masking-Tools/saw5.jpg,Text
+0.893906479,Masking-Tools/scissor1.jpg,Scissors
+0.985545731,Masking-Tools/scissor2.jpg,Scissors
+0.928343201,Masking-Tools/scissor3.jpg,Projection Screen
+0.928343201,Masking-Tools/scissor3.jpg,Screen
+0.889525986,Masking-Tools/scissor4.jpg,Scissors
+0.565053062,Masking-Tools/scissor4.jpg,Computer
+0.565053062,Masking-Tools/scissor4.jpg,Electronics
+0.565053062,Masking-Tools/scissor4.jpg,Laptop
+0.565053062,Masking-Tools/scissor4.jpg,Pc
+0.51132309,Masking-Tools/scissor4.jpg,Ball
+0.51132309,Masking-Tools/scissor4.jpg,Sphere
+0.506748962,Masking-Tools/scissor4.jpg,Clothing
+0.506748962,Masking-Tools/scissor4.jpg,Footwear
+0.844633331,Masking-Tools/scissor5.jpg,Light Fixture
+0.571231003,Masking-Tools/scissor5.jpg,Glasses
+0.509897881,Masking-Tools/scissor5.jpg,Sunglasses
+0.50534523,Masking-Tools/scissor5.jpg,Text
+0.593678589,Masking-Tools/screw1.jpg,Lamp
+0.992355499,Masking-Tools/screw2.jpg,Screwdriver
+0.610230675,Masking-Tools/screw2.jpg,White Board
+0.978352203,Masking-Tools/screw3.jpg,Screwdriver
+0.507045326,Masking-Tools/screw4.jpg,Label
+0.507045326,Masking-Tools/screw4.jpg,Text
+0.99288002,Masking-Tools/screw5.jpg,Screwdriver
+,Masking-Tools/shovel1.jpg,No Result
+0.971686096,Masking-Tools/shovel2.jpg,Shovel
+0.505345268,Masking-Tools/shovel2.jpg,Sunglasses
+0.989247894,Masking-Tools/shovel3.jpg,Shovel
+0.571134377,Masking-Tools/shovel3.jpg,Lamp
+0.508781776,Masking-Tools/shovel3.jpg,Clothing
+0.508781776,Masking-Tools/shovel3.jpg,Jersey
+0.508781776,Masking-Tools/shovel3.jpg,Shirt
+0.508781776,Masking-Tools/shovel3.jpg,T-Shirt
+0.987153015,Masking-Tools/shovel4.jpg,Shovel
+0.978961563,Masking-Tools/shovel5.jpg,Trowel
+0.506328278,Masking-Tools/tape1.jpg,Clothing
+0.506328278,Masking-Tools/tape1.jpg,Lifejacket
+0.506328278,Masking-Tools/tape1.jpg,Vest
+0.505775757,Masking-Tools/tape1.jpg,Camera
+0.505775757,Masking-Tools/tape1.jpg,Electronics
+0.505775757,Masking-Tools/tape1.jpg,Video Camera
+0.98656311,Masking-Tools/tape2.jpg,Cap
+0.98656311,Masking-Tools/tape2.jpg,Clothing
+0.98656311,Masking-Tools/tape2.jpg,Hat
+0.713904419,Masking-Tools/tape2.jpg,Backpack
+0.713904419,Masking-Tools/tape2.jpg,Bag
+0.712354126,Masking-Tools/tape2.jpg,Hardhat
+0.712354126,Masking-Tools/tape2.jpg,Helmet
+0.697239456,Masking-Tools/tape2.jpg,Baseball Cap
+0.529991608,Masking-Tools/tape2.jpg,Lifejacket
+0.529991608,Masking-Tools/tape2.jpg,Vest
+0.878916245,Masking-Tools/tape3.jpg,Clothing
+0.878916245,Masking-Tools/tape3.jpg,Hat
+0.878916245,Masking-Tools/tape3.jpg,Headband
+0.506548119,Masking-Tools/tape3.jpg,Text
+0.524811668,Masking-Tools/tape4.jpg,Cap
+0.524811668,Masking-Tools/tape4.jpg,Clothing
+0.524811668,Masking-Tools/tape4.jpg,Hat
+0.876553802,Masking-Tools/tape5.jpg,Machine
+0.876553802,Masking-Tools/tape5.jpg,Motor
+0.759362259,Masking-Tools/tape5.jpg,Reel
+0.506467056,Masking-Tools/tape5.jpg,Engine
+0.506311226,Masking-Tools/tape5.jpg,Camera
+0.506311226,Masking-Tools/tape5.jpg,Electronics
+0.506311226,Masking-Tools/tape5.jpg,Video Camera
+0.818438873,Masking-Tools/wrench1.jpg,Wrench
+,Masking-Tools/wrench2.jpg,No Result
+,Masking-Tools/wrench3.jpg,No Result
+0.529854012,Masking-Tools/wrench4.jpg,Triangle
+0.924354935,Masking-Tools/wrench5.jpg,Adapter
+0.924354935,Masking-Tools/wrench5.jpg,Connector
+0.924354935,Masking-Tools/wrench5.jpg,Electrical Device
+0.506978874,Masking-Tools/wrench5.jpg,Sunglasses
+0.506358337,Masking-Tools/wrench5.jpg,Text
+0.81864563,Original-Tools/axe1.jpg,Axe
+0.656139069,Original-Tools/axe1.jpg,Handle
+0.715255508,Original-Tools/axe2.jpg,Axe
+,Original-Tools/axe3.jpg,No Result
+0.905094299,Original-Tools/axe4.jpg,Axe
+0.674354324,Original-Tools/axe4.jpg,Handle
+0.506209793,Original-Tools/axe4.jpg,Clothing
+0.506209793,Original-Tools/axe4.jpg,Footwear
+0.821642532,Original-Tools/axe5.jpg,Handle
+0.517078705,Original-Tools/axe5.jpg,Axe
+0.993059311,Original-Tools/flash1.jpg,Flashlight
+0.890234985,Original-Tools/flash2.jpg,Flashlight
+0.807052689,Original-Tools/flash3.jpg,Flashlight
+0.526978493,Original-Tools/flash3.jpg,LED
+0.526978493,Original-Tools/flash3.jpg,Lighting
+0.526978493,Original-Tools/flash3.jpg,Spotlight
+0.508536415,Original-Tools/flash3.jpg,Hand
+0.983092041,Original-Tools/flash4.jpg,Flashlight
+0.98980423,Original-Tools/flash5.jpg,Flashlight
+0.714599228,Original-Tools/flash5.jpg,Bottle
+0.686873703,Original-Tools/flash5.jpg,Money
+,Original-Tools/hammer1.jpg,No Result
+0.519063072,Original-Tools/hammer2.jpg,Hammer
+0.519063072,Original-Tools/hammer2.jpg,Mallet
+0.990137482,Original-Tools/hammer3.jpg,Human
+0.990137253,Original-Tools/hammer3.jpg,People
+0.990137482,Original-Tools/hammer3.jpg,Person
+0.973209534,Original-Tools/hammer4.jpg,Hammer
+0.973209534,Original-Tools/hammer4.jpg,Mallet
+0.981367645,Original-Tools/hammer5.jpg,Hammer
+0.981367645,Original-Tools/hammer5.jpg,Mallet
+0.819843979,Original-Tools/plier1.jpg,Pliers
+0.960057755,Original-Tools/plier2.jpg,Pliers
+0.91435936,Original-Tools/plier3.jpg,Scissors
+0.91435936,Original-Tools/plier3.jpg,Shears
+,Original-Tools/plier4.jpg,No Result
+,Original-Tools/plier5.jpg,No Result
+0.522530899,Original-Tools/saw1.jpg,Clothing
+0.522530899,Original-Tools/saw1.jpg,Footwear
+,Original-Tools/saw2.jpg,No Result
+0.815870895,Original-Tools/saw3.jpg,Sink
+0.507117081,Original-Tools/saw3.jpg,Apartment
+0.507117081,Original-Tools/saw3.jpg,Building
+0.507117081,Original-Tools/saw3.jpg,Housing
+0.507117081,Original-Tools/saw3.jpg,Indoors
+,Original-Tools/saw4.jpg,No Result
+,Original-Tools/saw5.jpg,No Result
+,Original-Tools/scissor1.jpg,No Result
+,Original-Tools/scissor2.jpg,No Result
+,Original-Tools/scissor3.jpg,No Result
+,Original-Tools/scissor4.jpg,No Result
+0.952099762,Original-Tools/scissor5.jpg,Scissors
+0.52738369,Original-Tools/screw1.jpg,Brush
+0.52738369,Original-Tools/screw1.jpg,Toothbrush
+0.993273392,Original-Tools/screw2.jpg,Screwdriver
+0.992793121,Original-Tools/screw3.jpg,Screwdriver
+0.987492523,Original-Tools/screw4.jpg,Screwdriver
+0.993259048,Original-Tools/screw5.jpg,Screwdriver
+,Original-Tools/shovel1.jpg,No Result
+0.959332199,Original-Tools/shovel2.jpg,Shovel
+0.985705414,Original-Tools/shovel3.jpg,Shovel
+0.978345566,Original-Tools/shovel4.jpg,Shovel
+0.952380753,Original-Tools/shovel5.jpg,Trowel
+0.677184525,Original-Tools/tape1.jpg,Oilfield
+0.505868912,Original-Tools/tape1.jpg,Clothing
+0.505868912,Original-Tools/tape1.jpg,Lifejacket
+0.505868912,Original-Tools/tape1.jpg,Vest
+0.50949604,Original-Tools/tape2.jpg,Cap
+0.50949604,Original-Tools/tape2.jpg,Clothing
+0.50949604,Original-Tools/tape2.jpg,Hat
+0.506574211,Original-Tools/tape3.jpg,Letter
+0.506574211,Original-Tools/tape3.jpg,Text
+0.530438614,Original-Tools/tape4.jpg,Gauge
+0.522588654,Original-Tools/tape4.jpg,Digital Watch
+0.518831673,Original-Tools/tape4.jpg,Cylinder
+0.518705978,Original-Tools/tape4.jpg,Machine
+0.518705978,Original-Tools/tape4.jpg,Motor
+0.510648117,Original-Tools/tape4.jpg,Cap
+0.510648117,Original-Tools/tape4.jpg,Clothing
+0.510648117,Original-Tools/tape4.jpg,Hat
+0.507397308,Original-Tools/tape4.jpg,Engine
+0.988613358,Original-Tools/tape5.jpg,Reel
+0.993065567,Original-Tools/wrench1.jpg,Wrench
+0.990190353,Original-Tools/wrench2.jpg,Wrench
+0.987256546,Original-Tools/wrench3.jpg,Wrench
+0.594276657,Original-Tools/wrench4.jpg,Wrench
+0.744593506,Original-Tools/wrench5.jpg,Wrench
+0.665319824,Rainbow-Tools/axe1.jpg,Light
+0.537805977,Rainbow-Tools/axe1.jpg,Fractal
+0.537805977,Rainbow-Tools/axe1.jpg,Ornament
+0.565032196,Rainbow-Tools/axe2.jpg,Guitar
+0.565032196,Rainbow-Tools/axe2.jpg,Leisure Activities
+0.565032196,Rainbow-Tools/axe2.jpg,Music
+0.565032196,Rainbow-Tools/axe2.jpg,Musical Instrument
+0.507954712,Rainbow-Tools/axe2.jpg,Sunglasses
+0.507134743,Rainbow-Tools/axe2.jpg,Glasses
+0.923037033,Rainbow-Tools/axe3.jpg,Night
+0.923037033,Rainbow-Tools/axe3.jpg,Outdoors
+0.759115143,Rainbow-Tools/axe3.jpg,Laser
+0.759115143,Rainbow-Tools/axe3.jpg,Light
+0.756795883,Rainbow-Tools/axe3.jpg,Bicycle
+0.756795883,Rainbow-Tools/axe3.jpg,Bike
+0.756795883,Rainbow-Tools/axe3.jpg,Transportation
+0.756795883,Rainbow-Tools/axe3.jpg,Vehicle
+0.561617737,Rainbow-Tools/axe3.jpg,Road
+0.539634094,Rainbow-Tools/axe3.jpg,Driving
+0.52742775,Rainbow-Tools/axe3.jpg,Astronomy
+0.516428757,Rainbow-Tools/axe3.jpg,Freeway
+0.516428757,Rainbow-Tools/axe3.jpg,Highway
+0.515863304,Rainbow-Tools/axe3.jpg,Building
+0.515863304,Rainbow-Tools/axe3.jpg,City
+0.515863304,Rainbow-Tools/axe3.jpg,Town
+0.515863304,Rainbow-Tools/axe3.jpg,Urban
+0.507716522,Rainbow-Tools/axe3.jpg,Architecture
+0.506215286,Rainbow-Tools/axe3.jpg,Flora
+0.506215286,Rainbow-Tools/axe3.jpg,Grass
+0.506215286,Rainbow-Tools/axe3.jpg,Plant
+0.616951866,Rainbow-Tools/axe4.jpg,Smoke
+0.745248032,Rainbow-Tools/axe5.jpg,Light
+0.745248032,Rainbow-Tools/axe5.jpg,Neon
+0.949188919,Rainbow-Tools/flash1.jpg,Light
+0.949188919,Rainbow-Tools/flash1.jpg,Neon
+0.945411224,Rainbow-Tools/flash2.jpg,Laser
+0.945411224,Rainbow-Tools/flash2.jpg,Light
+0.851644974,Rainbow-Tools/flash3.jpg,Light
+0.505298691,Rainbow-Tools/flash3.jpg,Text
+0.969912338,Rainbow-Tools/flash4.jpg,Light
+0.969912338,Rainbow-Tools/flash4.jpg,Neon
+0.639855919,Rainbow-Tools/flash5.jpg,Cell Phone
+0.639855919,Rainbow-Tools/flash5.jpg,Computer
+0.639855919,Rainbow-Tools/flash5.jpg,Electronics
+0.639855919,Rainbow-Tools/flash5.jpg,Mobile Phone
+0.639855919,Rainbow-Tools/flash5.jpg,Phone
+0.513427277,Rainbow-Tools/flash5.jpg,Computer Hardware
+0.513427277,Rainbow-Tools/flash5.jpg,Hardware
+0.508179359,Rainbow-Tools/flash5.jpg,Text
+0.938080978,Rainbow-Tools/hammer1.jpg,Light
+0.938080978,Rainbow-Tools/hammer1.jpg,Neon
+0.573454247,Rainbow-Tools/hammer2.jpg,Light
+0.529818535,Rainbow-Tools/hammer2.jpg,Clothing
+0.529818535,Rainbow-Tools/hammer2.jpg,Footwear
+0.98868576,Rainbow-Tools/hammer3.jpg,Human
+0.988685455,Rainbow-Tools/hammer3.jpg,People
+0.98868576,Rainbow-Tools/hammer3.jpg,Person
+0.639248085,Rainbow-Tools/hammer3.jpg,Light
+0.52322876,Rainbow-Tools/hammer3.jpg,Fractal
+0.52322876,Rainbow-Tools/hammer3.jpg,Ornament
+0.94930481,Rainbow-Tools/hammer4.jpg,Light
+0.94930481,Rainbow-Tools/hammer4.jpg,Neon
+0.509025459,Rainbow-Tools/hammer4.jpg,Text
+0.983694,Rainbow-Tools/hammer5.jpg,Light
+0.983694,Rainbow-Tools/hammer5.jpg,Neon
+0.839616699,Rainbow-Tools/hammer5.jpg,Night
+0.839616699,Rainbow-Tools/hammer5.jpg,Outdoors
+0.983959579,Rainbow-Tools/plier1.jpg,Light
+0.983959579,Rainbow-Tools/plier1.jpg,Neon
+0.642626648,Rainbow-Tools/plier1.jpg,Night
+0.642626648,Rainbow-Tools/plier1.jpg,Outdoors
+,Rainbow-Tools/plier2.jpg,No Result
+0.946728973,Rainbow-Tools/plier3.jpg,Light
+0.946728973,Rainbow-Tools/plier3.jpg,Neon
+0.513727951,Rainbow-Tools/plier3.jpg,Fractal
+0.513727951,Rainbow-Tools/plier3.jpg,Ornament
+0.971938324,Rainbow-Tools/plier4.jpg,Light
+0.971938324,Rainbow-Tools/plier4.jpg,Neon
+0.512635231,Rainbow-Tools/plier4.jpg,Emblem
+,Rainbow-Tools/plier5.jpg,No Result
+0.977452164,Rainbow-Tools/saw1.jpg,Light
+0.977452164,Rainbow-Tools/saw1.jpg,Neon
+0.516425247,Rainbow-Tools/saw1.jpg,Clothing
+0.516425247,Rainbow-Tools/saw1.jpg,Footwear
+0.954202271,Rainbow-Tools/saw2.jpg,Light
+0.506472702,Rainbow-Tools/saw2.jpg,Text
+0.505295982,Rainbow-Tools/saw2.jpg,Sunglasses
+0.984732361,Rainbow-Tools/saw3.jpg,Laser
+0.984732361,Rainbow-Tools/saw3.jpg,Light
+0.740788422,Rainbow-Tools/saw3.jpg,Night
+0.740788422,Rainbow-Tools/saw3.jpg,Outdoors
+0.505606956,Rainbow-Tools/saw3.jpg,Architecture
+0.505606956,Rainbow-Tools/saw3.jpg,Building
+0.942622986,Rainbow-Tools/saw4.jpg,Light
+0.942622986,Rainbow-Tools/saw4.jpg,Neon
+0.978707275,Rainbow-Tools/saw5.jpg,Laser
+0.978707275,Rainbow-Tools/saw5.jpg,Light
+0.982512131,Rainbow-Tools/scissor1.jpg,Light
+0.982512131,Rainbow-Tools/scissor1.jpg,Neon
+0.931017151,Rainbow-Tools/scissor2.jpg,Light
+0.931017151,Rainbow-Tools/scissor2.jpg,Neon
+0.507709579,Rainbow-Tools/scissor3.jpg,Glasses
+0.968307877,Rainbow-Tools/scissor4.jpg,Light
+0.968307877,Rainbow-Tools/scissor4.jpg,Neon
+0.521007767,Rainbow-Tools/scissor4.jpg,Text
+,Rainbow-Tools/scissor5.jpg,No Result
+,Rainbow-Tools/screw1.jpg,No Result
+,Rainbow-Tools/screw2.jpg,No Result
+0.760133743,Rainbow-Tools/screw3.jpg,Light
+0.760133743,Rainbow-Tools/screw3.jpg,Neon
+0.602147217,Rainbow-Tools/screw4.jpg,Light
+0.530211868,Rainbow-Tools/screw4.jpg,Emblem
+,Rainbow-Tools/screw5.jpg,No Result
+0.882893906,Rainbow-Tools/shovel1.jpg,Light
+0.882893906,Rainbow-Tools/shovel1.jpg,Neon
+0.75557457,Rainbow-Tools/shovel1.jpg,Night
+0.75557457,Rainbow-Tools/shovel1.jpg,Outdoors
+0.621228638,Rainbow-Tools/shovel1.jpg,Crowd
+0.621228638,Rainbow-Tools/shovel1.jpg,Festival
+0.621228638,Rainbow-Tools/shovel1.jpg,Human
+0.621228638,Rainbow-Tools/shovel1.jpg,Person
+0.505091324,Rainbow-Tools/shovel1.jpg,Text
+0.509735947,Rainbow-Tools/shovel2.jpg,Text
+0.559429703,Rainbow-Tools/shovel3.jpg,Light
+0.559429703,Rainbow-Tools/shovel3.jpg,Neon
+0.551878166,Rainbow-Tools/shovel3.jpg,Guitar
+0.551878166,Rainbow-Tools/shovel3.jpg,Leisure Activities
+0.551878166,Rainbow-Tools/shovel3.jpg,Music
+0.551878166,Rainbow-Tools/shovel3.jpg,Musical Instrument
+0.87548851,Rainbow-Tools/shovel4.jpg,Light
+0.87548851,Rainbow-Tools/shovel4.jpg,Neon
+0.506588593,Rainbow-Tools/shovel4.jpg,Text
+0.570766449,Rainbow-Tools/shovel5.jpg,Light
+0.570766449,Rainbow-Tools/shovel5.jpg,Neon
+,Rainbow-Tools/tape1.jpg,No Result
+0.703314514,Rainbow-Tools/tape2.jpg,Light
+0.799816513,Rainbow-Tools/tape3.jpg,Heart
+0.516541367,Rainbow-Tools/tape3.jpg,Text
+0.937838593,Rainbow-Tools/tape4.jpg,Light
+0.937838593,Rainbow-Tools/tape4.jpg,Neon
+0.511546364,Rainbow-Tools/tape5.jpg,Electronics
+0.511546364,Rainbow-Tools/tape5.jpg,Headphones
+0.511546364,Rainbow-Tools/tape5.jpg,Headset
+0.910901642,Rainbow-Tools/wrench1.jpg,Night
+0.910901642,Rainbow-Tools/wrench1.jpg,Outdoors
+0.618422508,Rainbow-Tools/wrench1.jpg,Guitar
+0.618422508,Rainbow-Tools/wrench1.jpg,Leisure Activities
+0.618422508,Rainbow-Tools/wrench1.jpg,Music
+0.618422508,Rainbow-Tools/wrench1.jpg,Musical Instrument
+0.534207764,Rainbow-Tools/wrench1.jpg,Freeway
+0.534207764,Rainbow-Tools/wrench1.jpg,Highway
+0.534207764,Rainbow-Tools/wrench1.jpg,Road
+0.506786957,Rainbow-Tools/wrench1.jpg,Building
+0.506786957,Rainbow-Tools/wrench1.jpg,City
+0.506786957,Rainbow-Tools/wrench1.jpg,Town
+0.506786957,Rainbow-Tools/wrench1.jpg,Urban
+0.923055038,Rainbow-Tools/wrench2.jpg,Light
+0.923055038,Rainbow-Tools/wrench2.jpg,Neon
+0.923753967,Rainbow-Tools/wrench3.jpg,Light
+0.923753967,Rainbow-Tools/wrench3.jpg,Neon
+0.914129639,Rainbow-Tools/wrench4.jpg,Light
+0.914129639,Rainbow-Tools/wrench4.jpg,Neon
+0.54986412,Rainbow-Tools/wrench5.jpg,Horn
+0.54986412,Rainbow-Tools/wrench5.jpg,Leisure Activities
+0.54986412,Rainbow-Tools/wrench5.jpg,Music
+0.54986412,Rainbow-Tools/wrench5.jpg,Musical Instrument
+0.747470474,Roll-Tools/axe1.jpg,Axe
+,Roll-Tools/axe2.jpg,No Result
+,Roll-Tools/axe3.jpg,No Result
+0.572470055,Roll-Tools/axe4.jpg,Handle
+0.990864716,Roll-Tools/axe5.jpg,Handle
+0.982901688,Roll-Tools/flash1.jpg,Flashlight
+0.962534027,Roll-Tools/flash2.jpg,Flashlight
+0.94280899,Roll-Tools/flash3.jpg,Flashlight
+0.843219452,Roll-Tools/flash3.jpg,Credit Card
+0.843219452,Roll-Tools/flash3.jpg,Text
+0.686215591,Roll-Tools/flash3.jpg,Hand
+0.559679451,Roll-Tools/flash3.jpg,LED
+0.559679451,Roll-Tools/flash3.jpg,Lighting
+0.559679451,Roll-Tools/flash3.jpg,Spotlight
+0.506984634,Roll-Tools/flash3.jpg,Finger
+0.887922211,Roll-Tools/flash4.jpg,Pen
+,Roll-Tools/flash5.jpg,No Result
+,Roll-Tools/hammer1.jpg,No Result
+,Roll-Tools/hammer2.jpg,No Result
+,Roll-Tools/hammer3.jpg,No Result
+0.893993378,Roll-Tools/hammer4.jpg,Hammer
+0.893993378,Roll-Tools/hammer4.jpg,Mallet
+0.976130981,Roll-Tools/hammer5.jpg,Cork
+0.966681671,Roll-Tools/hammer5.jpg,Hammer
+0.966681671,Roll-Tools/hammer5.jpg,Mallet
+0.988910522,Roll-Tools/plier1.jpg,Pliers
+,Roll-Tools/plier2.jpg,No Result
+,Roll-Tools/plier3.jpg,No Result
+0.506392784,Roll-Tools/plier4.jpg,Clothing
+0.506392784,Roll-Tools/plier4.jpg,Lifejacket
+0.506392784,Roll-Tools/plier4.jpg,Vest
+,Roll-Tools/plier5.jpg,No Result
+0.94478569,Roll-Tools/saw1.jpg,Bait
+0.94478569,Roll-Tools/saw1.jpg,Fishing Lure
+0.54127121,Roll-Tools/saw1.jpg,Clothing
+0.54127121,Roll-Tools/saw1.jpg,Footwear
+0.54127121,Roll-Tools/saw1.jpg,Shoe
+0.505944672,Roll-Tools/saw2.jpg,Sunglasses
+0.627206802,Roll-Tools/saw3.jpg,Furniture
+0.523892097,Roll-Tools/saw3.jpg,Sideboard
+,Roll-Tools/saw4.jpg,No Result
+,Roll-Tools/saw5.jpg,No Result
+,Roll-Tools/scissor1.jpg,No Result
+0.953134995,Roll-Tools/scissor2.jpg,Scissors
+,Roll-Tools/scissor3.jpg,No Result
+,Roll-Tools/scissor4.jpg,No Result
+0.942948608,Roll-Tools/scissor5.jpg,Scissors
+,Roll-Tools/screw1.jpg,No Result
+0.991842117,Roll-Tools/screw2.jpg,Screwdriver
+0.987904358,Roll-Tools/screw3.jpg,Screwdriver
+,Roll-Tools/screw4.jpg,No Result
+0.993052368,Roll-Tools/screw5.jpg,Screwdriver
+,Roll-Tools/shovel1.jpg,No Result
+,Roll-Tools/shovel2.jpg,No Result
+0.77436821,Roll-Tools/shovel3.jpg,Shovel
+0.956159439,Roll-Tools/shovel4.jpg,Shovel
+,Roll-Tools/shovel5.jpg,No Result
+0.700673904,Roll-Tools/tape1.jpg,Clothing
+0.700673904,Roll-Tools/tape1.jpg,Hardhat
+0.700673904,Roll-Tools/tape1.jpg,Helmet
+0.567619324,Roll-Tools/tape1.jpg,Lifejacket
+0.567619324,Roll-Tools/tape1.jpg,Vest
+0.553262596,Roll-Tools/tape1.jpg,Cap
+0.553262596,Roll-Tools/tape1.jpg,Hat
+0.512101593,Roll-Tools/tape1.jpg,Baseball Cap
+0.889653015,Roll-Tools/tape2.jpg,Clothing
+0.889653015,Roll-Tools/tape2.jpg,Hardhat
+0.889653015,Roll-Tools/tape2.jpg,Helmet
+0.572977829,Roll-Tools/tape2.jpg,Baseball Cap
+0.572977829,Roll-Tools/tape2.jpg,Cap
+0.572977829,Roll-Tools/tape2.jpg,Hat
+0.542739563,Roll-Tools/tape3.jpg,Ball
+0.542739563,Roll-Tools/tape3.jpg,Sphere
+0.956749649,Roll-Tools/tape4.jpg,Racket
+0.622479553,Roll-Tools/tape4.jpg,Ball
+0.622479553,Roll-Tools/tape4.jpg,Sphere
+0.537723885,Roll-Tools/tape4.jpg,Machine
+0.537723885,Roll-Tools/tape4.jpg,Motor
+0.510224113,Roll-Tools/tape4.jpg,Cap
+0.510224113,Roll-Tools/tape4.jpg,Clothing
+0.510224113,Roll-Tools/tape4.jpg,Hat
+0.658317795,Roll-Tools/tape5.jpg,Reel
+0.977401505,Roll-Tools/wrench1.jpg,Wrench
+0.959216461,Roll-Tools/wrench2.jpg,Wrench
+0.856350555,Roll-Tools/wrench3.jpg,Wrench
+0.953967819,Roll-Tools/wrench4.jpg,Wrench
+0.986020737,Roll-Tools/wrench5.jpg,Wrench
+0.781825027,Rotation/axe1.jpg,Axe
+0.984912262,Rotation/axe2.jpg,Axe
+,Rotation/axe3.jpg,No Result
+0.707475967,Rotation/axe4.jpg,Handle
+0.756056976,Rotation/axe5.jpg,Handle
+0.507646103,Rotation/axe5.jpg,Cap
+0.507646103,Rotation/axe5.jpg,Clothing
+0.507646103,Rotation/axe5.jpg,Hat
+0.992700958,Rotation/flash1.jpg,Flashlight
+0.988663025,Rotation/flash2.jpg,Flashlight
+0.560643082,Rotation/flash3.jpg,Computer
+0.560643082,Rotation/flash3.jpg,Electronics
+0.560643082,Rotation/flash3.jpg,Tablet Computer
+0.506791878,Rotation/flash3.jpg,File Binder
+0.506791878,Rotation/flash3.jpg,File Folder
+0.960098267,Rotation/flash4.jpg,Flashlight
+0.992680359,Rotation/flash5.jpg,Flashlight
+,Rotation/hammer1.jpg,No Result
+,Rotation/hammer2.jpg,No Result
+0.708457184,Rotation/hammer3.jpg,Ankle
+0.510374718,Rotation/hammer3.jpg,Clothing
+0.510374718,Rotation/hammer3.jpg,Footwear
+0.505091438,Rotation/hammer3.jpg,Lifejacket
+0.505091438,Rotation/hammer3.jpg,Vest
+0.864693604,Rotation/hammer4.jpg,Hammer
+0.864693604,Rotation/hammer4.jpg,Mallet
+0.971824722,Rotation/hammer5.jpg,Hammer
+0.971824722,Rotation/hammer5.jpg,Mallet
+0.988587112,Rotation/plier1.jpg,Pliers
+,Rotation/plier2.jpg,No Result
+,Rotation/plier3.jpg,No Result
+0.59810112,Rotation/plier4.jpg,Hacksaw
+0.59810112,Rotation/plier4.jpg,Handsaw
+0.59810112,Rotation/plier4.jpg,Pruner
+0.605601234,Rotation/plier5.jpg,Finger
+0.511211624,Rotation/saw1.jpg,Dish
+0.511211624,Rotation/saw1.jpg,Food
+0.511211624,Rotation/saw1.jpg,Meal
+0.511211624,Rotation/saw1.jpg,Plate
+,Rotation/saw2.jpg,No Result
+0.569224701,Rotation/saw3.jpg,Envelope
+0.569224701,Rotation/saw3.jpg,Mail
+0.508114891,Rotation/saw4.jpg,Sunglasses
+0.506041107,Rotation/saw4.jpg,Glasses
+0.564999046,Rotation/saw5.jpg,Envelope
+0.564999046,Rotation/saw5.jpg,Mail
+0.506131897,Rotation/saw5.jpg,File Binder
+0.506131897,Rotation/saw5.jpg,File Folder
+,Rotation/scissor1.jpg,No Result
+,Rotation/scissor2.jpg,No Result
+0.553792076,Rotation/scissor3.jpg,Scissors
+0.869132004,Rotation/scissor4.jpg,Scissors
+,Rotation/scissor5.jpg,No Result
+0.903803406,Rotation/screw1.jpg,Screwdriver
+0.990301666,Rotation/screw2.jpg,Screwdriver
+0.98677803,Rotation/screw3.jpg,Screwdriver
+0.98833992,Rotation/screw4.jpg,Screwdriver
+0.993291245,Rotation/screw5.jpg,Screwdriver
+,Rotation/shovel1.jpg,No Result
+0.547745819,Rotation/shovel2.jpg,Triangle
+0.547745819,Rotation/shovel2.jpg,Wedge
+0.987014999,Rotation/shovel3.jpg,Shovel
+0.984399948,Rotation/shovel4.jpg,Shovel
+0.992711411,Rotation/shovel5.jpg,Shovel
+0.618412018,Rotation/shovel5.jpg,Trowel
+0.507856903,Rotation/tape1.jpg,Clothing
+0.507856903,Rotation/tape1.jpg,Lifejacket
+0.507856903,Rotation/tape1.jpg,Vest
+0.628010101,Rotation/tape2.jpg,Baseball Cap
+0.628010101,Rotation/tape2.jpg,Cap
+0.628010101,Rotation/tape2.jpg,Clothing
+0.628010101,Rotation/tape2.jpg,Hat
+0.747262344,Rotation/tape3.jpg,Ball
+0.747262344,Rotation/tape3.jpg,Sphere
+0.681657104,Rotation/tape3.jpg,Gauge
+0.559408722,Rotation/tape3.jpg,Dish
+0.559408722,Rotation/tape3.jpg,Food
+0.559408722,Rotation/tape3.jpg,Meal
+0.559408722,Rotation/tape3.jpg,Plate
+0.523198013,Rotation/tape3.jpg,Page
+0.523198013,Rotation/tape3.jpg,Text
+0.509768715,Rotation/tape3.jpg,Pottery
+0.509768715,Rotation/tape3.jpg,Saucer
+0.507430382,Rotation/tape3.jpg,Letter
+0.7450103,Rotation/tape4.jpg,Gauge
+0.657014999,Rotation/tape4.jpg,Compass
+0.506292953,Rotation/tape4.jpg,Badge
+0.506292953,Rotation/tape4.jpg,Emblem
+0.506292953,Rotation/tape4.jpg,Logo
+0.506292953,Rotation/tape4.jpg,Trademark
+,Rotation/tape5.jpg,No Result
+0.990467987,Rotation/wrench1.jpg,Wrench
+0.708493195,Rotation/wrench2.jpg,Wrench
+0.663898621,Rotation/wrench2.jpg,Hook
+,Rotation/wrench3.jpg,No Result
+,Rotation/wrench4.jpg,No Result
+,Rotation/wrench5.jpg,No Result
+0.975119553,Shear-Tools/axe1.jpg,Axe
+0.854828644,Shear-Tools/axe2.jpg,Axe
+,Shear-Tools/axe3.jpg,No Result
+0.571715431,Shear-Tools/axe4.jpg,Triangle
+0.571715431,Shear-Tools/axe4.jpg,Wedge
+,Shear-Tools/axe5.jpg,No Result
+0.987413177,Shear-Tools/flash1.jpg,Flashlight
+0.686512527,Shear-Tools/flash2.jpg,Flashlight
+0.730990753,Shear-Tools/flash3.jpg,Diary
+0.730990753,Shear-Tools/flash3.jpg,Text
+0.509342194,Shear-Tools/flash3.jpg,File Binder
+0.509342194,Shear-Tools/flash3.jpg,File Folder
+0.546940689,Shear-Tools/flash4.jpg,File Binder
+0.546940689,Shear-Tools/flash4.jpg,File Folder
+,Shear-Tools/flash5.jpg,No Result
+0.631363144,Shear-Tools/hammer1.jpg,Envelope
+0.631363144,Shear-Tools/hammer1.jpg,Mail
+0.952142715,Shear-Tools/hammer2.jpg,Blade
+0.952142715,Shear-Tools/hammer2.jpg,Knife
+0.952142715,Shear-Tools/hammer2.jpg,Weapon
+0.568641739,Shear-Tools/hammer3.jpg,Badge
+0.568641739,Shear-Tools/hammer3.jpg,Emblem
+0.568641739,Shear-Tools/hammer3.jpg,Logo
+0.568641739,Shear-Tools/hammer3.jpg,Trademark
+,Shear-Tools/hammer4.jpg,No Result
+,Shear-Tools/hammer5.jpg,No Result
+,Shear-Tools/plier1.jpg,No Result
+,Shear-Tools/plier2.jpg,No Result
+0.703067627,Shear-Tools/plier3.jpg,Star Symbol
+0.522566299,Shear-Tools/plier4.jpg,File Binder
+0.522566299,Shear-Tools/plier4.jpg,File Folder
+0.614022865,Shear-Tools/plier5.jpg,Finger
+0.528012505,Shear-Tools/plier5.jpg,File Binder
+0.528012505,Shear-Tools/plier5.jpg,File Folder
+0.886914902,Shear-Tools/saw1.jpg,Envelope
+0.886914902,Shear-Tools/saw1.jpg,Mail
+0.749682159,Shear-Tools/saw2.jpg,Envelope
+0.749682159,Shear-Tools/saw2.jpg,Mail
+0.560219994,Shear-Tools/saw3.jpg,Art
+0.560219994,Shear-Tools/saw3.jpg,Origami
+0.560219994,Shear-Tools/saw3.jpg,Paper
+0.505640869,Shear-Tools/saw4.jpg,Glasses
+0.837407684,Shear-Tools/saw5.jpg,Business Card
+0.837407684,Shear-Tools/saw5.jpg,Paper
+0.837407684,Shear-Tools/saw5.jpg,Text
+0.520625877,Shear-Tools/saw5.jpg,Envelope
+0.520625877,Shear-Tools/saw5.jpg,Mail
+,Shear-Tools/scissor1.jpg,No Result
+,Shear-Tools/scissor2.jpg,No Result
+0.511666183,Shear-Tools/scissor3.jpg,Emblem
+0.672710037,Shear-Tools/scissor4.jpg,Logo
+0.672710037,Shear-Tools/scissor4.jpg,Trademark
+0.516772079,Shear-Tools/scissor4.jpg,Emblem
+0.614447479,Shear-Tools/scissor5.jpg,Triangle
+0.544857788,Shear-Tools/screw1.jpg,Envelope
+0.544857788,Shear-Tools/screw1.jpg,Mail
+,Shear-Tools/screw2.jpg,No Result
+0.530774422,Shear-Tools/screw3.jpg,Envelope
+0.530774422,Shear-Tools/screw3.jpg,Mail
+,Shear-Tools/screw4.jpg,No Result
+0.840314484,Shear-Tools/screw5.jpg,Screwdriver
+0.55866993,Shear-Tools/shovel1.jpg,Tripod
+0.91603157,Shear-Tools/shovel2.jpg,Envelope
+0.91603157,Shear-Tools/shovel2.jpg,Mail
+0.531257401,Shear-Tools/shovel2.jpg,Diamond
+0.531257401,Shear-Tools/shovel2.jpg,Gemstone
+0.531257401,Shear-Tools/shovel2.jpg,Jewelry
+0.531257401,Shear-Tools/shovel2.jpg,Ornament
+0.758878098,Shear-Tools/shovel3.jpg,Shovel
+,Shear-Tools/shovel4.jpg,No Result
+,Shear-Tools/shovel5.jpg,No Result
+0.604558601,Shear-Tools/tape1.jpg,Badge
+0.604558601,Shear-Tools/tape1.jpg,Emblem
+0.604558601,Shear-Tools/tape1.jpg,Logo
+0.604558601,Shear-Tools/tape1.jpg,Trademark
+0.505316505,Shear-Tools/tape1.jpg,Art
+0.638712006,Shear-Tools/tape2.jpg,Logo
+0.638712006,Shear-Tools/tape2.jpg,Trademark
+0.531230316,Shear-Tools/tape2.jpg,Baseball Cap
+0.531230316,Shear-Tools/tape2.jpg,Cap
+0.531230316,Shear-Tools/tape2.jpg,Clothing
+0.531230316,Shear-Tools/tape2.jpg,Hat
+0.718684082,Shear-Tools/tape3.jpg,Ball
+0.718684082,Shear-Tools/tape3.jpg,Sphere
+0.604919968,Shear-Tools/tape3.jpg,Envelope
+0.604919968,Shear-Tools/tape3.jpg,Mail
+0.524978294,Shear-Tools/tape3.jpg,Dish
+0.524978294,Shear-Tools/tape3.jpg,Food
+0.524978294,Shear-Tools/tape3.jpg,Meal
+0.524978294,Shear-Tools/tape3.jpg,Plate
+0.829261932,Shear-Tools/tape4.jpg,Gauge
+0.508557396,Shear-Tools/tape4.jpg,Label
+0.508557396,Shear-Tools/tape4.jpg,Text
+0.507451363,Shear-Tools/tape4.jpg,Stopwatch
+0.507451363,Shear-Tools/tape4.jpg,Wristwatch
+0.510919647,Shear-Tools/tape5.jpg,Envelope
+0.510919647,Shear-Tools/tape5.jpg,Greeting Card
+0.510919647,Shear-Tools/tape5.jpg,Mail
+,Shear-Tools/wrench1.jpg,No Result
+0.983490906,Shear-Tools/wrench2.jpg,Triangle
+0.710728607,Shear-Tools/wrench3.jpg,Envelope
+0.710728607,Shear-Tools/wrench3.jpg,Mail
+0.917274246,Shear-Tools/wrench4.jpg,Envelope
+0.917274246,Shear-Tools/wrench4.jpg,Mail
+0.712316132,Shear-Tools/wrench4.jpg,Triangle
+0.735814743,Shear-Tools/wrench5.jpg,Envelope
+0.735814743,Shear-Tools/wrench5.jpg,Mail
+0.549959908,Shear-Tools/wrench5.jpg,Triangle
+,Sketch-Tools/axe1.jpg,No Result
+,Sketch-Tools/axe2.jpg,No Result
+0.990263824,Sketch-Tools/axe3.jpg,Art
+0.990263824,Sketch-Tools/axe3.jpg,Drawing
+0.990263824,Sketch-Tools/axe3.jpg,Sketch
+,Sketch-Tools/axe4.jpg,No Result
+0.780240021,Sketch-Tools/axe5.jpg,Axe
+0.505268402,Sketch-Tools/axe5.jpg,Clothing
+0.505268402,Sketch-Tools/axe5.jpg,Dress Shirt
+0.505268402,Sketch-Tools/axe5.jpg,Shirt
+,Sketch-Tools/flash1.jpg,No Result
+0.889675293,Sketch-Tools/flash2.jpg,Brush
+0.555431023,Sketch-Tools/flash3.jpg,Art
+0.555431023,Sketch-Tools/flash3.jpg,Drawing
+0.5066362,Sketch-Tools/flash3.jpg,Text
+,Sketch-Tools/flash4.jpg,No Result
+0.542854385,Sketch-Tools/flash5.jpg,Clothing
+0.542854385,Sketch-Tools/flash5.jpg,Hat
+0.542854385,Sketch-Tools/flash5.jpg,Sun Hat
+0.518923225,Sketch-Tools/flash5.jpg,Accessories
+0.513380394,Sketch-Tools/flash5.jpg,Cap
+,Sketch-Tools/hammer1.jpg,No Result
+0.683388519,Sketch-Tools/hammer2.jpg,Art
+0.683388519,Sketch-Tools/hammer2.jpg,Drawing
+0.527535095,Sketch-Tools/hammer3.jpg,Clothing
+0.527535095,Sketch-Tools/hammer3.jpg,Jersey
+0.527535095,Sketch-Tools/hammer3.jpg,Shirt
+0.527535095,Sketch-Tools/hammer3.jpg,T-Shirt
+,Sketch-Tools/hammer4.jpg,No Result
+,Sketch-Tools/hammer5.jpg,No Result
+0.544825478,Sketch-Tools/plier1.jpg,Belt
+,Sketch-Tools/plier2.jpg,No Result
+,Sketch-Tools/plier3.jpg,No Result
+0.612952461,Sketch-Tools/plier4.jpg,Clothing
+0.612952461,Sketch-Tools/plier4.jpg,Pants
+0.612952461,Sketch-Tools/plier4.jpg,Tights
+0.536955757,Sketch-Tools/plier4.jpg,Beanie
+0.536955757,Sketch-Tools/plier4.jpg,Cap
+0.536955757,Sketch-Tools/plier4.jpg,Hat
+,Sketch-Tools/plier5.jpg,No Result
+,Sketch-Tools/saw1.jpg,No Result
+0.508637238,Sketch-Tools/saw2.jpg,Sunglasses
+0.546619492,Sketch-Tools/saw3.jpg,Art
+0.546619492,Sketch-Tools/saw3.jpg,Drawing
+,Sketch-Tools/saw4.jpg,No Result
+0.512194023,Sketch-Tools/saw5.jpg,Triangle
+0.512194023,Sketch-Tools/saw5.jpg,Wedge
+0.508865662,Sketch-Tools/saw5.jpg,Page
+0.508865662,Sketch-Tools/saw5.jpg,Text
+,Sketch-Tools/scissor1.jpg,No Result
+0.564716454,Sketch-Tools/scissor2.jpg,Jewelry
+0.564716454,Sketch-Tools/scissor2.jpg,Ornament
+0.572660332,Sketch-Tools/scissor3.jpg,Glasses
+,Sketch-Tools/scissor4.jpg,No Result
+,Sketch-Tools/scissor5.jpg,No Result
+0.535218582,Sketch-Tools/screw1.jpg,Jewelry
+0.535218582,Sketch-Tools/screw1.jpg,Necklace
+0.535218582,Sketch-Tools/screw1.jpg,Ornament
+0.514008446,Sketch-Tools/screw1.jpg,Accessories
+0.958145828,Sketch-Tools/screw2.jpg,Brush
+0.552821503,Sketch-Tools/screw3.jpg,Brush
+,Sketch-Tools/screw4.jpg,No Result
+,Sketch-Tools/screw5.jpg,No Result
+,Sketch-Tools/shovel1.jpg,No Result
+,Sketch-Tools/shovel2.jpg,No Result
+0.833930054,Sketch-Tools/shovel3.jpg,Jewelry
+0.833930054,Sketch-Tools/shovel3.jpg,Necklace
+0.833930054,Sketch-Tools/shovel3.jpg,Ornament
+0.603752022,Sketch-Tools/shovel3.jpg,Diagram
+0.598129616,Sketch-Tools/shovel3.jpg,Pendant
+,Sketch-Tools/shovel4.jpg,No Result
+0.735319977,Sketch-Tools/shovel5.jpg,Jewelry
+0.735319977,Sketch-Tools/shovel5.jpg,Necklace
+0.735319977,Sketch-Tools/shovel5.jpg,Ornament
+0.726635742,Sketch-Tools/shovel5.jpg,Pendant
+0.509490356,Sketch-Tools/shovel5.jpg,Earring
+0.505722275,Sketch-Tools/shovel5.jpg,Bling
+0.50500412,Sketch-Tools/shovel5.jpg,Accessories
+0.567993927,Sketch-Tools/tape1.jpg,Cap
+0.567993927,Sketch-Tools/tape1.jpg,Clothing
+0.567993927,Sketch-Tools/tape1.jpg,Hat
+0.520943146,Sketch-Tools/tape1.jpg,Sun Hat
+0.512414818,Sketch-Tools/tape1.jpg,Baseball Cap
+0.572096405,Sketch-Tools/tape2.jpg,Cap
+0.572096405,Sketch-Tools/tape2.jpg,Clothing
+0.572096405,Sketch-Tools/tape2.jpg,Hat
+0.55978405,Sketch-Tools/tape2.jpg,Sun Hat
+0.506832733,Sketch-Tools/tape2.jpg,Letter
+0.506832733,Sketch-Tools/tape2.jpg,Text
+0.51630722,Sketch-Tools/tape3.jpg,Letter
+0.51630722,Sketch-Tools/tape3.jpg,Text
+0.689143448,Sketch-Tools/tape4.jpg,Art
+0.689143448,Sketch-Tools/tape4.jpg,Drawing
+0.538874435,Sketch-Tools/tape4.jpg,Bling
+0.538874435,Sketch-Tools/tape4.jpg,Jewelry
+0.538874435,Sketch-Tools/tape4.jpg,Ornament
+0.523414536,Sketch-Tools/tape4.jpg,Clothing
+0.523414536,Sketch-Tools/tape4.jpg,Hat
+0.523414536,Sketch-Tools/tape4.jpg,Sun Hat
+0.512674789,Sketch-Tools/tape4.jpg,Cap
+,Sketch-Tools/tape5.jpg,No Result
+,Sketch-Tools/wrench1.jpg,No Result
+,Sketch-Tools/wrench2.jpg,No Result
+,Sketch-Tools/wrench3.jpg,No Result
+0.515842514,Sketch-Tools/wrench4.jpg,Letter
+0.515842514,Sketch-Tools/wrench4.jpg,Text
+,Sketch-Tools/wrench5.jpg,No Result
+0.978597031,Splice/axe1.jpg,Axe
+0.517130127,Splice/axe1.jpg,Letter
+0.517130127,Splice/axe1.jpg,Text
+0.742719193,Splice/axe2.jpg,Axe
+0.509715157,Splice/axe2.jpg,Text
+0.690209732,Splice/axe3.jpg,Blade
+0.690209732,Splice/axe3.jpg,Dagger
+0.690209732,Splice/axe3.jpg,Knife
+0.690209732,Splice/axe3.jpg,Weapon
+0.513351555,Splice/axe3.jpg,Face
+0.513351555,Splice/axe3.jpg,Human
+0.513351555,Splice/axe3.jpg,Person
+0.507607536,Splice/axe4.jpg,Animal
+0.507607536,Splice/axe4.jpg,Bird
+0.507607536,Splice/axe4.jpg,Kite Bird
+0.898910446,Splice/axe5.jpg,Crucifix
+0.898910446,Splice/axe5.jpg,Emblem
+0.99319397,Splice/flash1.jpg,Flashlight
+0.545743065,Splice/flash1.jpg,Cylinder
+0.524333305,Splice/flash1.jpg,Crucifix
+0.524333305,Splice/flash1.jpg,Emblem
+0.511130257,Splice/flash1.jpg,Axle
+0.511130257,Splice/flash1.jpg,Coil
+0.511130257,Splice/flash1.jpg,Rotor
+0.511130257,Splice/flash1.jpg,Spiral
+0.511130257,Splice/flash1.jpg,Spoke
+0.507161674,Splice/flash1.jpg,Architecture
+0.507161674,Splice/flash1.jpg,Building
+0.507161674,Splice/flash1.jpg,Spire
+0.507161674,Splice/flash1.jpg,Steeple
+0.507172699,Splice/flash1.jpg,Text
+0.507161674,Splice/flash1.jpg,Tower
+,Splice/flash2.jpg,No Result
+0.627357254,Splice/flash3.jpg,Hand
+0.568180923,Splice/flash3.jpg,Window
+0.530894699,Splice/flash3.jpg,Emblem
+0.530894699,Splice/flash3.jpg,Flag
+0.529239769,Splice/flash3.jpg,Architecture
+0.529239769,Splice/flash3.jpg,Building
+0.521227646,Splice/flash3.jpg,Text
+0.515014038,Splice/flash3.jpg,Face
+0.515014038,Splice/flash3.jpg,Human
+0.515014038,Splice/flash3.jpg,Person
+0.509108429,Splice/flash3.jpg,Screen
+0.506384544,Splice/flash3.jpg,Page
+0.506262283,Splice/flash3.jpg,Furniture
+0.724894028,Splice/flash4.jpg,Freeway
+0.724894028,Splice/flash4.jpg,Overpass
+0.724894028,Splice/flash4.jpg,Road
+0.506795044,Splice/flash4.jpg,Text
+0.658855057,Splice/flash5.jpg,Belt
+0.607669907,Splice/flash5.jpg,Microphone
+0.551048355,Splice/flash5.jpg,Camera
+0.551048355,Splice/flash5.jpg,Electronics
+0.551048355,Splice/flash5.jpg,Video Camera
+0.544448738,Splice/flash5.jpg,Architecture
+0.544448738,Splice/flash5.jpg,Building
+0.527583656,Splice/flash5.jpg,City
+0.527583656,Splice/flash5.jpg,High Rise
+0.527583656,Splice/flash5.jpg,Skyscraper
+0.527583656,Splice/flash5.jpg,Town
+0.527583656,Splice/flash5.jpg,Urban
+0.520797844,Splice/flash5.jpg,Downtown
+0.506092606,Splice/flash5.jpg,Office Building
+0.974735489,Splice/hammer1.jpg,Seesaw
+0.974735489,Splice/hammer1.jpg,Toy
+0.523695717,Splice/hammer1.jpg,Pencil
+0.519799042,Splice/hammer1.jpg,Text
+0.621450653,Splice/hammer2.jpg,Road Sign
+0.621450653,Splice/hammer2.jpg,Sign
+0.621450653,Splice/hammer2.jpg,Street Sign
+0.617333603,Splice/hammer2.jpg,Banister
+0.617333603,Splice/hammer2.jpg,Handrail
+0.534296646,Splice/hammer2.jpg,LED
+0.534296646,Splice/hammer2.jpg,Lighting
+0.534296646,Splice/hammer2.jpg,Spotlight
+0.517462311,Splice/hammer2.jpg,Freeway
+0.517462311,Splice/hammer2.jpg,Road
+0.870150604,Splice/hammer3.jpg,Clamp
+0.571611328,Splice/hammer3.jpg,LED
+0.571611328,Splice/hammer3.jpg,Lighting
+0.571611328,Splice/hammer3.jpg,Spotlight
+0.524960289,Splice/hammer3.jpg,Clothing
+0.524960289,Splice/hammer3.jpg,Footwear
+0.523793335,Splice/hammer3.jpg,Weapon
+0.556611252,Splice/hammer4.jpg,Text
+0.509810104,Splice/hammer4.jpg,Label
+0.847681274,Splice/hammer5.jpg,Hammer
+0.847681274,Splice/hammer5.jpg,Mallet
+0.830541077,Splice/hammer5.jpg,Cork
+0.604299202,Splice/hammer5.jpg,Furniture
+0.604299202,Splice/hammer5.jpg,Table
+0.529975777,Splice/hammer5.jpg,Text
+0.526325836,Splice/hammer5.jpg,Finger
+0.508790131,Splice/hammer5.jpg,Page
+,Splice/plier1.jpg,No Result
+0.615153008,Splice/plier2.jpg,Tap
+0.517775612,Splice/plier2.jpg,Text
+0.514947472,Splice/plier2.jpg,Exercise
+0.514947472,Splice/plier2.jpg,Sport
+0.514947472,Splice/plier2.jpg,Sports
+0.514947472,Splice/plier2.jpg,Working Out
+0.532035599,Splice/plier3.jpg,Aircraft
+0.532035599,Splice/plier3.jpg,Airplane
+0.532035599,Splice/plier3.jpg,Bomber
+0.532035599,Splice/plier3.jpg,Transportation
+0.532035599,Splice/plier3.jpg,Warplane
+0.519614296,Splice/plier3.jpg,Jet
+0.545626526,Splice/plier4.jpg,Text
+0.531813393,Splice/plier4.jpg,Outdoors
+0.531813393,Splice/plier4.jpg,Snow
+0.531813393,Splice/plier4.jpg,Snowboarding
+0.531813393,Splice/plier4.jpg,Sport
+0.531813393,Splice/plier4.jpg,Sports
+0.509717598,Splice/plier4.jpg,Label
+0.679862595,Splice/plier5.jpg,Silhouette
+0.520155563,Splice/plier5.jpg,Text
+0.506044083,Splice/plier5.jpg,Clothing
+0.506044083,Splice/plier5.jpg,Lifejacket
+0.506044083,Splice/plier5.jpg,Vest
+0.50565918,Splice/plier5.jpg,Banner
+0.633047638,Splice/saw1.jpg,Calligraphy
+0.633047638,Splice/saw1.jpg,Handwriting
+0.633047638,Splice/saw1.jpg,Text
+0.556332092,Splice/saw1.jpg,Emblem
+0.556332092,Splice/saw1.jpg,Flag
+0.537046089,Splice/saw1.jpg,Banner
+0.510285568,Splice/saw1.jpg,Page
+0.699981613,Splice/saw2.jpg,Road Sign
+0.699981613,Splice/saw2.jpg,Sign
+0.699981613,Splice/saw2.jpg,Street Sign
+0.544475784,Splice/saw2.jpg,Text
+0.540811539,Splice/saw2.jpg,Architecture
+0.540811539,Splice/saw2.jpg,Building
+0.540811539,Splice/saw2.jpg,Column
+0.540811539,Splice/saw2.jpg,Monument
+0.540811539,Splice/saw2.jpg,Obelisk
+0.540811539,Splice/saw2.jpg,Pillar
+0.886147232,Splice/saw3.jpg,Projection Screen
+0.886147232,Splice/saw3.jpg,Screen
+0.884807892,Splice/saw3.jpg,Sink
+0.647549057,Splice/saw3.jpg,Coffee Table
+0.647549057,Splice/saw3.jpg,Furniture
+0.647549057,Splice/saw3.jpg,Table
+0.508056107,Splice/saw3.jpg,Dining Table
+0.51363678,Splice/saw4.jpg,Text
+0.788336182,Splice/saw5.jpg,Business Card
+0.788336182,Splice/saw5.jpg,Paper
+0.788336182,Splice/saw5.jpg,Text
+0.623434906,Splice/saw5.jpg,Emblem
+0.623434906,Splice/saw5.jpg,Flag
+0.520249023,Splice/saw5.jpg,Page
+0.514815865,Splice/saw5.jpg,Envelope
+0.514815865,Splice/saw5.jpg,Greeting Card
+0.514815865,Splice/saw5.jpg,Mail
+0.506721306,Splice/saw5.jpg,Label
+,Splice/scissor1.jpg,No Result
+0.762901611,Splice/scissor2.jpg,Collage
+0.762901611,Splice/scissor2.jpg,Poster
+0.512706413,Splice/scissor2.jpg,Text
+0.506400337,Splice/scissor2.jpg,Emblem
+0.515790405,Splice/scissor3.jpg,Glasses
+0.510727959,Splice/scissor3.jpg,Emblem
+0.50710743,Splice/scissor3.jpg,Text
+0.522293549,Splice/scissor4.jpg,Text
+0.506078606,Splice/scissor4.jpg,Label
+0.676610641,Splice/scissor5.jpg,Architecture
+0.676610641,Splice/scissor5.jpg,Building
+0.676610641,Splice/scissor5.jpg,Column
+0.676610641,Splice/scissor5.jpg,Monument
+0.676610641,Splice/scissor5.jpg,Obelisk
+0.676610641,Splice/scissor5.jpg,Pillar
+0.557845459,Splice/scissor5.jpg,Text
+0.511346741,Splice/scissor5.jpg,Glasses
+0.510470085,Splice/scissor5.jpg,Page
+0.507122879,Splice/scissor5.jpg,Emblem
+0.507122879,Splice/scissor5.jpg,Flag
+0.595056,Splice/screw1.jpg,Text
+0.892452774,Splice/screw2.jpg,Screwdriver
+0.539564972,Splice/screw2.jpg,Text
+0.986394348,Splice/screw3.jpg,Seesaw
+0.986394348,Splice/screw3.jpg,Toy
+0.763245392,Splice/screw3.jpg,Road Sign
+0.763245392,Splice/screw3.jpg,Sign
+0.763245392,Splice/screw3.jpg,Street Sign
+0.522820587,Splice/screw3.jpg,Text
+0.517211609,Splice/screw4.jpg,Text
+0.510780525,Splice/screw4.jpg,Diagram
+0.510780525,Splice/screw4.jpg,Plan
+0.564154854,Splice/screw5.jpg,Silhouette
+0.561740112,Splice/screw5.jpg,Construction
+0.551553955,Splice/screw5.jpg,Text
+0.56777317,Splice/shovel1.jpg,Cross
+0.56777317,Splice/shovel1.jpg,Emblem
+0.532383194,Splice/shovel1.jpg,Text
+0.509373856,Splice/shovel1.jpg,Kicking
+0.576420441,Splice/shovel2.jpg,Darts
+0.576420441,Splice/shovel2.jpg,Game
+0.576013031,Splice/shovel2.jpg,Text
+0.507007904,Splice/shovel2.jpg,Page
+0.931979218,Splice/shovel3.jpg,Shovel
+0.575780945,Splice/shovel3.jpg,Cross
+0.575780945,Splice/shovel3.jpg,Emblem
+0.521450386,Splice/shovel3.jpg,Text
+0.510578346,Splice/shovel3.jpg,Clothing
+0.510578346,Splice/shovel3.jpg,Jersey
+0.510578346,Splice/shovel3.jpg,Shirt
+0.510578346,Splice/shovel3.jpg,T-Shirt
+0.584388542,Splice/shovel4.jpg,Silhouette
+0.516974373,Splice/shovel4.jpg,Screen
+0.920561829,Splice/shovel5.jpg,Shovel
+0.590474358,Splice/shovel5.jpg,Hand
+0.510634727,Splice/shovel5.jpg,Text
+0.561507149,Splice/tape1.jpg,Clothing
+0.561507149,Splice/tape1.jpg,Lifejacket
+0.561507149,Splice/tape1.jpg,Vest
+,Splice/tape2.jpg,No Result
+0.701427002,Splice/tape3.jpg,Road Sign
+0.701427002,Splice/tape3.jpg,Sign
+0.701427002,Splice/tape3.jpg,Street Sign
+0.534293098,Splice/tape3.jpg,Cross
+0.534293098,Splice/tape3.jpg,Emblem
+0.534284935,Splice/tape3.jpg,Label
+0.534284935,Splice/tape3.jpg,Text
+,Splice/tape4.jpg,No Result
+0.50721653,Splice/tape5.jpg,Text
+0.517004433,Splice/wrench1.jpg,Text
+0.515479317,Splice/wrench1.jpg,Ct Scan
+0.515479317,Splice/wrench1.jpg,X-Ray
+0.882200851,Splice/wrench2.jpg,Road Sign
+0.882200851,Splice/wrench2.jpg,Sign
+0.882200851,Splice/wrench2.jpg,Street Sign
+0.52137661,Splice/wrench2.jpg,Text
+0.973386078,Splice/wrench3.jpg,Road Sign
+0.973386078,Splice/wrench3.jpg,Sign
+0.973386078,Splice/wrench3.jpg,Street Sign
+0.58387722,Splice/wrench3.jpg,Text
+0.506122894,Splice/wrench3.jpg,Page
+0.896620636,Splice/wrench4.jpg,Road Sign
+0.896620636,Splice/wrench4.jpg,Sign
+0.896620636,Splice/wrench4.jpg,Street Sign
+0.881401291,Splice/wrench4.jpg,Seesaw
+0.881401291,Splice/wrench4.jpg,Toy
+0.714565964,Splice/wrench4.jpg,Crucifix
+0.714565964,Splice/wrench4.jpg,Emblem
+0.526563988,Splice/wrench4.jpg,Text
+0.690172501,Splice/wrench5.jpg,Text
+0.522906532,Splice/wrench5.jpg,Page
+0.925623474,Wave-Tools/axe1.jpg,Axe
+0.556126366,Wave-Tools/axe2.jpg,Sunglasses
+0.540569191,Wave-Tools/axe2.jpg,Glasses
+0.511961632,Wave-Tools/axe3.jpg,Clothing
+0.511961632,Wave-Tools/axe3.jpg,Footwear
+0.7543647,Wave-Tools/axe4.jpg,Clothing
+0.7543647,Wave-Tools/axe4.jpg,Footwear
+0.520984573,Wave-Tools/axe4.jpg,Triangle
+0.520984573,Wave-Tools/axe4.jpg,Wedge
+0.507944641,Wave-Tools/axe4.jpg,Architecture
+0.507944641,Wave-Tools/axe4.jpg,Building
+0.510185432,Wave-Tools/axe5.jpg,Sunglasses
+0.508861542,Wave-Tools/flash1.jpg,Triangle
+0.508861542,Wave-Tools/flash1.jpg,Wedge
+0.506081657,Wave-Tools/flash1.jpg,Clothing
+0.506081657,Wave-Tools/flash1.jpg,Footwear
+0.530854759,Wave-Tools/flash2.jpg,Hand
+0.988298874,Wave-Tools/flash3.jpg,Human
+0.988298645,Wave-Tools/flash3.jpg,People
+0.988298874,Wave-Tools/flash3.jpg,Person
+0.636309204,Wave-Tools/flash3.jpg,Hand
+0.51534481,Wave-Tools/flash3.jpg,Face
+0.509635277,Wave-Tools/flash3.jpg,Child
+0.509635277,Wave-Tools/flash3.jpg,Kid
+0.510605278,Wave-Tools/flash4.jpg,Hand
+0.581338654,Wave-Tools/flash5.jpg,Finger
+0.558021545,Wave-Tools/flash5.jpg,Money
+0.553924675,Wave-Tools/flash5.jpg,Clothing
+0.553924675,Wave-Tools/flash5.jpg,Footwear
+0.509739952,Wave-Tools/flash5.jpg,Ball
+0.509739952,Wave-Tools/flash5.jpg,Sphere
+0.539678764,Wave-Tools/hammer1.jpg,Sunglasses
+0.536068497,Wave-Tools/hammer2.jpg,Clothing
+0.536068497,Wave-Tools/hammer2.jpg,Footwear
+0.524516411,Wave-Tools/hammer2.jpg,Finger
+,Wave-Tools/hammer3.jpg,No Result
+,Wave-Tools/hammer4.jpg,No Result
+,Wave-Tools/hammer5.jpg,No Result
+0.695306396,Wave-Tools/plier1.jpg,Logo
+0.695306396,Wave-Tools/plier1.jpg,Trademark
+0.558802948,Wave-Tools/plier1.jpg,Cake
+0.558802948,Wave-Tools/plier1.jpg,Cream
+0.558802948,Wave-Tools/plier1.jpg,Creme
+0.558802948,Wave-Tools/plier1.jpg,Dessert
+0.558802948,Wave-Tools/plier1.jpg,Food
+0.558802948,Wave-Tools/plier1.jpg,Icing
+0.553607826,Wave-Tools/plier1.jpg,Emblem
+0.506280479,Wave-Tools/plier1.jpg,Sunglasses
+,Wave-Tools/plier2.jpg,No Result
+0.800759583,Wave-Tools/plier3.jpg,Brake
+,Wave-Tools/plier4.jpg,No Result
+0.585516205,Wave-Tools/plier5.jpg,Finger
+0.508825378,Wave-Tools/plier5.jpg,Triangle
+0.508825378,Wave-Tools/plier5.jpg,Wedge
+0.508318253,Wave-Tools/plier5.jpg,Clothing
+0.508318253,Wave-Tools/plier5.jpg,Footwear
+0.984798508,Wave-Tools/saw1.jpg,Human
+0.984797897,Wave-Tools/saw1.jpg,People
+0.984798508,Wave-Tools/saw1.jpg,Person
+0.553343048,Wave-Tools/saw2.jpg,Glasses
+0.53241642,Wave-Tools/saw2.jpg,Sunglasses
+0.737931671,Wave-Tools/saw3.jpg,Paper
+0.66287323,Wave-Tools/saw3.jpg,Art
+0.66287323,Wave-Tools/saw3.jpg,Modern Art
+0.548931007,Wave-Tools/saw3.jpg,Clothing
+0.548931007,Wave-Tools/saw3.jpg,Footwear
+0.511294479,Wave-Tools/saw3.jpg,Furniture
+0.688330688,Wave-Tools/saw4.jpg,Animal
+0.688330688,Wave-Tools/saw4.jpg,Reptile
+0.688330688,Wave-Tools/saw4.jpg,Snake
+0.512854385,Wave-Tools/saw5.jpg,Sunglasses
+,Wave-Tools/scissor1.jpg,No Result
+0.554121208,Wave-Tools/scissor2.jpg,Glasses
+0.516729698,Wave-Tools/scissor2.jpg,Sunglasses
+0.511263313,Wave-Tools/scissor2.jpg,Text
+0.520676498,Wave-Tools/scissor3.jpg,Text
+0.51016098,Wave-Tools/scissor3.jpg,Glasses
+0.506093979,Wave-Tools/scissor3.jpg,Hand
+0.625428276,Wave-Tools/scissor4.jpg,Glasses
+0.526289406,Wave-Tools/scissor4.jpg,Sunglasses
+0.521186104,Wave-Tools/scissor4.jpg,Hand
+0.507799263,Wave-Tools/scissor4.jpg,Text
+0.526428452,Wave-Tools/scissor5.jpg,Accessories
+0.512144279,Wave-Tools/screw1.jpg,Clothing
+0.512144279,Wave-Tools/screw1.jpg,Footwear
+0.506185646,Wave-Tools/screw1.jpg,Sunglasses
+0.515533447,Wave-Tools/screw2.jpg,Clothing
+0.515533447,Wave-Tools/screw2.jpg,Footwear
+0.506516571,Wave-Tools/screw2.jpg,Text
+0.506663094,Wave-Tools/screw3.jpg,Clothing
+0.506663094,Wave-Tools/screw3.jpg,Footwear
+0.585954018,Wave-Tools/screw4.jpg,Sunglasses
+0.505815582,Wave-Tools/screw4.jpg,Text
+,Wave-Tools/screw5.jpg,No Result
+,Wave-Tools/shovel1.jpg,No Result
+0.61025341,Wave-Tools/shovel2.jpg,Animal
+0.61025341,Wave-Tools/shovel2.jpg,Aries
+0.61025341,Wave-Tools/shovel2.jpg,Mammal
+0.61025341,Wave-Tools/shovel2.jpg,Sheep
+0.514849358,Wave-Tools/shovel2.jpg,Sunglasses
+0.513081665,Wave-Tools/shovel2.jpg,Glasses
+0.506271248,Wave-Tools/shovel3.jpg,Sunglasses
+,Wave-Tools/shovel4.jpg,No Result
+0.980209198,Wave-Tools/shovel5.jpg,Shovel
+0.505623169,Wave-Tools/shovel5.jpg,Sunglasses
+0.878572693,Wave-Tools/tape1.jpg,Guitar
+0.878572693,Wave-Tools/tape1.jpg,Leisure Activities
+0.878572693,Wave-Tools/tape1.jpg,Music
+0.878572693,Wave-Tools/tape1.jpg,Musical Instrument
+0.60587429,Wave-Tools/tape1.jpg,Clothing
+0.60587429,Wave-Tools/tape1.jpg,Footwear
+0.598334236,Wave-Tools/tape1.jpg,Finger
+0.506958199,Wave-Tools/tape1.jpg,Sunglasses
+0.506062012,Wave-Tools/tape1.jpg,Running Shoe
+0.506062012,Wave-Tools/tape1.jpg,Shoe
+0.722413864,Wave-Tools/tape2.jpg,Baseball Cap
+0.722413864,Wave-Tools/tape2.jpg,Cap
+0.722413864,Wave-Tools/tape2.jpg,Clothing
+0.722413864,Wave-Tools/tape2.jpg,Hat
+0.648393707,Wave-Tools/tape2.jpg,Footwear
+0.648393707,Wave-Tools/tape2.jpg,Running Shoe
+0.648393707,Wave-Tools/tape2.jpg,Shoe
+0.50876297,Wave-Tools/tape2.jpg,Sun Hat
+0.513569832,Wave-Tools/tape3.jpg,Clothing
+0.513569832,Wave-Tools/tape3.jpg,Footwear
+0.789687424,Wave-Tools/tape4.jpg,Golf
+0.789687424,Wave-Tools/tape4.jpg,Golf Club
+0.789687424,Wave-Tools/tape4.jpg,Human
+0.789687424,Wave-Tools/tape4.jpg,Person
+0.789687424,Wave-Tools/tape4.jpg,Putter
+0.789687424,Wave-Tools/tape4.jpg,Sport
+0.789687424,Wave-Tools/tape4.jpg,Sports
+0.737346573,Wave-Tools/tape4.jpg,Clothing
+0.737346573,Wave-Tools/tape4.jpg,Footwear
+0.647835007,Wave-Tools/tape4.jpg,Baseball Cap
+0.647835007,Wave-Tools/tape4.jpg,Cap
+0.647835007,Wave-Tools/tape4.jpg,Hat
+0.510410614,Wave-Tools/tape5.jpg,Glasses
+0.506026802,Wave-Tools/tape5.jpg,Sunglasses
+0.505323868,Wave-Tools/tape5.jpg,Clothing
+0.505323868,Wave-Tools/tape5.jpg,Lifejacket
+0.505323868,Wave-Tools/tape5.jpg,Vest
+,Wave-Tools/wrench1.jpg,No Result
+0.505649872,Wave-Tools/wrench2.jpg,Sunglasses
+0.507963066,Wave-Tools/wrench3.jpg,Hand
+0.505684509,Wave-Tools/wrench3.jpg,Text
+0.509717598,Wave-Tools/wrench4.jpg,Hand
+0.507708206,Wave-Tools/wrench4.jpg,Text
+0.538218727,Wave-Tools/wrench5.jpg,Glasses
+0.529628143,Wave-Tools/wrench5.jpg,Text
+0.514332008,Wave-Tools/wrench5.jpg,Sunglasses

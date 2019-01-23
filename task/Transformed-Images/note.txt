@@ -1,0 +1,2 @@
+Originally, the contents of the folder ..\imagery\Transformed-Images\ were in this  folder. The task script now looks in ..\imagery\ for them.
+

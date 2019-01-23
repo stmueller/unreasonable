@@ -1,0 +1,71 @@
+---
+title: "Analysis of inception classification results"
+author: "Shane T. Mueller shanem@mtu.edu"
+date: "Jan 2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RColorBrewer)
+library(readxl)
+palette(brewer.pal(8,"Dark2"))
+
+files <-paste("../Model_data/InceptionA/", c("txt-blur.txt",   
+                                "txt-masking.txt",
+"txt-bw.txt",         "txt-original.txt",
+"txt-charcol.txt",    "txt-rainbow.txt",
+"txt-resize.txt",
+"txt-edge.txt",       "txt-roll.txt",
+"txt-edge-white.txt",  "txt-rotation.txt",
+"txt-frame-Blue.txt",       "txt-sheer.txt",
+"txt-frame-leaves.txt",     "txt-sketch.txt",
+"txt-frame-nature.txt",     "txt-splice.txt",
+"txt-frame-wood.txt",       
+"txt-implode.txt",    "txt-wave.txt"),sep="")
+
+alldat <- NULL
+for(file in files)
+{
+  tmp <-  as.data.frame(read.table(file,sep=","))
+  tr1 <- strsplit(file,"/")[[1]][[2]] ##base filename
+  tr2 <- substr(tr1,5,nchar(tr1)-4) #base name
+  
+  tmp$transform <- tr2
+  
+  alldat <- rbind(alldat,tmp)
+}
+data <- alldat
+```
+
+##now, for each row, let's see if it made either the 'best' response, or an above-threshold response.
+
+
+
+
+```{r}
+corrects <-rep(c(rep(c(1,4,7,11,8,14,15,16,17,19),each=5)),20)
+
+data$highest <- apply(data[,2:21],1, which.max)
+
+data$bestanswer <- data$highest == corrects
+
+
+
+#data$baseimg <- as.factor(data$baseimg)
+data$acceptable <- as.numeric(data[cbind(1:1000,data$highest+1)]) > .3
+
+
+```
+
+Now, let's get a score for best-answering
+```{r}
+
+library(dplyr)
+
+##initialize; one row per img/transform
+scored <- select(data,transform=transform, bestanswer,acceptable)
+out <- scored %>% group_by(transform) %>% summarize(best=mean(bestanswer),acceptable=mean(acceptable))
+  
+  out
+```

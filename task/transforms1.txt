@@ -1,0 +1,6 @@
+../imagery/Transformed-Images/Original-Tools/
+../imagery/Transformed-Images/BW-Tools/
+../imagery/Transformed-Images/Charcol-Tools/
+../imagery/Transformed-Images/Edge-White-Tools/
+../imagery/Transformed-Images/Implode-Tools/
+../imagery/Transformed-Images/Resize/

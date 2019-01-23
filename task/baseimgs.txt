@@ -1,0 +1,10 @@
+axe
+flash
+hammer
+plier
+saw
+scissor
+screw
+shovel
+tape
+wrench

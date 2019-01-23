@@ -1,0 +1,114 @@
+---
+title: "IBM Watson classifier"
+author: "Shane T. Mueller shanem@mtu.edu"
+date: "September 28, 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(RColorBrewer)
+palette(brewer.pal(8,"Dark2"))
+data <- read.delim("../Model_data/IBM_SCORES.csv")
+
+##these are the acceptable correct answers
+answertable <- cbind(c("AXE","AXE",
+                       "FLASH","FLASH",
+                       "HAMMER",
+                       "PLIER","PLIER","PLIER",
+                       "SAW","SAW",
+                       "SCISSOR","SCISSOR","SCISSOR",
+                       "SCREW",
+                       "SHOVEL","SHOVEL",
+                       "TAPE","TAPE","TAPE",
+                       "WRENCH","WRENCH","ADJUSTABLE WRENCH"),
+                     c("AXE","AX",
+                       "FLASHLIGHT","TORCH",
+                       "HAMMER",
+                       "PLIER","PLIERS","PAIR OF PLIERS",
+                       "SAW","PRUNING SAW",
+                       "SCISSORS","PAIR OF SCISSORS","THINNING SHEARS",
+                       "SCREWDRIVER",
+                       "SHOVEL","HAND SHOVEL",
+                       "TAPE MEASURE","MEASURING TAPE","MEASURING INSTRUMENT",
+                       "WRENCH","SPANNER","ADJUSTABLE WRENCH"))
+
+upperCase <- function(letter){casefold(letter,upper=T)}
+
+data$transformation <- as.factor(sapply(data$Image_name,function(x){strsplit(as.character(x),"/")[[1]][[1]]}))
+
+data$baseimg <- (sapply(data$Image_name,function(x){upperCase(strsplit(as.character(x),"/")[[1]][[2]])}))
+data$bestanswer <- substr(data$baseimg,1,nchar(data$baseimg)-5)
+data$baseimg <- as.factor(data$baseimg)
+data$Name <- sapply(data$class,upperCase)
+
+##This determines whether each answer is in the table.
+for(i in 1:nrow(data))
+{
+  
+  ansrows <- which(answertable[,1]==data[i,]$bestanswer)
+  data$corr[i] <- is.element(data$Name[i], answertable[ansrows,2])
+   
+}
+
+```
+
+Now, let's get a score for best-answering
+```{r}
+##initialize; one row per img/transform
+scored <- aggregate(data$corr,list(baseimg=data$baseimg,transform=data$transformation),length)
+
+
+scored$bestanswer <- aggregate(data$bestanswer,list(baseimg=data$baseimg,transform=data$transformation),function(x){x[[1]]})$x
+scored$topresponse <- NA
+scored$best <- NA
+scored$any <- NA
+for(row in 1:nrow(scored))
+{
+  set <- scored[row,]$transform
+  img <- scored[row,]$baseimg
+  
+  tmp <- data[data$transformation==set & 
+             data$baseimg==img,]
+  #print(tmp)
+  
+  ##tmp might not be in order.
+  tmp <- tmp[order(-tmp$score),]
+  
+  
+    ##pick the best answer; a correct one if possible
+  highest.0 <- tmp[tmp$score==max(tmp$score),]
+  ##if there are more than one, pick the correct one if possible.
+  highest <-highest.0[which.max(highest.0$score+highest.0$corr),]
+  
+  
+  
+  scored$best[row] <- any(highest$corr)
+  scored$any[row] <-  any(tmp$corr)
+  
+  scored$topresponse[row] <- highest$Name[1]
+}
+  
+error.tab <- table(scored$bestanswer,
+      scored$topresponse
+      )
+
+response.tab <- table(data$bestanswer,data$Name)
+```
+
+```{r}
+for(i in 1:nrow(error.tab))
+{
+  print("-----------------------------")
+  print(row.names(error.tab)[i])
+ sorted <- sort(error.tab[i,][error.tab[i,]>0],decreasing=T)
+ print(sorted[sorted>0])
+}
+
+```
+Find score by transform:
+```{r}
+print(aggregate(cbind(scored$best,scored$any),list(scored$transform),mean))
+```
+
+

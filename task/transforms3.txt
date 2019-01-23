@@ -1,0 +1,8 @@
+../imagery/Transformed-Images/Original-Tools/
+../imagery/Transformed-Images/Rotation/
+../imagery/Transformed-Images/Sketch-Tools/
+../imagery/Transformed-Images/Frame-Leaves/
+../imagery/Transformed-Images/Frame-Nature/
+../imagery/Transformed-Images/Wave-Tools/
+../imagery/Transformed-Images/Rainbow-Tools/
+
